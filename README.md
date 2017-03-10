@@ -2,12 +2,9 @@
 | [English](README.md) | [Русский](README.ru.md) |
 
 ## Basic Concepts
+
   1. [Abstractions](https://github.com/HowProgrammingWorks/Abstractions) as an essence of programming and engenering at all
   2. Variables and data types, scalar and reference, objects, arrays and data structures
-  [//]: https://github.com/HowProgrammingWorks/DataTypes
-  [//]: https://github.com/HowProgrammingWorks/DataStructures
-  [//]: https://github.com/HowProgrammingWorks/String
-  [//]: https://github.com/HowProgrammingWorks/Set
   3. [Functions](https://github.com/HowProgrammingWorks/Function) including anonymous functions and lambdas
   4. Pure functions and side effects
   5. Superposition and [Composition](https://github.com/HowProgrammingWorks/Composition)
@@ -15,18 +12,24 @@
   7. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction) including callbacks and [closures](https://github.com/HowProgrammingWorks/Closure)
   8. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
   [//]: Generics
+  [//]: https://github.com/HowProgrammingWorks/DataTypes
+  [//]: https://github.com/HowProgrammingWorks/DataStructures
+  [//]: https://github.com/HowProgrammingWorks/String
+  [//]: https://github.com/HowProgrammingWorks/Set
 
 ## Related Topics
+
   1. [Development tools and environment configuration](https://github.com/HowProgrammingWorks/Tools)
   2. [Version control](https://github.com/HowProgrammingWorks/VersionControl) systems and working in groups
   3. [Code style](https://github.com/HowProgrammingWorks/CodeStyle) and conventions
   4. Code [benchmarking](https://github.com/HowProgrammingWorks/Benchmark)
 
 ## Data Structures
+
   1. [Linked lists](https://github.com/HowProgrammingWorks/LinkedList): singly, doubly, circular
   2. [Trees](https://github.com/HowProgrammingWorks/TreeNode): classification, implementation, traversion
-  [//]: https://github.com/HowProgrammingWorks/Collections
   3. Graphs including [directed](https://github.com/HowProgrammingWorks/DirectedGraph) graphs
+  [//]: https://github.com/HowProgrammingWorks/Collections
 
 ## Advanced Concepts
 
@@ -35,11 +38,11 @@
   3. [Mixins](https://github.com/HowProgrammingWorks/Mixin) as decorators and nonlinear inheritance
   4. Iterators and [generators](https://github.com/HowProgrammingWorks/Generator)
   5. [Asynchronous execution](https://github.com/HowProgrammingWorks/AsynchronousProgramming), I/O and parallelism
-  [//]: https://github.com/HowProgrammingWorks/Concurrency
   6. Events and [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
   7. [Promises](https://github.com/HowProgrammingWorks/Promise) and chaining
   8. [Serialization](https://github.com/HowProgrammingWorks/Serialization) and deserialization
   9. [Regular expressions](https://github.com/HowProgrammingWorks/RegExp)
+  [//]: https://github.com/HowProgrammingWorks/Concurrency
   [//]: https://github.com/HowProgrammingWorks/Proxy
   [//]: https://github.com/HowProgrammingWorks/Symbol
 
@@ -55,18 +58,18 @@
   8. Application Servers, thin and thic clients
   9. Introspection, Reflection and Scaffolding
 
-## Practical Examples:
+## Practical Examples
 
-  1. Roting for [HTTP Server](https://github.com/HowProgrammingWorks/NodeServer)
+  1. Routing for [HTTP Server](https://github.com/HowProgrammingWorks/NodeServer)
   2. [Websocket Chat](https://github.com/HowProgrammingWorks/WebsocketChat)
   3. Interactive multi-user [LiveTable](https://github.com/HowProgrammingWorks/LiveTable)
   4. Data [Projection](https://github.com/HowProgrammingWorks/Projection)
 
 ## Programming Paradigms and Techniques
 
-  1. Imperative, non-structured and structured and procedural programming
+  1. Imperative, non-structured, structured and procedural programming
   2. Functional programming
-  3. Logic and declarative and automata-based programming
+  3. Logic, declarative and automata-based programming
   4. Language-oriented programming and domain-specific languages
   5. Object-oriented and prototype-oriented programming
   6. Asynchronous, Reactive and [Event-driven programming](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
