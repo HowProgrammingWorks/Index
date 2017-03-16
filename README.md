@@ -11,11 +11,13 @@
   6. [Partial application](https://github.com/HowProgrammingWorks/PartialApplication), currying and [wrapping](https://github.com/HowProgrammingWorks/Wrapper) functions
   7. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction) including callbacks and [closures](https://github.com/HowProgrammingWorks/Closure)
   8. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
-  [//]: Generics
-  [//]: https://github.com/HowProgrammingWorks/DataTypes
-  [//]: https://github.com/HowProgrammingWorks/DataStructures
-  [//]: https://github.com/HowProgrammingWorks/String
-  [//]: https://github.com/HowProgrammingWorks/Set
+<!--
+Generics
+https://github.com/HowProgrammingWorks/DataTypes
+https://github.com/HowProgrammingWorks/DataStructures
+https://github.com/HowProgrammingWorks/String
+https://github.com/HowProgrammingWorks/Set
+-->
 
 ## Related Topics
 
@@ -29,7 +31,9 @@
   1. [Linked lists](https://github.com/HowProgrammingWorks/LinkedList): singly, doubly, circular
   2. [Trees](https://github.com/HowProgrammingWorks/TreeNode): classification, implementation, traversion
   3. Graphs including [directed](https://github.com/HowProgrammingWorks/DirectedGraph) graphs
-  [//]: https://github.com/HowProgrammingWorks/Collections
+<!--
+https://github.com/HowProgrammingWorks/Collections
+-->
 
 ## Advanced Concepts
 
@@ -42,9 +46,11 @@
   7. [Promises](https://github.com/HowProgrammingWorks/Promise) and chaining
   8. [Serialization](https://github.com/HowProgrammingWorks/Serialization) and deserialization
   9. [Regular expressions](https://github.com/HowProgrammingWorks/RegExp)
-  [//]: https://github.com/HowProgrammingWorks/Concurrency
-  [//]: https://github.com/HowProgrammingWorks/Proxy
-  [//]: https://github.com/HowProgrammingWorks/Symbol
+<!--
+https://github.com/HowProgrammingWorks/Concurrency
+https://github.com/HowProgrammingWorks/Proxy
+https://github.com/HowProgrammingWorks/Symbol
+-->
 
 ## Software Architecture
 

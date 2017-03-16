@@ -11,11 +11,13 @@
   6. [Частичное применение](https://github.com/HowProgrammingWorks/PartialApplication), каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
   7. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction) включая колбеки и [замыкания](https://github.com/HowProgrammingWorks/Closure)
   8. [Итерирование](https://github.com/HowProgrammingWorks/Iteration) и циклы
-  [//]: Generics
-  [//]: https://github.com/HowProgrammingWorks/DataTypes
-  [//]: https://github.com/HowProgrammingWorks/DataStructures
-  [//]: https://github.com/HowProgrammingWorks/String
-  [//]: https://github.com/HowProgrammingWorks/Set
+<!--
+Generics
+https://github.com/HowProgrammingWorks/DataTypes
+https://github.com/HowProgrammingWorks/DataStructures
+https://github.com/HowProgrammingWorks/String
+https://github.com/HowProgrammingWorks/Set
+-->
 
 ## Вспомогательные темы
 
@@ -29,7 +31,9 @@
   1. [Списки](https://github.com/HowProgrammingWorks/LinkedList): односвязные, двусвязный, кольцо
   2. [Деревья](https://github.com/HowProgrammingWorks/TreeNode): классификация, реализация, обход
   3. Графы включая [ориентированные](https://github.com/HowProgrammingWorks/DirectedGraph) графы
-  [//]: https://github.com/HowProgrammingWorks/Collections
+<!--
+https://github.com/HowProgrammingWorks/Collections
+-->
 
 ## Продвинутые темы
 
@@ -42,9 +46,11 @@
   7. [Promises](https://github.com/HowProgrammingWorks/Promise) и чеининг
   8. [Сериализация](https://github.com/HowProgrammingWorks/Serialization) и десериализация
   9. [Регулярные выражения](https://github.com/HowProgrammingWorks/RegExp)
-  [//]: https://github.com/HowProgrammingWorks/Concurrency
-  [//]: https://github.com/HowProgrammingWorks/Proxy
-  [//]: https://github.com/HowProgrammingWorks/Symbol
+<!--
+https://github.com/HowProgrammingWorks/Concurrency
+https://github.com/HowProgrammingWorks/Proxy
+https://github.com/HowProgrammingWorks/Symbol
+-->
 
 ## Программная архитектура
 
