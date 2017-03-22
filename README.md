@@ -54,7 +54,7 @@ https://github.com/HowProgrammingWorks/Symbol
 
 ## Software Architecture
 
-  1. Modularity and Dependency
+  1. [Modularity](https://github.com/HowProgrammingWorks/Modularity) and Dependency
   2. [Inversion of Control](https://github.com/HowProgrammingWorks/InversionOfControl)
   3. [Dependency Injection](https://github.com/HowProgrammingWorks/DependencyInjection)
   4. [Inter-process Communication](https://github.com/HowProgrammingWorks/InterProcessCommunication)

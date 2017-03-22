@@ -54,7 +54,7 @@ https://github.com/HowProgrammingWorks/Symbol
 
 ## Программная архитектура
 
-  1. Модульность и зависимости
+  1. [Модульность](https://github.com/HowProgrammingWorks/Modularity) и зависимости
   2. [Инверсия управления](https://github.com/HowProgrammingWorks/InversionOfControl)
   3. [Внедрение зависимостей](https://github.com/HowProgrammingWorks/DependencyInjection)
   4. [Межпроцессовое взаимодействие](https://github.com/HowProgrammingWorks/InterProcessCommunication)
