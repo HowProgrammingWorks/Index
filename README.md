@@ -43,7 +43,7 @@ https://github.com/HowProgrammingWorks/Collections
   4. Iterators and [generators](https://github.com/HowProgrammingWorks/Generator)
   5. [Asynchronous execution](https://github.com/HowProgrammingWorks/AsynchronousProgramming), I/O and parallelism
   6. Events and [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
-  7. [Promises](https://github.com/HowProgrammingWorks/Promise) and chaining
+  7. [Promises](https://github.com/HowProgrammingWorks/Promise) and [chaining](https://github.com/HowProgrammingWorks/Chaining)
   8. [Serialization](https://github.com/HowProgrammingWorks/Serialization) and deserialization
   9. [Regular expressions](https://github.com/HowProgrammingWorks/RegExp)
 <!--

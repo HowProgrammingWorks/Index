@@ -43,7 +43,7 @@ https://github.com/HowProgrammingWorks/Collections
   4. Итераторы и [генераторы](https://github.com/HowProgrammingWorks/Generator)
   5. [Асинхронное исполнение](https://github.com/HowProgrammingWorks/AsynchronousProgramming), ввод/вывод и параллелизм
   6. События и [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
-  7. [Promises](https://github.com/HowProgrammingWorks/Promise) и чеининг
+  7. [Promises](https://github.com/HowProgrammingWorks/Promise) и [чеининг](https://github.com/HowProgrammingWorks/Chaining)
   8. [Сериализация](https://github.com/HowProgrammingWorks/Serialization) и десериализация
   9. [Регулярные выражения](https://github.com/HowProgrammingWorks/RegExp)
 <!--
