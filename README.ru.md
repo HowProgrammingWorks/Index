@@ -5,7 +5,7 @@
 
   1. [Абстракции](https://github.com/HowProgrammingWorks/Abstractions) как сущность программирования и инженерии
   2. Переменные и типы данных, скалярные и ссылочные типы, объекты, массивы и структуры данных
-  3. [Функции](https://github.com/HowProgrammingWorks/Function) сключая анонимные и лямбда-выражения
+  3. [Функции](https://github.com/HowProgrammingWorks/Function) включая анонимные и лямбда-выражения
   4. Чистые функции и побочные эффекты
   5. Суперпозиция и [конпозиция](https://github.com/HowProgrammingWorks/Composition) функций
   6. [Частичное применение](https://github.com/HowProgrammingWorks/PartialApplication), каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
@@ -62,7 +62,7 @@ https://github.com/HowProgrammingWorks/Symbol
   6. Многослойные и многозвенные архитектуры
   7. Слой доступа к данным, курсоры и объектно-реляционное отображение
   8. Сервера приложений, тонкие и толстые клиенты
-  9. Интроспекция, рефлексия и скафолдинг
+  9. Интроспекция, рефлексия и скаффолдинг
 
 ## Комплексные примеры
 
