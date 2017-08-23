@@ -1,16 +1,16 @@
-# HowProgrammingWorks Repositories Index
-| [English](README.md) | [Русский](README.ru.md) | [Українська](README.uk.md) |
+# Індекс репозиторіїв HowProgrammingWorks
+| [English](README.md) | [Русский](README.ru.md) | [Українська](README.ua.md) |
 
-## Basic Concepts
+## Базові концепції
 
-  1. [Abstractions](https://github.com/HowProgrammingWorks/Abstractions) as an essence of programming and engenering at all
-  2. Variables and data types, scalar and reference, objects, arrays and data structures
-  3. [Functions](https://github.com/HowProgrammingWorks/Function) including anonymous functions and lambdas
-  4. Pure functions and side effects
-  5. Superposition and [Composition](https://github.com/HowProgrammingWorks/Composition)
-  6. [Partial application](https://github.com/HowProgrammingWorks/PartialApplication), currying and [wrapping](https://github.com/HowProgrammingWorks/Wrapper) functions
-  7. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction) including callbacks and [closures](https://github.com/HowProgrammingWorks/Closure)
-  8. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
+  1. [Абстракції](https://github.com/HowProgrammingWorks/Abstractions) як сутність програмування та інженерії
+  2. Змінні і типи даних, скалярні і посилальні типи, об'єкти, масиви і структури даних
+  3. [Функції](https://github.com/HowProgrammingWorks/Function) включаючи анонімні і лямбда-вирази
+  4. Чисті функції і побічні ефекти
+  5. Суперпозиція і [конпозиція](https://github.com/HowProgrammingWorks/Composition) функцій
+  6. [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication), каррінг і [функції-обгортки](https://github.com/HowProgrammingWorks/Wrapper)
+  7. Функції [вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction) включаючи колбек і [замикання](https://github.com/HowProgrammingWorks/Closure)
+  8. [Ітеріровання](https://github.com/HowProgrammingWorks/Iteration) та цикли
 <!--
 Generics
 https://github.com/HowProgrammingWorks/DataTypes
@@ -19,66 +19,66 @@ https://github.com/HowProgrammingWorks/String
 https://github.com/HowProgrammingWorks/Set
 -->
 
-## Related Topics
+## Допоміжні теми
 
-  1. [Development tools and environment configuration](https://github.com/HowProgrammingWorks/Tools)
-  2. [Version control](https://github.com/HowProgrammingWorks/VersionControl) systems and working in groups
-  3. [Code style](https://github.com/HowProgrammingWorks/CodeStyle) and conventions
-  4. Code [benchmarking](https://github.com/HowProgrammingWorks/Benchmark)
+  1. [Інструменти розробки та конфігурація середовища розробки](https://github.com/HowProgrammingWorks/Tools)
+  2. Системи [управління версіями](https://github.com/HowProgrammingWorks/VersionControl) і групова робота
+  3. [Стиль коду](https://github.com/HowProgrammingWorks/CodeStyle) та конвенції
+  4. Дослідження [продуктивності](https://github.com/HowProgrammingWorks/Benchmark) коду
 
-## Data Structures
+## Структури даних
 
-  1. [Linked lists](https://github.com/HowProgrammingWorks/LinkedList): singly, doubly, circular
-  2. [Trees](https://github.com/HowProgrammingWorks/TreeNode): classification, implementation, traversion
-  3. Graphs including [directed](https://github.com/HowProgrammingWorks/DirectedGraph) graphs
+  1. [Списки](https://github.com/HowProgrammingWorks/LinkedList): однозв'язні, двусвязний, кільце
+  2. [Дерева](https://github.com/HowProgrammingWorks/TreeNode): класифікація, реалізація, обхід
+  3. Графи, включаючи [орієнтовані](https://github.com/HowProgrammingWorks/DirectedGraph) графи
 <!--
 https://github.com/HowProgrammingWorks/Collections
 -->
 
-## Advanced Concepts
+## Продвинуті теми
 
-  1. [Functors](https://github.com/HowProgrammingWorks/Functor), applicative functors and monads
-  2  Caching and [Memoization](https://github.com/HowProgrammingWorks/Memoization)
-  3. [Mixins](https://github.com/HowProgrammingWorks/Mixin) as decorators and nonlinear inheritance
-  4. Iterators and [generators](https://github.com/HowProgrammingWorks/Generator)
-  5. [Asynchronous execution](https://github.com/HowProgrammingWorks/AsynchronousProgramming), I/O and parallelism
-  6. Events and [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
-  7. [Promises](https://github.com/HowProgrammingWorks/Promise) and [chaining](https://github.com/HowProgrammingWorks/Chaining)
-  8. [Serialization](https://github.com/HowProgrammingWorks/Serialization) and deserialization
-  9. [Regular expressions](https://github.com/HowProgrammingWorks/RegExp)
+  1. [Функтори](https://github.com/HowProgrammingWorks/Functor), аплікативні функтори і монади
+  2  Кешування і [мемоізація](https://github.com/HowProgrammingWorks/Memoization)
+  3. [Домішки](https://github.com/HowProgrammingWorks/Mixin) як декоратори і непряме спадкування
+  4. Ітератори і [генератори](https://github.com/HowProgrammingWorks/Generator)
+  5. [Асинхронне виконання](https://github.com/HowProgrammingWorks/AsynchronousProgramming), ввід/вивід і паралелізм
+  6. Події та [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
+  7. [Promises](https://github.com/HowProgrammingWorks/Promise) і [чеінінг](https://github.com/HowProgrammingWorks/Chaining)
+  8. [Серіалізація](https://github.com/HowProgrammingWorks/Serialization) і десеріалізація
+  9. [Регулярні вирази](https://github.com/HowProgrammingWorks/RegExp)
 <!--
 https://github.com/HowProgrammingWorks/Concurrency
 https://github.com/HowProgrammingWorks/Proxy
 https://github.com/HowProgrammingWorks/Symbol
 -->
 
-## Software Architecture
+## Програмна архітектура
 
-  1. [Modularity](https://github.com/HowProgrammingWorks/Modularity) and Dependency
-  2. [Inversion of Control](https://github.com/HowProgrammingWorks/InversionOfControl)
-  3. [Dependency Injection](https://github.com/HowProgrammingWorks/DependencyInjection)
-  4. [Inter-process Communication](https://github.com/HowProgrammingWorks/InterProcessCommunication)
-  5. [Sandboxing](https://github.com/HowProgrammingWorks/Sandboxes)
-  6. Multi-layer and Multi-tier Architecture
-  7. Data Access Layer, Cursors and Object-Relational Mapping
-  8. Application Servers, thin and thic clients
-  9. Introspection, Reflection and Scaffolding
+  1. [Модульність](https://github.com/HowProgrammingWorks/Modularity) та залежності
+  2. [Інверсія управління](https://github.com/HowProgrammingWorks/InversionOfControl)
+  3. [Впровадження залежностей](https://github.com/HowProgrammingWorks/DependencyInjection)
+  4. [Міжпроцесова взаємодія](https://github.com/HowProgrammingWorks/InterProcessCommunication)
+  5. [Пісочниці](https://github.com/HowProgrammingWorks/Sandboxes)
+  6. Багатошарові і багатоланкові архітектури
+  7. Шар доступу до даних, курсори і об'єктно-реляційне відображення
+  8. Сервера додатків, тонкі і товсті клієнти
+  9. Інтроспекція, рефлексія і скаффолдінг
 
-## Practical Examples
+## Комплексні приклади
 
-  1. Routing for [HTTP Server](https://github.com/HowProgrammingWorks/NodeServer)
-  2. [Websocket Chat](https://github.com/HowProgrammingWorks/WebsocketChat)
-  3. Interactive multi-user [LiveTable](https://github.com/HowProgrammingWorks/LiveTable)
-  4. Data [Projection](https://github.com/HowProgrammingWorks/Projection)
+  1. Маршрутизація для [HTTP сервера](https://github.com/HowProgrammingWorks/NodeServer)
+  2. Чат на [Websocket-ах](https://github.com/HowProgrammingWorks/WebsocketChat)
+  3. Інтерактивні, розраховані на багато користувачів, [живі таблиці](https://github.com/HowProgrammingWorks/LiveTable)
+  4. [Проекція даних](https://github.com/HowProgrammingWorks/Projection)
 
-## Programming Paradigms and Techniques
+## Парадигми і техніки програмування
 
-  1. Imperative, non-structured, structured and procedural programming
-  2. Functional programming
-  3. Logic, declarative and automata-based programming
-  4. Language-oriented programming and domain-specific languages
-  5. Object-oriented and prototype-oriented programming
-  6. Asynchronous, Reactive and [Event-driven programming](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
-  7. Probabilistic programming
-  8. [Data-driven programming](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
-  9. [Metaprogramming](https://github.com/HowProgrammingWorks/Metaprogramming)
+  1. Імперативне, неструктурне, структурне і процедурне програмування
+  2. Функціональне програмування
+  3. Логічне, декларативне і автоматне програмування
+  4. Language-oriented програмування і мови, спеціалізовані для предметної області
+  5. Об'єктно-орієнтоване і прототипне програмування
+  6. Асинхронне, реактивне і [подієве програмування](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
+  7. Ймовірне програмування
+  8. [Програмування](https://github.com/HowProgrammingWorks/DataDrivenProgramming) кероване даними
+  9. [Метапрограмування](https://github.com/HowProgrammingWorks/Metaprogramming)
