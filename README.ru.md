@@ -32,7 +32,6 @@ https://github.com/HowProgrammingWorks/Set
   4. Исследование [производительности](https://github.com/HowProgrammingWorks/Benchmark) кода
   5. [Заготовка проекта](https://github.com/HowProgrammingWorks/Project)
 
-
 ## Структуры данных
 
   1. [Списки](https://github.com/HowProgrammingWorks/LinkedList): односвязные, двусвязный, кольцо
@@ -41,6 +40,12 @@ https://github.com/HowProgrammingWorks/Set
 <!--
 https://github.com/HowProgrammingWorks/Collections
 -->
+
+## Файлы, потоки и буферы
+
+  1. [Работа с файлами](https://github.com/HowProgrammingWorks/Files)
+  2. [Буферы](https://github.com/HowProgrammingWorks/Buffers)
+  3. [Файловые потоки](https://github.com/HowProgrammingWorks/Streams)
 
 ## Продвинутые темы
 
