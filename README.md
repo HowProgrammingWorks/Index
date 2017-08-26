@@ -38,6 +38,12 @@ https://github.com/HowProgrammingWorks/Set
 https://github.com/HowProgrammingWorks/Collections
 -->
 
+## Files, streams and buffers
+
+  1. [Files](https://github.com/HowProgrammingWorks/Files) and file system
+  2. [Buffers](https://github.com/HowProgrammingWorks/Buffers)
+  3. File [streams](https://github.com/HowProgrammingWorks/Streams)
+
 ## Advanced Concepts
 
   1. [Functors](https://github.com/HowProgrammingWorks/Functor), applicative functors and monads
