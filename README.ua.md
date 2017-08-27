@@ -5,11 +5,11 @@
 
   1. [Абстракції](https://github.com/HowProgrammingWorks/Abstractions), як сутність програмування та інженерії загалом.
   2. Змінні та типи даних, скалярні величини та посилання, об'єкти, масиви та структури даних.
-  3. [Функції](https://github.com/HowProgrammingWorks/Function), включаючи анонімні та лямбда-вирази.
+  3. [Функції](https://github.com/HowProgrammingWorks/Function), враховуючи анонімні та лямбда-вирази.
   4. Чисті функції та побічні ефекти.
   5. Суперпозиція та [Композиція](https://github.com/HowProgrammingWorks/Composition) функцій.
   6. [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication), каррінг і [Функції-обгортки] (https://github.com/HowProgrammingWorks/Wrapper).
-  7. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction), включаючи колбеки та [Замикання](https://github.com/HowProgrammingWorks/Closure).
+  7. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction), враховуючи колбеки та [Замикання](https://github.com/HowProgrammingWorks/Closure).
   8. [Ітерування](https://github.com/HowProgrammingWorks/Iteration) та цикли
 <!--
 Generics
