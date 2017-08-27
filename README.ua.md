@@ -35,6 +35,12 @@ https://github.com/HowProgrammingWorks/Set
 https://github.com/HowProgrammingWorks/Collections
 -->
 
+## Файли, потоки та буфери
+
+  1. [Робота з файлами](https://github.com/HowProgrammingWorks/Files)
+  2. [Буфери](https://github.com/HowProgrammingWorks/Buffers)
+  3. [Файлові потоки](https://github.com/HowProgrammingWorks/Streams)
+
 ## Розширені поняття
 
   1. [Функтори](https://github.com/HowProgrammingWorks/Functor), аплікативні функтори та монади

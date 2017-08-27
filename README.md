@@ -3,9 +3,12 @@
 
 ## Basic Concepts
 
-  1. [Abstractions](https://github.com/HowProgrammingWorks/Abstractions) as an essence of programming and engenering at all
-  2. Variables and data types, scalar and reference, objects, arrays and data structures
-  3. [Functions](https://github.com/HowProgrammingWorks/Function) including anonymous functions and lambdas
+  1. [Abstractions](https://github.com/HowProgrammingWorks/Abstractions) as
+  an essence of programming and engenering at all
+  2. [Variables and data types](https://github.com/HowProgrammingWorks/DataTypes),
+  scalar and reference, objects, arrays and data structures
+  3. [Functions](https://github.com/HowProgrammingWorks/Function) including
+  anonymous functions and lambdas
   4. Pure functions and side effects
   5. Superposition and [Composition](https://github.com/HowProgrammingWorks/Composition)
   6. [Partial application](https://github.com/HowProgrammingWorks/PartialApplication), currying and [wrapping](https://github.com/HowProgrammingWorks/Wrapper) functions
@@ -13,7 +16,6 @@
   8. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
 <!--
 Generics
-https://github.com/HowProgrammingWorks/DataTypes
 https://github.com/HowProgrammingWorks/DataStructures
 https://github.com/HowProgrammingWorks/String
 https://github.com/HowProgrammingWorks/Set
@@ -25,6 +27,7 @@ https://github.com/HowProgrammingWorks/Set
   2. [Version control](https://github.com/HowProgrammingWorks/VersionControl) systems and working in groups
   3. [Code style](https://github.com/HowProgrammingWorks/CodeStyle) and conventions
   4. Code [benchmarking](https://github.com/HowProgrammingWorks/Benchmark)
+  5. [Project template](https://github.com/HowProgrammingWorks/Project)
 
 ## Data Structures
 
@@ -34,6 +37,12 @@ https://github.com/HowProgrammingWorks/Set
 <!--
 https://github.com/HowProgrammingWorks/Collections
 -->
+
+## Files, streams and buffers
+
+  1. [Files](https://github.com/HowProgrammingWorks/Files) and file system
+  2. [Buffers](https://github.com/HowProgrammingWorks/Buffers)
+  3. File [streams](https://github.com/HowProgrammingWorks/Streams)
 
 ## Advanced Concepts
 
