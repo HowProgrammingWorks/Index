@@ -7,9 +7,9 @@
   2. Змінні та типи даних, скалярні величини та посилання, об'єкти, масиви та структури даних
   3. [Функції](https://github.com/HowProgrammingWorks/Function), враховуючи анонімні та лямбда-вирази
   4. Чисті функції та побічні ефекти
-  5. Суперпозиція та [Композиція](https://github.com/HowProgrammingWorks/Composition) функцій
-  6. [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication), каррінг і [Функції-обгортки](https://github.com/HowProgrammingWorks/Wrapper)
-  7. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction), враховуючи колбеки та [Замикання](https://github.com/HowProgrammingWorks/Closure)
+  5. Суперпозиція та [композиція](https://github.com/HowProgrammingWorks/Composition) функцій
+  6. [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication), каррінг і [функції-обгортки](https://github.com/HowProgrammingWorks/Wrapper)
+  7. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction), враховуючи колбеки та [замикання](https://github.com/HowProgrammingWorks/Closure)
   8. [Ітерування](https://github.com/HowProgrammingWorks/Iteration) та цикли
 <!--
 Generics
@@ -38,12 +38,12 @@ https://github.com/HowProgrammingWorks/Collections
 ## Розширені поняття
 
   1. [Функтори](https://github.com/HowProgrammingWorks/Functor), аплікативні функтори та монади
-  2. Кешування та [Мемоізація](https://github.com/HowProgrammingWorks/Memoization)
+  2. Кешування та [мемоізація](https://github.com/HowProgrammingWorks/Memoization)
   3. [Домішки](https://github.com/HowProgrammingWorks/Mixin) як декоратори та непряме успадкування
-  4. Ітератори та [Генератори](https://github.com/HowProgrammingWorks/Generator)
+  4. Ітератори та [генератори](https://github.com/HowProgrammingWorks/Generator)
   5. [Асинхронне виконання](https://github.com/HowProgrammingWorks/AsynchronousProgramming), вхід/вихід та паралелізм
   6. Події та [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
-  7. [Promises](https://github.com/HowProgrammingWorks/Promise) і [чеінінг](https://github.com/HowProgrammingWorks/Chaining)
+  7. [Promises](https://github.com/HowProgrammingWorks/Promise) та [чеінінг](https://github.com/HowProgrammingWorks/Chaining)
   8. [Серіалізація](https://github.com/HowProgrammingWorks/Serialization) і десеріалізація
   9. [Регулярні вирази](https://github.com/HowProgrammingWorks/RegExp)
 <!--
@@ -61,24 +61,24 @@ https://github.com/HowProgrammingWorks/Symbol
   5. [Пісочниці](https://github.com/HowProgrammingWorks/Sandboxes)
   6. Багатошарові і багатоланкові архітектури
   7. Шар доступу до даних, курсори і об'єктно-реляційне відображення
-  8. Сервера додатків, тонкі і товсті клієнти
+  8. Сервера додатків, тонкі та товсті клієнти
   9. Інтроспекція, рефлексія і скаффолдінг
 
 ## Практичні приклади
 
   1. Маршрутизація до [HTTP Server](https://github.com/HowProgrammingWorks/NodeServer)
-  2. Чат на [Websocket](https://github.com/HowProgrammingWorks/WebsocketChat)
-  3. Інтерактивні та багатокористувацькі [ЖивіТаблиці](https://github.com/HowProgrammingWorks/LiveTable)
+  2. Чат на [Websocket-ах](https://github.com/HowProgrammingWorks/WebsocketChat)
+  3. Інтерактивні та багатокористувацькі [Живі Таблиці](https://github.com/HowProgrammingWorks/LiveTable)
   4. [Проектування](https://github.com/HowProgrammingWorks/Projection) даних
 
 ## Парадигми і техніки програмування
 
-  1. Імперативне, процедурне, структурне та безструктурне програмування.
+  1. Імперативне, процедурне, структурне та безструктурне програмування
   2. Функціональне програмування
   3. Логічне, декларативне і автоматне програмування
   4. Language-oriented програмування і мови, спеціалізовані для предметної області
   5. Об'єктно-орієнтоване та прототипно-орієнтоване програмування
-  6. Асинхронне, Реактивне та [Подійно-орієнтоване програмування](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
+  6. Асинхронне, реактивне та [подійно-орієнтоване програмування](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
   7. Пробабілістичне програмування
   8. [Програмування кероване даними](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
   9. [Метапрограмування](https://github.com/HowProgrammingWorks/Metaprogramming)
