@@ -8,7 +8,7 @@
   3. [Функції](https://github.com/HowProgrammingWorks/Function), враховуючи анонімні та лямбда-вирази
   4. Чисті функції та побічні ефекти
   5. Суперпозиція та [Композиція](https://github.com/HowProgrammingWorks/Composition) функцій
-  6. [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication), каррінг і [Функції-обгортки] (https://github.com/HowProgrammingWorks/Wrapper)
+  6. [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication), каррінг і [Функції-обгортки](https://github.com/HowProgrammingWorks/Wrapper)
   7. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction), враховуючи колбеки та [Замикання](https://github.com/HowProgrammingWorks/Closure)
   8. [Ітерування](https://github.com/HowProgrammingWorks/Iteration) та цикли
 <!--
@@ -38,7 +38,7 @@ https://github.com/HowProgrammingWorks/Collections
 ## Розширені поняття
 
   1. [Функтори](https://github.com/HowProgrammingWorks/Functor), аплікативні функтори та монади
-  2  Кешування та [Мемоізація](https://github.com/HowProgrammingWorks/Memoization)
+  2. Кешування та [Мемоізація](https://github.com/HowProgrammingWorks/Memoization)
   3. [Домішки](https://github.com/HowProgrammingWorks/Mixin) як декоратори та непряме успадкування
   4. Ітератори та [Генератори](https://github.com/HowProgrammingWorks/Generator)
   5. [Асинхронне виконання](https://github.com/HowProgrammingWorks/AsynchronousProgramming), вхід/вихід та паралелізм
