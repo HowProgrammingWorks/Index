@@ -7,7 +7,7 @@
   2. Переменные и типы данных, скалярные и ссылочные типы, объекты, массивы и структуры данных
   3. [Функции](https://github.com/HowProgrammingWorks/Function) включая анонимные и лямбда-выражения
   4. Чистые функции и побочные эффекты
-  5. Суперпозиция и [Композиция](https://github.com/HowProgrammingWorks/Composition) функций
+  5. Суперпозиция и [композиция](https://github.com/HowProgrammingWorks/Composition) функций
   6. [Частичное применение](https://github.com/HowProgrammingWorks/PartialApplication), каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
   7. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction) включая колбеки и [замыкания](https://github.com/HowProgrammingWorks/Closure)
   8. [Итерирование](https://github.com/HowProgrammingWorks/Iteration) и циклы
