@@ -3,17 +3,21 @@
 
 ## Базовые концепции
 
-  1. [Абстракции](https://github.com/HowProgrammingWorks/Abstractions) как сущность программирования и инженерии
-  2. Переменные и типы данных, скалярные и ссылочные типы, объекты, массивы и структуры данных
-  3. [Функции](https://github.com/HowProgrammingWorks/Function) включая анонимные и лямбда-выражения
+  1. [Абстракции](https://github.com/HowProgrammingWorks/Abstractions) как
+  сущность программирования и инженерии
+  2. [Переменные и типы данных](https://github.com/HowProgrammingWorks/DataTypes),
+  скалярные и ссылочные типы, объекты, массивы и структуры данных
+  3. [Функции](https://github.com/HowProgrammingWorks/Function) включая
+  анонимные и лямбда-выражения
   4. Чистые функции и побочные эффекты
+
   5. Суперпозиция и [Композиция](https://github.com/HowProgrammingWorks/Composition) функций
   6. [Частичное применение](https://github.com/HowProgrammingWorks/PartialApplication), каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
   7. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction) включая колбеки и [замыкания](https://github.com/HowProgrammingWorks/Closure)
+
   8. [Итерирование](https://github.com/HowProgrammingWorks/Iteration) и циклы
 <!--
 Generics
-https://github.com/HowProgrammingWorks/DataTypes
 https://github.com/HowProgrammingWorks/DataStructures
 https://github.com/HowProgrammingWorks/String
 https://github.com/HowProgrammingWorks/Set
@@ -25,6 +29,7 @@ https://github.com/HowProgrammingWorks/Set
   2. Системы [управления версиями](https://github.com/HowProgrammingWorks/VersionControl) и групповая работа
   3. [Стиль кода](https://github.com/HowProgrammingWorks/CodeStyle) и конвенции
   4. Исследование [производительности](https://github.com/HowProgrammingWorks/Benchmark) кода
+  5. [Заготовка проекта](https://github.com/HowProgrammingWorks/Project)
 
 ## Структуры данных
 
@@ -34,6 +39,12 @@ https://github.com/HowProgrammingWorks/Set
 <!--
 https://github.com/HowProgrammingWorks/Collections
 -->
+
+## Файлы, потоки и буферы
+
+  1. [Работа с файлами](https://github.com/HowProgrammingWorks/Files)
+  2. [Буферы](https://github.com/HowProgrammingWorks/Buffers)
+  3. [Файловые потоки](https://github.com/HowProgrammingWorks/Streams)
 
 ## Продвинутые темы
 
