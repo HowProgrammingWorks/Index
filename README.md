@@ -1,5 +1,5 @@
 # HowProgrammingWorks Repositories Index
-| [English](README.md) | [Русский](README.ru.md) |
+| [English](README.md) | [Русский](README.ru.md) | [Українська](README.ua.md) |
 
 ## Basic Concepts
 
