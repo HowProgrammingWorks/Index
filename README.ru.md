@@ -1,5 +1,5 @@
 # Индекс репозиториев HowProgrammingWorks
-| [English](README.md) | [Русский](README.ru.md) |
+| [English](README.md) | [Русский](README.ru.md) | [Українська](README.ua.md) |
 
 ## Базовые концепции
 
@@ -10,7 +10,7 @@
   3. [Функции](https://github.com/HowProgrammingWorks/Function) включая
   анонимные и лямбда-выражения
   4. Чистые функции и побочные эффекты
-  5. Суперпозиция и [конпозиция](https://github.com/HowProgrammingWorks/Composition)
+  5. Суперпозиция и [композиция](https://github.com/HowProgrammingWorks/Composition)
   функций
   6. [Частичное применение](https://github.com/HowProgrammingWorks/PartialApplication),
   каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
