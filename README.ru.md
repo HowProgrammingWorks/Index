@@ -6,23 +6,20 @@
   1. [Абстракции](https://github.com/HowProgrammingWorks/Abstractions) как
   сущность программирования и инженерии
   2. [Переменные и типы данных](https://github.com/HowProgrammingWorks/DataTypes),
-  скалярные и ссылочные типы, объекты, массивы и структуры данных
+  скалярные и ссылочные типы, объекты, массивы и
+  [структуры данных](https://github.com/HowProgrammingWorks/DataStructures)
   3. [Функции](https://github.com/HowProgrammingWorks/Function) включая
-  анонимные и лямбда-выражения
-  4. Чистые функции и побочные эффекты
-  5. Суперпозиция и [конпозиция](https://github.com/HowProgrammingWorks/Composition)
-  функций
-  6. [Частичное применение](https://github.com/HowProgrammingWorks/PartialApplication),
+  анонимные и лямбда-выражения, чистые функции и побочные эффекты
+  4. Суперпозиция и
+  [конпозиция](https://github.com/HowProgrammingWorks/Composition) функций,
+  [Частичное применение](https://github.com/HowProgrammingWorks/PartialApplication),
   каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
-  7. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction)
+  5. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction)
   включая колбеки и [замыкания](https://github.com/HowProgrammingWorks/Closure)
-  8. [Итерирование](https://github.com/HowProgrammingWorks/Iteration) и циклы
-<!--
-Generics
-https://github.com/HowProgrammingWorks/DataStructures
-https://github.com/HowProgrammingWorks/String
-https://github.com/HowProgrammingWorks/Set
--->
+  6. [Итерирование](https://github.com/HowProgrammingWorks/Iteration) и циклы
+  7. [Строковые](https://github.com/HowProgrammingWorks/String) операции
+  8. Коллекции: [Set и WeakSet](https://github.com/HowProgrammingWorks/Set),
+  [Map и WeakMap](https://github.com/HowProgrammingWorks/KeyValue)
 
 ## Вспомогательные темы
 

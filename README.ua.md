@@ -9,22 +9,17 @@
   скалярні величини та посилання, об'єкти, масиви та
   [структури даних](https://github.com/HowProgrammingWorks/DataStructures)
   3. [Функції](https://github.com/HowProgrammingWorks/Function),
-  анонімні та лямбда-функції
-  4. Чисті функції та побічні ефекти
-  5. Суперпозиція та [композиція](https://github.com/HowProgrammingWorks/Composition)
-  функцій
-  6. [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication),
+  анонімні та лямбда-функції, чисті функції та побічні ефекти
+  4. Суперпозиція та
+  [композиція](https://github.com/HowProgrammingWorks/Composition) функцій
+  [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication),
   каррінг та [функції-обгортки](https://github.com/HowProgrammingWorks/Wrapper)
-  7. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction),
+  5. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction),
   колбеки та [замикання](https://github.com/HowProgrammingWorks/Closure)
-  8. [Ітерування](https://github.com/HowProgrammingWorks/Iteration) та цикли
-<!--
-Generics
-https://github.com/HowProgrammingWorks/DataTypes
-https://github.com/HowProgrammingWorks/DataStructures
-https://github.com/HowProgrammingWorks/String
-https://github.com/HowProgrammingWorks/Set
--->
+  6. [Ітерування](https://github.com/HowProgrammingWorks/Iteration) та цикли
+  7. Операції зі [строками](https://github.com/HowProgrammingWorks/String)
+  8. Коллекції: [Set та WeakSet](https://github.com/HowProgrammingWorks/Set),
+  [Map та WeakMap](https://github.com/HowProgrammingWorks/KeyValue)
 
 ## Допоміжні теми
 

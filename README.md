@@ -6,20 +6,20 @@
   1. [Abstractions](https://github.com/HowProgrammingWorks/Abstractions) as
   an essence of programming and engenering at all
   2. [Variables and data types](https://github.com/HowProgrammingWorks/DataTypes),
-  scalar and reference, objects, arrays and data structures
+  scalar and reference, objects, arrays and
+  [data structures](https://github.com/HowProgrammingWorks/DataStructures)
   3. [Functions](https://github.com/HowProgrammingWorks/Function) including
-  anonymous functions and lambdas
-  4. Pure functions and side effects
-  5. Superposition and [Composition](https://github.com/HowProgrammingWorks/Composition)
-  6. [Partial application](https://github.com/HowProgrammingWorks/PartialApplication), currying and [wrapping](https://github.com/HowProgrammingWorks/Wrapper) functions
-  7. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction) including callbacks and [closures](https://github.com/HowProgrammingWorks/Closure)
-  8. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
-<!--
-Generics
-https://github.com/HowProgrammingWorks/DataStructures
-https://github.com/HowProgrammingWorks/String
-https://github.com/HowProgrammingWorks/Set
--->
+  anonymous functions and lambdas, pure functions and side effects
+  4. Superposition and
+  [Composition](https://github.com/HowProgrammingWorks/Composition),
+  [Partial application](https://github.com/HowProgrammingWorks/PartialApplication),
+  currying and [wrapping](https://github.com/HowProgrammingWorks/Wrapper) functions
+  5. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction)
+  including callbacks and [closures](https://github.com/HowProgrammingWorks/Closure)
+  6. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
+  7. [String](https://github.com/HowProgrammingWorks/String) operations
+  8. Collections: [Set and WeakSet](https://github.com/HowProgrammingWorks/Set),
+  [Map and WeakMap](https://github.com/HowProgrammingWorks/KeyValue)
 
 ## Related Topics
 
