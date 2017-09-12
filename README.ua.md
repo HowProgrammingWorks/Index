@@ -11,8 +11,8 @@
   3. [Функції](https://github.com/HowProgrammingWorks/Function),
   анонімні та лямбда-функції, чисті функції та побічні ефекти
   4. Суперпозиція та
-  [композиція](https://github.com/HowProgrammingWorks/Composition) функцій
-  [Часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication),
+  [композиція](https://github.com/HowProgrammingWorks/Composition) функцій,
+  [часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication),
   каррінг та [функції-обгортки](https://github.com/HowProgrammingWorks/Wrapper)
   5. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction),
   колбеки та [замикання](https://github.com/HowProgrammingWorks/Closure)
@@ -23,7 +23,7 @@
 
 ## Допоміжні теми
 
-  1. [Інструменти розробки] (https://github.com/HowProgrammingWorks/Tools)
+  1. [Інструменти розробки](https://github.com/HowProgrammingWorks/Tools)
   та конфігурація середовища розробки
   2. Системи [управління версіями](https://github.com/HowProgrammingWorks/VersionControl)
   і групова робота
@@ -40,9 +40,6 @@
   реалізація, методи обходу
   3. Графи та [орієнтовані](https://github.com/HowProgrammingWorks/DirectedGraph)
   графи
-<!--
-https://github.com/HowProgrammingWorks/Collections
--->
 
 ## Файли, потоки та буфери
 
@@ -61,16 +58,11 @@ https://github.com/HowProgrammingWorks/Collections
   5. [Асинхронне виконання](https://github.com/HowProgrammingWorks/AsynchronousProgramming),
   ввід/вивід та паралелізм
   6. Події та [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
-  7. [Promises](https://github.com/HowProgrammingWorks/Promise) та [чеінінг]
-  (https://github.com/HowProgrammingWorks/Chaining)
+  7. [Promises](https://github.com/HowProgrammingWorks/Promise) та
+  [чеінінг](https://github.com/HowProgrammingWorks/Chaining)
   8. [Серіалізація](https://github.com/HowProgrammingWorks/Serialization) та
   десеріалізація
   9. [Регулярні вирази](https://github.com/HowProgrammingWorks/RegExp)
-<!--
-https://github.com/HowProgrammingWorks/Concurrency
-https://github.com/HowProgrammingWorks/Proxy
-https://github.com/HowProgrammingWorks/Symbol
--->
 
 ## Архітектура програмного забезпечення
 

@@ -12,7 +12,7 @@
   anonymous functions and lambdas, pure functions and side effects
   4. Superposition and
   [Composition](https://github.com/HowProgrammingWorks/Composition),
-  [Partial application](https://github.com/HowProgrammingWorks/PartialApplication),
+  [partial application](https://github.com/HowProgrammingWorks/PartialApplication),
   currying and [wrapping](https://github.com/HowProgrammingWorks/Wrapper) functions
   5. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction)
   including callbacks and [closures](https://github.com/HowProgrammingWorks/Closure)
@@ -34,9 +34,6 @@
   1. [Linked lists](https://github.com/HowProgrammingWorks/LinkedList): singly, doubly, circular
   2. [Trees](https://github.com/HowProgrammingWorks/TreeNode): classification, implementation, traversion
   3. Graphs including [directed](https://github.com/HowProgrammingWorks/DirectedGraph) graphs
-<!--
-https://github.com/HowProgrammingWorks/Collections
--->
 
 ## Files, streams and buffers
 
@@ -47,7 +44,7 @@ https://github.com/HowProgrammingWorks/Collections
 ## Advanced Concepts
 
   1. [Functors](https://github.com/HowProgrammingWorks/Functor), applicative functors and monads
-  2  Caching and [Memoization](https://github.com/HowProgrammingWorks/Memoization)
+  2. Caching and [Memoization](https://github.com/HowProgrammingWorks/Memoization)
   3. [Mixins](https://github.com/HowProgrammingWorks/Mixin) as decorators and nonlinear inheritance
   4. Iterators and [generators](https://github.com/HowProgrammingWorks/Generator)
   5. [Asynchronous execution](https://github.com/HowProgrammingWorks/AsynchronousProgramming), I/O and parallelism
@@ -55,11 +52,6 @@ https://github.com/HowProgrammingWorks/Collections
   7. [Promises](https://github.com/HowProgrammingWorks/Promise) and [chaining](https://github.com/HowProgrammingWorks/Chaining)
   8. [Serialization](https://github.com/HowProgrammingWorks/Serialization) and deserialization
   9. [Regular expressions](https://github.com/HowProgrammingWorks/RegExp)
-<!--
-https://github.com/HowProgrammingWorks/Concurrency
-https://github.com/HowProgrammingWorks/Proxy
-https://github.com/HowProgrammingWorks/Symbol
--->
 
 ## Software Architecture
 

@@ -12,7 +12,7 @@
   анонимные и лямбда-выражения, чистые функции и побочные эффекты
   4. Суперпозиция и
   [конпозиция](https://github.com/HowProgrammingWorks/Composition) функций,
-  [Частичное применение](https://github.com/HowProgrammingWorks/PartialApplication),
+  [частичное применение](https://github.com/HowProgrammingWorks/PartialApplication),
   каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
   5. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction)
   включая колбеки и [замыкания](https://github.com/HowProgrammingWorks/Closure)
@@ -34,9 +34,6 @@
   1. [Списки](https://github.com/HowProgrammingWorks/LinkedList): односвязные, двусвязный, кольцо
   2. [Деревья](https://github.com/HowProgrammingWorks/TreeNode): классификация, реализация, обход
   3. Графы включая [ориентированные](https://github.com/HowProgrammingWorks/DirectedGraph) графы
-<!--
-https://github.com/HowProgrammingWorks/Collections
--->
 
 ## Файлы, потоки и буферы
 
@@ -47,7 +44,7 @@ https://github.com/HowProgrammingWorks/Collections
 ## Продвинутые темы
 
   1. [Функторы](https://github.com/HowProgrammingWorks/Functor), аппликативные функторы и монады
-  2  Кеширование и [мемоизация](https://github.com/HowProgrammingWorks/Memoization)
+  2. Кеширование и [мемоизация](https://github.com/HowProgrammingWorks/Memoization)
   3. [Примеси](https://github.com/HowProgrammingWorks/Mixin) как декораторы и непрямое наследование
   4. Итераторы и [генераторы](https://github.com/HowProgrammingWorks/Generator)
   5. [Асинхронное исполнение](https://github.com/HowProgrammingWorks/AsynchronousProgramming), ввод/вывод и параллелизм
@@ -55,11 +52,6 @@ https://github.com/HowProgrammingWorks/Collections
   7. [Promises](https://github.com/HowProgrammingWorks/Promise) и [чеининг](https://github.com/HowProgrammingWorks/Chaining)
   8. [Сериализация](https://github.com/HowProgrammingWorks/Serialization) и десериализация
   9. [Регулярные выражения](https://github.com/HowProgrammingWorks/RegExp)
-<!--
-https://github.com/HowProgrammingWorks/Concurrency
-https://github.com/HowProgrammingWorks/Proxy
-https://github.com/HowProgrammingWorks/Symbol
--->
 
 ## Программная архитектура
 
