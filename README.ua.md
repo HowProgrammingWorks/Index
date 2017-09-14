@@ -36,8 +36,8 @@
 
   1. [Зв'язані списки](https://github.com/HowProgrammingWorks/LinkedList):
   однозв'язні, двозв'язні та кільцеві
-  2. [Дерева](https://github.com/HowProgrammingWorks/TreeNode): класифікація,
-  реалізація, методи обходу
+  2. [Дерева](https://github.com/HowProgrammingWorks/TreeNode):
+  класифікація, реалізація, методи обходу
   3. Графи та [орієнтовані](https://github.com/HowProgrammingWorks/DirectedGraph)
   графи
 
@@ -47,7 +47,8 @@
   2. [Робота з файлами](https://github.com/HowProgrammingWorks/Files):
   дескріптор, синхронні та асинхронні операції, спостереження за файловою системою
   3. [Файлові потоки](https://github.com/HowProgrammingWorks/Streams)
-  4. [Сокети](https://github.com/HowProgrammingWorks/Socket): TCP та UDP, client та server
+  4. [Сокети](https://github.com/HowProgrammingWorks/Socket):
+  TCP та UDP, client та server
 
 ## Розширені поняття
 

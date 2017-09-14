@@ -24,8 +24,10 @@
 ## Related Topics
 
   1. [Development tools and environment configuration](https://github.com/HowProgrammingWorks/Tools)
-  2. [Version control](https://github.com/HowProgrammingWorks/VersionControl) systems and working in groups
-  3. [Code style](https://github.com/HowProgrammingWorks/CodeStyle) and conventions
+  2. [Version control](https://github.com/HowProgrammingWorks/VersionControl)
+  systems and working in groups
+  3. [Code style](https://github.com/HowProgrammingWorks/CodeStyle) and
+  code conventions
   4. Code [benchmarking](https://github.com/HowProgrammingWorks/Benchmark)
   5. [Project template](https://github.com/HowProgrammingWorks/Project)
 
@@ -38,25 +40,33 @@
 ## Files, streams, buffers and sockets
 
   1. [Buffers](https://github.com/HowProgrammingWorks/Buffers)
-  2. [Files](https://github.com/HowProgrammingWorks/Files): handle, sync, async, watching
+  2. [Files](https://github.com/HowProgrammingWorks/Files):
+  handle, sync, async, watching
   3. File [streams](https://github.com/HowProgrammingWorks/Streams)
-  4. [Sockets](https://github.com/HowProgrammingWorks/Socket): TCP and UDP, client and server
+  4. [Sockets](https://github.com/HowProgrammingWorks/Socket):
+  TCP and UDP, client and server
 
 ## Advanced Concepts
 
-  1. [Functors](https://github.com/HowProgrammingWorks/Functor), applicative functors and monads
+  1. [Functors](https://github.com/HowProgrammingWorks/Functor),
+  applicative functors and monads
   2. Caching and [Memoization](https://github.com/HowProgrammingWorks/Memoization)
-  3. [Mixins](https://github.com/HowProgrammingWorks/Mixin) as decorators and nonlinear inheritance
+  3. [Mixins](https://github.com/HowProgrammingWorks/Mixin)
+  as decorators and nonlinear inheritance
   4. Iterators and [generators](https://github.com/HowProgrammingWorks/Generator)
-  5. [Asynchronous execution](https://github.com/HowProgrammingWorks/AsynchronousProgramming), I/O and parallelism
+  5. [Asynchronous execution](https://github.com/HowProgrammingWorks/AsynchronousProgramming),
+  I/O and parallelism
   6. Events and [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
-  7. [Promises](https://github.com/HowProgrammingWorks/Promise) and [chaining](https://github.com/HowProgrammingWorks/Chaining)
-  8. [Serialization](https://github.com/HowProgrammingWorks/Serialization) and deserialization
+  7. [Promises](https://github.com/HowProgrammingWorks/Promise) and
+  [chaining](https://github.com/HowProgrammingWorks/Chaining)
+  8. [Serialization](https://github.com/HowProgrammingWorks/Serialization)
+  and deserialization
   9. [Regular expressions](https://github.com/HowProgrammingWorks/RegExp)
 
 ## Software Architecture
 
-  1. [Modularity](https://github.com/HowProgrammingWorks/Modularity) and Dependency
+  1. [Modularity](https://github.com/HowProgrammingWorks/Modularity)
+  and Dependency
   2. [Inversion of Control](https://github.com/HowProgrammingWorks/InversionOfControl)
   3. [Dependency Injection](https://github.com/HowProgrammingWorks/DependencyInjection)
   4. [Inter-process Communication](https://github.com/HowProgrammingWorks/InterProcessCommunication)
@@ -80,7 +90,8 @@
   3. Logic, declarative and automata-based programming
   4. Language-oriented programming and domain-specific languages
   5. Object-oriented and prototype-oriented programming
-  6. Asynchronous, Reactive and [Event-driven programming](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
+  6. Asynchronous, Reactive and
+  [Event-driven programming](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
   7. Probabilistic programming
   8. [Data-driven programming](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
   9. [Metaprogramming](https://github.com/HowProgrammingWorks/Metaprogramming)
