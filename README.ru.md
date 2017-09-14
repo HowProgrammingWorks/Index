@@ -35,11 +35,13 @@
   2. [Деревья](https://github.com/HowProgrammingWorks/TreeNode): классификация, реализация, обход
   3. Графы включая [ориентированные](https://github.com/HowProgrammingWorks/DirectedGraph) графы
 
-## Файлы, потоки и буферы
+## Файлы, потоки, буферы и сокеты
 
-  1. [Работа с файлами](https://github.com/HowProgrammingWorks/Files)
-  2. [Буферы](https://github.com/HowProgrammingWorks/Buffers)
+  1. [Буферы](https://github.com/HowProgrammingWorks/Buffers)
+  2. [Работа с файлами](https://github.com/HowProgrammingWorks/Files):
+  дескриптор, синхронные и асинхронные операции, наблюдение за файловой системой
   3. [Файловые потоки](https://github.com/HowProgrammingWorks/Streams)
+  4. [Сокеты](https://github.com/HowProgrammingWorks/Socket): TCP и UDP, client и server
 
 ## Продвинутые темы
 

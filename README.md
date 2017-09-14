@@ -35,11 +35,12 @@
   2. [Trees](https://github.com/HowProgrammingWorks/TreeNode): classification, implementation, traversion
   3. Graphs including [directed](https://github.com/HowProgrammingWorks/DirectedGraph) graphs
 
-## Files, streams and buffers
+## Files, streams, buffers and sockets
 
-  1. [Files](https://github.com/HowProgrammingWorks/Files) and file system
-  2. [Buffers](https://github.com/HowProgrammingWorks/Buffers)
+  1. [Buffers](https://github.com/HowProgrammingWorks/Buffers)
+  2. [Files](https://github.com/HowProgrammingWorks/Files): handle, sync, async, watching
   3. File [streams](https://github.com/HowProgrammingWorks/Streams)
+  4. [Sockets](https://github.com/HowProgrammingWorks/Socket): TCP and UDP, client and server
 
 ## Advanced Concepts
 

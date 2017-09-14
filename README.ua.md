@@ -41,11 +41,13 @@
   3. Графи та [орієнтовані](https://github.com/HowProgrammingWorks/DirectedGraph)
   графи
 
-## Файли, потоки та буфери
+## Файли, потоки, буфери и сокети
 
-  1. [Робота з файлами](https://github.com/HowProgrammingWorks/Files)
-  2. [Буфери](https://github.com/HowProgrammingWorks/Buffers)
+  1. [Буфери](https://github.com/HowProgrammingWorks/Buffers)
+  2. [Робота з файлами](https://github.com/HowProgrammingWorks/Files):
+  дескріптор, синхронні та асинхронні операції, спостереження за файловою системою
   3. [Файлові потоки](https://github.com/HowProgrammingWorks/Streams)
+  4. [Сокети](https://github.com/HowProgrammingWorks/Socket): TCP та UDP, client та server
 
 ## Розширені поняття
 
