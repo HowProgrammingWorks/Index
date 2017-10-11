@@ -86,12 +86,13 @@
 ## Programming Paradigms and Techniques
 
   1. Imperative, non-structured, structured and procedural programming
-  2. Functional programming
+    - [Imperative programming]https://github.com/HowProgrammingWorks/ImperativeProgramming
+    - [Prototype-oriented programming](https://github.com/HowProgrammingWorks/PrototypeOrientedProgramming)
+    - [Object-oriented programming](https://github.com/HowProgrammingWorks/ObjectOrientedProgramming)
+  2. [Functional programming](https://github.com/HowProgrammingWorks/FunctionalProgramming)
   3. Logic, declarative and automata-based programming
-  4. Language-oriented programming and domain-specific languages
-  5. Object-oriented and prototype-oriented programming
-  6. Asynchronous, Reactive and
-  [Event-driven programming](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
-  7. Probabilistic programming
-  8. [Data-driven programming](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
-  9. [Metaprogramming](https://github.com/HowProgrammingWorks/Metaprogramming)
+  4. [Language-oriented programming and domain-specific languages](https://github.com/HowProgrammingWorks/DSL)
+  5. Asynchronous, Reactive and [Event-driven programming](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
+  6. Probabilistic programming
+  7. [Data-driven programming](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
+  8. [Metaprogramming](https://github.com/HowProgrammingWorks/Metaprogramming)

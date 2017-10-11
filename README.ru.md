@@ -90,14 +90,16 @@
 ## Парадигмы и техники программирования
 
   1. Императивное, неструктурное, структурное и процедурное программирование
-  2. Функциональное программирование
+    - https://github.com/HowProgrammingWorks/ImperativeProgramming
+    - [Прототипное программирование](https://github.com/HowProgrammingWorks/PrototypeOrientedProgramming)
+    - [Объектно-ориентированное программирование](https://github.com/HowProgrammingWorks/ObjectOrientedProgramming)
+  2. [Функциональное программирование](https://github.com/HowProgrammingWorks/FunctionalProgramming)
   3. Логическое, декларативное и автоматное программирование
   4. Language-oriented программирование и языки, специализированные для
   предметной области
-  5. Объектно-ориентированное и прототипное программирование
-  6. Асинхронное, реактивное и [событийное
+  5. Асинхронное, реактивное и [событийное
   программирование](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
-  7. Вероятностное программирование
-  8. [Программирование](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
+  6. Вероятностное программирование
+  7. [Программирование](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
   управляемое данными
-  9. [Метапрограммирование](https://github.com/HowProgrammingWorks/Metaprogramming)
+  8. [Метапрограммирование](https://github.com/HowProgrammingWorks/Metaprogramming)
