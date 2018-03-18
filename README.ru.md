@@ -35,7 +35,7 @@
 
   1. [Списки](https://github.com/HowProgrammingWorks/LinkedList):
   односвязные, двусвязный, кольцо
-  2. [Деревья](https://github.com/HowProgrammingWorks/TreeNode):
+  2. [Деревья](https://github.com/HowProgrammingWorks/Trees):
   классификация, реализация, обход
   3. Графы и [ориентированные](https://github.com/HowProgrammingWorks/DirectedGraph)
   графы

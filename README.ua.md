@@ -36,7 +36,7 @@
 
   1. [Зв'язані списки](https://github.com/HowProgrammingWorks/LinkedList):
   однозв'язні, двозв'язні та кільцеві
-  2. [Дерева](https://github.com/HowProgrammingWorks/TreeNode):
+  2. [Дерева](https://github.com/HowProgrammingWorks/Trees):
   класифікація, реалізація, методи обходу
   3. Графи та [орієнтовані](https://github.com/HowProgrammingWorks/DirectedGraph)
   графи

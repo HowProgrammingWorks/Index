@@ -34,7 +34,7 @@
 ## Data Structures
 
   1. [Linked lists](https://github.com/HowProgrammingWorks/LinkedList): singly, doubly, circular
-  2. [Trees](https://github.com/HowProgrammingWorks/TreeNode): classification, implementation, traversion
+  2. [Trees](https://github.com/HowProgrammingWorks/Trees): classification, implementation, traversion
   3. Graphs including [directed](https://github.com/HowProgrammingWorks/DirectedGraph) graphs
 
 ## Files, streams, buffers and sockets
