@@ -3,20 +3,21 @@
 
 ## Базовые концепции
 
-  1. [Абстракции](https://github.com/HowProgrammingWorks/Abstractions) как
-  сущность программирования и инженерии
+  1. [Переиспользуемые абстракции](https://github.com/HowProgrammingWorks/Reusable)
+  как сущность программирования и инженерии,
+  см. также: [cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
   2. [Переменные и типы данных](https://github.com/HowProgrammingWorks/DataTypes),
   скалярные и ссылочные типы, объекты, массивы и
   [структуры данных](https://github.com/HowProgrammingWorks/DataStructures)
-  3. [Функции](https://github.com/HowProgrammingWorks/Function) включая
+  3. [Итерирование](https://github.com/HowProgrammingWorks/Iteration) и циклы
+  4. [Функции](https://github.com/HowProgrammingWorks/Function) включая
   анонимные и лямбда-выражения, чистые функции и побочные эффекты
-  4. Суперпозиция и
+  5. Суперпозиция и
   [конпозиция](https://github.com/HowProgrammingWorks/Composition) функций,
   [частичное применение](https://github.com/HowProgrammingWorks/PartialApplication),
   каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
-  5. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction)
+  6. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction)
   включая колбеки и [замыкания](https://github.com/HowProgrammingWorks/Closure)
-  6. [Итерирование](https://github.com/HowProgrammingWorks/Iteration) и циклы
   7. [Строковые](https://github.com/HowProgrammingWorks/String) операции
   8. Коллекции: [Set и WeakSet](https://github.com/HowProgrammingWorks/Set),
   [Map и WeakMap](https://github.com/HowProgrammingWorks/KeyValue)

@@ -3,23 +3,27 @@
 
 ## Basic Concepts
 
-  1. [Abstractions](https://github.com/HowProgrammingWorks/Abstractions) as
-  an essence of programming and engenering at all
+  1. Abstractions as
+  [reusable components](https://github.com/HowProgrammingWorks/Reusable) and
+  an essence of programming and engenering at all,
+  see also: [cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
   2. [Variables and data types](https://github.com/HowProgrammingWorks/DataTypes),
   scalar and reference, objects, arrays and
   [data structures](https://github.com/HowProgrammingWorks/DataStructures)
-  3. [Functions](https://github.com/HowProgrammingWorks/Function) including
+  3. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
+  4. [Functions](https://github.com/HowProgrammingWorks/Function) including
   anonymous functions and lambdas, pure functions and side effects
-  4. Superposition and
+  5. Superposition and
   [Composition](https://github.com/HowProgrammingWorks/Composition),
   [partial application](https://github.com/HowProgrammingWorks/PartialApplication),
   currying and [wrapping](https://github.com/HowProgrammingWorks/Wrapper) functions
-  5. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction)
+  6. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction)
   including callbacks and [closures](https://github.com/HowProgrammingWorks/Closure)
-  6. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
   7. [String](https://github.com/HowProgrammingWorks/String) operations
   8. Collections: [Set and WeakSet](https://github.com/HowProgrammingWorks/Set),
   [Map and WeakMap](https://github.com/HowProgrammingWorks/KeyValue)
+
+  9. [Abstractions](https://github.com/HowProgrammingWorks/Abstractions)
 
 ## Related Topics
 

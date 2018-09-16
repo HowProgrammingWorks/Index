@@ -3,20 +3,21 @@
 
 ## Базові концепції
 
-  1. [Абстракції](https://github.com/HowProgrammingWorks/Abstractions), як
-  сутність програмування та інженерії загалом
+  1. [Абстракції багаторазового](https://github.com/HowProgrammingWorks/Reusable),
+  використання як сутність програмування та інженерії загалом,
+  см. також: [cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
   2. [Змінні та типи даних](https://github.com/HowProgrammingWorks/DataTypes),
   скалярні величини та посилання, об'єкти, масиви та
   [структури даних](https://github.com/HowProgrammingWorks/DataStructures)
-  3. [Функції](https://github.com/HowProgrammingWorks/Function),
+  3. [Ітерування](https://github.com/HowProgrammingWorks/Iteration) та цикли
+  4. [Функції](https://github.com/HowProgrammingWorks/Function),
   анонімні та лямбда-функції, чисті функції та побічні ефекти
-  4. Суперпозиція та
+  5. Суперпозиція та
   [композиція](https://github.com/HowProgrammingWorks/Composition) функцій,
   [часткове застосування](https://github.com/HowProgrammingWorks/PartialApplication),
   каррінг та [функції-обгортки](https://github.com/HowProgrammingWorks/Wrapper)
-  5. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction),
+  6. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction),
   колбеки та [замикання](https://github.com/HowProgrammingWorks/Closure)
-  6. [Ітерування](https://github.com/HowProgrammingWorks/Iteration) та цикли
   7. Операції зі [строками](https://github.com/HowProgrammingWorks/String)
   8. Коллекції: [Set та WeakSet](https://github.com/HowProgrammingWorks/Set),
   [Map та WeakMap](https://github.com/HowProgrammingWorks/KeyValue)
