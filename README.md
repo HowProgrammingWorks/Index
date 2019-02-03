@@ -90,7 +90,7 @@
 ## Programming Paradigms and Techniques
 
   1. Imperative, non-structured, structured and procedural programming
-    - [Imperative programming]https://github.com/HowProgrammingWorks/ImperativeProgramming
+    - [Imperative programming](https://github.com/HowProgrammingWorks/ImperativeProgramming)
     - [Prototype-oriented programming](https://github.com/HowProgrammingWorks/PrototypeOrientedProgramming)
     - [Object-oriented programming](https://github.com/HowProgrammingWorks/ObjectOrientedProgramming)
   2. [Functional programming](https://github.com/HowProgrammingWorks/FunctionalProgramming)
