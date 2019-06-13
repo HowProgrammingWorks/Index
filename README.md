@@ -1,102 +1,128 @@
-# HowProgrammingWorks Repositories Index
-| [English](README.md) | [Русский](README.ru.md) | [Українська](README.ua.md) |
+# Индекс репозиториев HowProgrammingWorks
 
-## Basic Concepts
+## Курсы лекций
 
-  1. Abstractions as
-  [reusable components](https://github.com/HowProgrammingWorks/Reusable) and
-  an essence of programming and engenering at all,
-  see also: [cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
-  2. [Variables and data types](https://github.com/HowProgrammingWorks/DataTypes),
-  scalar and reference, objects, arrays and
-  [data structures](https://github.com/HowProgrammingWorks/DataStructures)
-  3. [Iteration](https://github.com/HowProgrammingWorks/Iteration) and loops
-  4. [Functions](https://github.com/HowProgrammingWorks/Function) including
-  anonymous functions and lambdas, pure functions and side effects
-  5. Superposition and
-  [Composition](https://github.com/HowProgrammingWorks/Composition),
-  [partial application](https://github.com/HowProgrammingWorks/PartialApplication),
-  currying and [wrapping](https://github.com/HowProgrammingWorks/Wrapper) functions
-  6. [Higher order functions](https://github.com/HowProgrammingWorks/HigherOrderFunction)
-  including callbacks and [closures](https://github.com/HowProgrammingWorks/Closure)
-  7. [String](https://github.com/HowProgrammingWorks/String) operations
-  8. Collections: [Set and WeakSet](https://github.com/HowProgrammingWorks/Set),
-  [Map and WeakMap](https://github.com/HowProgrammingWorks/KeyValue)
+1. Основы программирования
+2. Алгоритмы и структуры данных
+3. Инструменты разработки и жизненного цикла ПО
+4. Функциональное программирование
+5. Объектно-ориентированное программирование
+6. Шаблоны проектирования
+7. Операционные системы
+8. Системное программирование
+9. Проектирование сетевых протоколов и сервисов
+10. Архитектура информационных систем
+11. Веб-технологии
+12. Асинхронное программирование
+13. Параллельное программирование
+14. Парадигмы программирования
+15. Мультипарадигменное и метапрограммирование
+16. Проектирования баз данных
+17. Высоконагруженные и масштабируемые системы
+18. Проектирование пользовательских интерфейсов
+19. Безопасность информационных систем
+20. Качество и надежность ПО
 
-  9. [Abstractions](https://github.com/HowProgrammingWorks/Abstractions)
+## Базовые концепции
 
-## Related Topics
+  1. [Переиспользуемые абстракции](https://github.com/HowProgrammingWorks/Reusable)
+  как сущность программирования и инженерии,
+  см. также: [cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
+  2. [Переменные и типы данных](https://github.com/HowProgrammingWorks/DataTypes),
+  скалярные и ссылочные типы, объекты, массивы и
+  [структуры данных](https://github.com/HowProgrammingWorks/DataStructures)
+  3. [Итерирование](https://github.com/HowProgrammingWorks/Iteration) и циклы
+  4. [Функции](https://github.com/HowProgrammingWorks/Function) включая
+  анонимные и лямбда-выражения, чистые функции и побочные эффекты
+  5. Суперпозиция и
+  [конпозиция](https://github.com/HowProgrammingWorks/Composition) функций,
+  [частичное применение](https://github.com/HowProgrammingWorks/PartialApplication),
+  каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
+  6. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction)
+  включая колбеки и [замыкания](https://github.com/HowProgrammingWorks/Closure)
+  7. [Строковые](https://github.com/HowProgrammingWorks/String) операции
+  8. Коллекции: [Set и WeakSet](https://github.com/HowProgrammingWorks/Set),
+  [Map и WeakMap](https://github.com/HowProgrammingWorks/KeyValue)
 
-  1. [Development tools and environment configuration](https://github.com/HowProgrammingWorks/Tools)
-  2. [Version control](https://github.com/HowProgrammingWorks/VersionControl)
-  systems and working in groups
-  3. [Code style](https://github.com/HowProgrammingWorks/CodeStyle) and
-  code conventions
-  4. Code [benchmarking](https://github.com/HowProgrammingWorks/Benchmark)
-  5. [Project template](https://github.com/HowProgrammingWorks/Project)
+## Вспомогательные темы
 
-## Data Structures
+  1. [Инструменты разработки и конфигурация среды разработки](https://github.com/HowProgrammingWorks/Tools)
+  2. Системы [управления версиями](https://github.com/HowProgrammingWorks/VersionControl)
+  и групповая работа
+  3. [Стиль кода](https://github.com/HowProgrammingWorks/CodeStyle) и конвенции
+  4. Исследование [производительности](https://github.com/HowProgrammingWorks/Benchmark)
+  и скорости кода
+  5. [Заготовка проекта](https://github.com/HowProgrammingWorks/Project)
 
-  1. [Linked lists](https://github.com/HowProgrammingWorks/LinkedList): singly, doubly, circular
-  2. [Trees](https://github.com/HowProgrammingWorks/Trees): classification, implementation, traversion
-  3. Graphs including [directed](https://github.com/HowProgrammingWorks/DirectedGraph) graphs
+## Структуры данных
 
-## Files, streams, buffers and sockets
+  1. [Списки](https://github.com/HowProgrammingWorks/LinkedList):
+  односвязные, двусвязный, кольцо
+  2. [Деревья](https://github.com/HowProgrammingWorks/Trees):
+  классификация, реализация, обход
+  3. Графы и [ориентированные](https://github.com/HowProgrammingWorks/DirectedGraph)
+  графы
 
-  1. [Buffers](https://github.com/HowProgrammingWorks/Buffers)
-  2. [Files](https://github.com/HowProgrammingWorks/Files):
-  handle, sync, async, watching
-  3. File [streams](https://github.com/HowProgrammingWorks/Streams)
-  4. [Sockets](https://github.com/HowProgrammingWorks/Socket):
-  TCP and UDP, client and server
+## Файлы, потоки, буферы и сокеты
 
-## Advanced Concepts
+  1. [Буферы](https://github.com/HowProgrammingWorks/Buffers)
+  2. [Работа с файлами](https://github.com/HowProgrammingWorks/Files):
+  дескриптор, синхронные и асинхронные операции, наблюдение за файловой системой
+  3. [Файловые потоки](https://github.com/HowProgrammingWorks/Streams)
+  4. [Сокеты](https://github.com/HowProgrammingWorks/Socket):
+  TCP и UDP, client и server
 
-  1. [Functors](https://github.com/HowProgrammingWorks/Functor),
-  applicative functors and monads
-  2. Caching and [Memoization](https://github.com/HowProgrammingWorks/Memoization)
-  3. [Mixins](https://github.com/HowProgrammingWorks/Mixin)
-  as decorators and nonlinear inheritance
-  4. Iterators and [generators](https://github.com/HowProgrammingWorks/Generator)
-  5. [Asynchronous execution](https://github.com/HowProgrammingWorks/AsynchronousProgramming),
-  I/O and parallelism
-  6. Events and [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
-  7. [Promises](https://github.com/HowProgrammingWorks/Promise) and
-  [chaining](https://github.com/HowProgrammingWorks/Chaining)
-  8. [Serialization](https://github.com/HowProgrammingWorks/Serialization)
-  and deserialization
-  9. [Regular expressions](https://github.com/HowProgrammingWorks/RegExp)
+## Продвинутые темы
 
-## Software Architecture
+  1. [Функторы](https://github.com/HowProgrammingWorks/Functor),
+  аппликативные функторы и монады
+  2. Кеширование и [мемоизация](https://github.com/HowProgrammingWorks/Memoization)
+  3. [Примеси](https://github.com/HowProgrammingWorks/Mixin) как декораторы и
+  непрямое наследование
+  4. Итераторы и [генераторы](https://github.com/HowProgrammingWorks/Generator)
+  5. [Асинхронное исполнение](https://github.com/HowProgrammingWorks/AsynchronousProgramming),
+  ввод/вывод и параллелизм
+  6. События и [EventEmitter](https://github.com/HowProgrammingWorks/EventEmitter)
+  7. [Promises](https://github.com/HowProgrammingWorks/Promise) и
+  [чеининг](https://github.com/HowProgrammingWorks/Chaining)
+  8. [Сериализация](https://github.com/HowProgrammingWorks/Serialization)
+  и десериализация
+  9. [Регулярные выражения](https://github.com/HowProgrammingWorks/RegExp)
 
-  1. [Modularity](https://github.com/HowProgrammingWorks/Modularity)
-  and Dependency
-  2. [Inversion of Control](https://github.com/HowProgrammingWorks/InversionOfControl)
-  3. [Dependency Injection](https://github.com/HowProgrammingWorks/DependencyInjection)
-  4. [Inter-process Communication](https://github.com/HowProgrammingWorks/InterProcessCommunication)
-  5. [Sandboxing](https://github.com/HowProgrammingWorks/Sandboxes)
-  6. Multi-layer and Multi-tier Architecture
-  7. Data Access Layer, Cursors and Object-Relational Mapping
-  8. Application Servers, thin and thic clients
-  9. Introspection, Reflection and Scaffolding
+## Программная архитектура
 
-## Practical Examples
+  1. [Модульность](https://github.com/HowProgrammingWorks/Modularity)
+  и зависимости
+  2. [Инверсия управления](https://github.com/HowProgrammingWorks/InversionOfControl)
+  3. [Внедрение зависимостей](https://github.com/HowProgrammingWorks/DependencyInjection)
+  4. [Межпроцессовое взаимодействие](https://github.com/HowProgrammingWorks/InterProcessCommunication)
+  5. [Песочницы](https://github.com/HowProgrammingWorks/Sandboxes)
+  6. Многослойные и многозвенные архитектуры
+  7. Слой доступа к данным, курсоры и объектно-реляционное отображение
+  8. Сервера приложений, тонкие и толстые клиенты
+  9. Интроспекция, рефлексия и скаффолдинг
 
-  1. Routing for [HTTP Server](https://github.com/HowProgrammingWorks/NodeServer)
-  2. [Websocket Chat](https://github.com/HowProgrammingWorks/WebsocketChat)
-  3. Interactive multi-user [LiveTable](https://github.com/HowProgrammingWorks/LiveTable)
-  4. Data [Projection](https://github.com/HowProgrammingWorks/Projection)
+## Комплексные примеры
 
-## Programming Paradigms and Techniques
+  1. Маршрутизация для [HTTP сервера](https://github.com/HowProgrammingWorks/NodeServer)
+  2. Чат на [Websocket-ах](https://github.com/HowProgrammingWorks/WebsocketChat)
+  3. Интерактивные многопользовательские,
+  [живые таблицы](https://github.com/HowProgrammingWorks/LiveTable)
+  4. [Проекция данных](https://github.com/HowProgrammingWorks/Projection)
 
-  1. Imperative, non-structured, structured and procedural programming
-    - [Imperative programming](https://github.com/HowProgrammingWorks/ImperativeProgramming)
-    - [Prototype-oriented programming](https://github.com/HowProgrammingWorks/PrototypeOrientedProgramming)
-    - [Object-oriented programming](https://github.com/HowProgrammingWorks/ObjectOrientedProgramming)
-  2. [Functional programming](https://github.com/HowProgrammingWorks/FunctionalProgramming)
-  3. Logic, declarative and automata-based programming
-  4. [Language-oriented programming and domain-specific languages](https://github.com/HowProgrammingWorks/DSL)
-  5. Asynchronous, Reactive and [Event-driven programming](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
-  6. Probabilistic programming
-  7. [Data-driven programming](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
-  8. [Metaprogramming](https://github.com/HowProgrammingWorks/Metaprogramming)
+## Парадигмы и техники программирования
+
+  1. Императивное, неструктурное, структурное и процедурное программирование
+    - https://github.com/HowProgrammingWorks/ImperativeProgramming
+    - [Прототипное программирование](https://github.com/HowProgrammingWorks/PrototypeOrientedProgramming)
+    - [Объектно-ориентированное программирование](https://github.com/HowProgrammingWorks/ObjectOrientedProgramming)
+  2. [Функциональное программирование](https://github.com/HowProgrammingWorks/FunctionalProgramming)
+  3. Логическое, декларативное и автоматное программирование
+  4. Language-oriented программирование и языки, специализированные для
+  предметной области
+  5. Асинхронное, реактивное и [событийное
+  программирование](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
+  6. Вероятностное программирование
+  7. [Программирование](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
+  управляемое данными
+  8. [Метапрограммирование](https://github.com/HowProgrammingWorks/Metaprogramming)
