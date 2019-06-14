@@ -69,3 +69,5 @@
   - Асинхронные итераторы: https://github.com/HowProgrammingWorks/Iterator
 - [Перечислимый тип (enum) в JavaScript и TypeScript](https://youtu.be/BXiKebOIAGI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Enum
+- [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Generics
