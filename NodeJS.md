@@ -1,0 +1,56 @@
+# Технологический стек Node.js
+
+- [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
+- [Обзор встроенного Node.js API](https://youtu.be/sOkjR-N6IAs)
+- [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
+  - Пример проекта: https://github.com/HowProgrammingWorks/Project
+  - Абстрактные слои: https://github.com/HowProgrammingWorks/AbstractionLayers
+  - Песочницы: https://github.com/HowProgrammingWorks/Sandboxes
+- [Инверсия управления и внедрение зависимостей в Node.js](https://youtu.be/Fz86Fdjz-LM)
+  - Инверсия управления: https://github.com/HowProgrammingWorks/InversionOfControl
+  - Внедрение зависимостей: https://github.com/HowProgrammingWorks/DependencyInjection
+- [Работа с файлами, буферами и файловыми потоками в Node.js](https://youtu.be/eQGBS15vUac)
+  - Работа с файлами: https://github.com/HowProgrammingWorks/Files
+  - Файловые потоки: https://github.com/HowProgrammingWorks/Streams
+  - Буферы: https://github.com/HowProgrammingWorks/Buffers
+- [Межпроцессовое взаимодействие в Node.js](https://youtu.be/2OXWZFMvfbc)
+  - Примеры кода: https://github.com/HowProgrammingWorks/InterProcessCommunication
+- [HTTP сервер на Node.js (routing, cluster, IP sticky)](https://youtu.be/7Ufxj0oTaUo)
+  - Примеры кода: https://github.com/HowProgrammingWorks/NodeServer
+- [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
+  - Примеры кода: https://github.com/HowProgrammingWorks/CommandLine
+- [Высоконагруженные распределенные приложения на Node.js](https://youtu.be/7tfZDABPvVs)
+- [WebSocket сервер на Node.js (электронные таблицы и чат)](https://youtu.be/Sf7ln3n16ws)
+  - Вебсокеты: https://github.com/HowProgrammingWorks/WebsocketChat
+  - Чат: https://github.com/HowProgrammingWorks/LiveTable
+- [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Transaction
+- [Наблюдение за файловой системой в Node.js](https://youtu.be/29QINR9rruQ)
+  - Файловая система в Node.js: https://github.com/HowProgrammingWorks/Files
+  - Наблюдение за файлами: https://github.com/HowProgrammingWorks/FilesystemWatch
+- [Утечки памяти в Node.js и JavaScript, сборка мусора и профилирование](https://youtu.be/0oZa64SB2wM)
+  - Примеры кода: https://github.com/HowProgrammingWorks/MemoryLeaks
+- [Atomics, SharedArrayBuffer, worker_threads в Node.js](https://youtu.be/zLm8pnbxSII)
+  - Потоки: https://github.com/HowProgrammingWorks/Threads/
+  - Атомарные операции: https://github.com/HowProgrammingWorks/Atomics/
+- [Семафоры и мьютексы в JavaScript и Node.js](https://youtu.be/JNLrITevhRI)
+  - Семафоры: https://github.com/HowProgrammingWorks/Semaphore
+  - Мьютексы: https://github.com/HowProgrammingWorks/Mutex
+- [Необработанные ошибки в промисах](https://youtu.be/1Ml5NE2fsZ8)
+  - Примеры кода: https://github.com/HowProgrammingWorks/PromiseError
+- [HTTP сессии и cookies на чистом Node.js](https://youtu.be/T_wKXuWW4Wo)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Session
+- [HTTP запросы в браузере и Node.js: XMLHttpRequest, fetch](https://youtu.be/wMMki2FEYGY)
+  - Примеры кода: https://github.com/HowProgrammingWorks/HttpRequest
+- [Разработка API на Node.js (клиент и сервер)](https://youtu.be/-az912XBCu8)
+  - Примеры кода: https://github.com/HowProgrammingWorks/API
+- [Работа с базами данных в Node.js на примере PostgreSQL](https://youtu.be/2tDvHQCBt3w)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Databases
+- [CQS, CQRS, Event Sourcing - Разделение запросов и модификации данных](https://youtu.be/T2tRc80Q8Qw)
+  - CQS: https://github.com/HowProgrammingWorks/CQS
+  - CQRS: https://github.com/HowProgrammingWorks/CQRS
+  - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
+- [Логирование на Node.js и JavaScript](https://youtu.be/4DkZj2Cdokc)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Logging
+- [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
+  - Примеры кода: https://github.com/HowProgrammingWorks/ActorModel

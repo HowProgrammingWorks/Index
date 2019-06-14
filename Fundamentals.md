@@ -1,0 +1,71 @@
+# Основы программирования
+
+- [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
+- [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
+- [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
+  - Функции: https://github.com/HowProgrammingWorks/Function
+  - Замыкания: https://github.com/HowProgrammingWorks/Closure
+- [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
+  - Структуры данных: https://github.com/HowProgrammingWorks/DataStructures
+  - Итерирование: https://github.com/HowProgrammingWorks/Iteration
+  - Прототипы: https://github.com/HowProgrammingWorks/Prototype
+- [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)
+  - Частичное применение: https://github.com/HowProgrammingWorks/PartialApplication
+  - Композиция: https://github.com/HowProgrammingWorks/Composition
+- [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
+  - Функции высшего порядка: https://github.com/HowProgrammingWorks/HigherOrderFunction
+  - Функции обратного вызова: https://github.com/HowProgrammingWorks/Callbacks
+- [Работа со строками, шаблонами и юникодом в JavaScript](https://youtu.be/GcopcHQkA8M)
+  - Примеры кода: https://github.com/HowProgrammingWorks/String
+- [Примеси, обертки, декораторы, мемоизация в JavaScript](https://youtu.be/oRQ0kQr1N-U)
+  - Обертки: https://github.com/HowProgrammingWorks/Wrapper
+  - Примеси: https://github.com/HowProgrammingWorks/Mixin
+  - Мемоизация: https://github.com/HowProgrammingWorks/Memoization
+- [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
+  - Чеининг: https://github.com/HowProgrammingWorks/Chaining
+  - Обработка ошибок: https://github.com/HowProgrammingWorks/Errors
+- [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Recursion
+- [Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg)
+  - Таймеры: https://github.com/HowProgrammingWorks/Timers
+  - EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
+  - События: https://github.com/metarhia/common/blob/master/lib/events.js
+- [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Iteration
+- [Функциональное программирование на JavaScript](https://youtu.be/0JxSs_GcvbQ)
+  - Примеры кода: https://github.com/HowProgrammingWorks/FunctionalProgramming
+- [Реактивное программирование на JavaScript](https://youtu.be/7MH8-qQc-48)
+  - Примеры кода: https://github.com/HowProgrammingWorks/ReactiveProgramming
+- [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Projection
+- [Коллекции, множества, хештаблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
+  - Коллекции: https://github.com/HowProgrammingWorks/Collections
+  - Хеш таблицы: https://github.com/HowProgrammingWorks/Map
+  - Множества: https://github.com/HowProgrammingWorks/Set
+- [Структуры данных: списки, стек, очередь, дэк в JavaScript](https://youtu.be/9KvA4hDDSjk)
+  - Списки: https://github.com/HowProgrammingWorks/LinkedList
+  - Очереди: https://github.com/HowProgrammingWorks/Dequeue
+- [Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Serialization
+- [Proxy и Symbol в JavaScript](https://youtu.be/UjZjSDyi9AM)
+  - Прокси: https://github.com/HowProgrammingWorks/Proxy
+  - Символы: https://github.com/HowProgrammingWorks/Symbol
+- [Регулярные выражения и парсинг в JavaScript](https://youtu.be/-ef2E0ozxao)
+  - Примеры кода: https://github.com/HowProgrammingWorks/RegExp
+- [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
+  - Фабрики: https://github.com/HowProgrammingWorks/Factory
+  - Пулы объектов: https://github.com/HowProgrammingWorks/Pool
+- [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
+  - Примеры кода: https://github.com/HowProgrammingWorks/TypedArrays
+- [Шаблон Singleton (синглтон) в  JavaScript](https://youtu.be/qdJ5yikZnfE)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Singleton
+- [Функциональные объекты, функторы и монады в JavaScript](https://youtu.be/3Z7f0Gi8pxw)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Functor
+- [Генераторы и асинхронные генераторы](https://youtu.be/kvNm9D32s8s)
+  - Генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
+  - Асинхронные генераторы: https://github.com/HowProgrammingWorks/Generator
+- [Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
+  - Итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
+  - Асинхронные итераторы: https://github.com/HowProgrammingWorks/Iterator
+- [Перечислимый тип (enum) в JavaScript и TypeScript](https://youtu.be/BXiKebOIAGI)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Enum

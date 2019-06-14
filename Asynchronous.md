@@ -1,54 +1,77 @@
 # Асинхронное программирование
 
-- [1. Асинхронное программирование (обзор)](https://youtu.be/hY6Z6qNYzmc)
-- [2. Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg)
+## Структура курса
+
+- Введение в асинхронное программирование и неблокирующий ввод-вывод
+- Таймеры, таймауты и EventEmitter и AsyncEmitter
+- Асинхронное программирование на функциях обратного вызова (callback)
+- Неблокирующее асинхронное итерирование
+- Асинхронность с библиотекой async.js (надстройки и утилиты над callback)
+- Асинхронность на промисах и обработка ошибок, асинхронный стектрейс
+- Асинхронные функции (async / await) и обработка ошибок
+- Контракт Thenable и легковесный await
+- Необработанные ошибки в промисах
+- Отмена асинхронных операций: callback, Promise, композиции функций
+- Асинхронные адаптеры: promisify, callbackify, asyncify
+- Асинхронные коллекторы данных и конкурентная асинхронная очередь
+- Генераторы, итераторы и асинхронные генераторы и асинхронные итераторы
+- Асинхронная композиция функций и асинхронное функциональное программирование
+- Другие методы: Future, Deferred, Модель акторов (Actor Model)
+- Паттерн Наблюдатель (Observer + Observable), асинхронность на RxJS и потоки событий
+
+## Видео-лекции
+
+- [Асинхронное программирование (обзор)](https://youtu.be/hY6Z6qNYzmc)
+- [Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg)
   - Таймеры: https://github.com/HowProgrammingWorks/Timers
   - EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
   - События: https://github.com/metarhia/common/blob/master/lib/events.js
-- [3. Асинхронное программирование на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
+- [Асинхронное программирование на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsynchronousProgramming
   - Библиотека do: https://github.com/metarhia/do
-- [4. Неблокирующее асинхронное итерирование](https://youtu.be/wYA2cIRYLoA)
+- [Неблокирующее асинхронное итерирование](https://youtu.be/wYA2cIRYLoA)
   - Примеры кода: https://github.com/HowProgrammingWorks/NonBlocking
-- [5. Асинхронность с библиотекой async.js](https://youtu.be/XQ94wQc-erU)
+- [Асинхронность с библиотекой async.js](https://youtu.be/XQ94wQc-erU)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsynchronousProgramming
   - Библиотека async.js: https://caolan.github.io/async/
-- [6. Асинхронность на промисах](https://youtu.be/RMl4r6s1Y8M)
+- [Асинхронность на промисах](https://youtu.be/RMl4r6s1Y8M)
   - Примеры кода: https://github.com/HowProgrammingWorks/Promise
-- [7. Асинхронные функции и обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
+- [Асинхронные функции и обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
-- [8. Асинхронные адаптеры: promisify, callbackify, asyncify](https://youtu.be/76k6_YkYRmU)
+- [Асинхронные адаптеры: promisify, callbackify, asyncify](https://youtu.be/76k6_YkYRmU)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAdapter
-- [9. Асинхронные коллекторы данных](https://youtu.be/tgodt1JL6II)
+- [Асинхронные коллекторы данных](https://youtu.be/tgodt1JL6II)
   - Примеры кода: https://github.com/HowProgrammingWorks/Collector
   - Библиотека: https://github.com/metarhia/metasync
-- [10. Необработанные ошибки в промисах](https://youtu.be/1Ml5NE2fsZ8)
+- [Необработанные ошибки в промисах](https://youtu.be/1Ml5NE2fsZ8)
   - Примеры кода: https://github.com/HowProgrammingWorks/PromiseError
-- [11. Проблема асинхронного стектрейса](https://youtu.be/pfiHTx3j87Y)
+- [Проблема асинхронного стектрейса](https://youtu.be/pfiHTx3j87Y)
   - Примеры кода: https://github.com/HowProgrammingWorks/StackTrace
-- [12. Генераторы и асинхронные генераторы](https://youtu.be/kvNm9D32s8s)
+- [Генераторы и асинхронные генераторы](https://youtu.be/kvNm9D32s8s)
   - Генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
   - Асинхронные генераторы: https://github.com/HowProgrammingWorks/Generator
-- [13. Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
+- [Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
   - Итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
   - Асинхронные итераторы: https://github.com/HowProgrammingWorks/Iterator
-- [14. Отмена асинхронных операций](https://youtu.be/T8fXlnqI4Ws)
+- [Отмена асинхронных операций](https://youtu.be/T8fXlnqI4Ws)
   - Примеры кода: https://github.com/HowProgrammingWorks/Cancelable
-- [15. Асинхронная композиция функций](https://youtu.be/3ZCrMlMpOrM)
+- [Асинхронная композиция функций](https://youtu.be/3ZCrMlMpOrM)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncCompose
-- [16. Thenable и легковесный await](https://youtu.be/DXp__1VNIvI)
+- [Thenable и легковесный await](https://youtu.be/DXp__1VNIvI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Thenable
-- [17. Конкурентная асинхронная очередь](https://youtu.be/Lg46AH8wFvg)
+- [Конкурентная асинхронная очередь](https://youtu.be/Lg46AH8wFvg)
   - Примеры кода: https://github.com/HowProgrammingWorks/ConcurrentQueue
-- [18. Паттерн открытый конструктор (Revealing Constructor)](https://youtu.be/leR5sXRkuJI)
+- [Паттерн открытый конструктор (Revealing Constructor)](https://youtu.be/leR5sXRkuJI)
   - Примеры кода: https://github.com/HowProgrammingWorks/RevealingConstructor
-- [19. Future: Асинхронность на фьючерах без состояния](https://youtu.be/22ONv3AGXdk)
+- [Future: Асинхронность на фьючерах без состояния](https://youtu.be/22ONv3AGXdk)
   - Примеры кода: https://github.com/HowProgrammingWorks/Future
-- [20. Deferred: Асинхронность на диферах с состоянием](https://youtu.be/a2fVA1o-ovM)
+- [Deferred: Асинхронность на диферах с состоянием](https://youtu.be/a2fVA1o-ovM)
   - Примеры кода: https://github.com/HowProgrammingWorks/Deferred
-- [21. Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
+- [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
   - Примеры кода: https://github.com/HowProgrammingWorks/ActorModel
-- [22. Паттерн Наблюдатель (Observer + Observable)](https://youtu.be/_bFXuLcXoXg)
+- [Паттерн Наблюдатель (Observer + Observable)](https://youtu.be/_bFXuLcXoXg)
   - Примеры кода: https://github.com/HowProgrammingWorks/Observer
-- [23. Асинхронность на RxJS и потоки событий](https://youtu.be/0kcpMAl-wfE)
+- [Асинхронность на RxJS и потоки событий](https://youtu.be/0kcpMAl-wfE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Rx
+- Асинхронные обработчики событий и AsyncEmitter
+- Async hooks

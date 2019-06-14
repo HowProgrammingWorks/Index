@@ -1,1 +1,30 @@
 # Функциональное программирование
+
+- [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
+  - Функции: https://github.com/HowProgrammingWorks/Function
+  - Замыкания: https://github.com/HowProgrammingWorks/Closure
+- [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)
+  - Частичное применение: https://github.com/HowProgrammingWorks/PartialApplication
+  - Композиция: https://github.com/HowProgrammingWorks/Composition
+- [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
+  - Функции высшего порядка: https://github.com/HowProgrammingWorks/HigherOrderFunction
+  - Функции обратного вызова: https://github.com/HowProgrammingWorks/Callbacks
+- [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
+  - Чеининг: https://github.com/HowProgrammingWorks/Chaining
+  - Обработка ошибок: https://github.com/HowProgrammingWorks/Errors
+- [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Recursion
+- [Функциональное программирование на JavaScript](https://youtu.be/0JxSs_GcvbQ)
+  - Примеры кода: https://github.com/HowProgrammingWorks/FunctionalProgramming
+- [Реактивное программирование на JavaScript](https://youtu.be/7MH8-qQc-48)
+  - Примеры кода: https://github.com/HowProgrammingWorks/ReactiveProgramming
+- [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Projection
+- [Функциональные объекты, функторы и монады в JavaScript](https://youtu.be/3Z7f0Gi8pxw)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Functor
+- [Асинхронные функции и обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
+  - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
+- [Линзы в JavaScript - функциональные аналоги геттера и сеттера](https://youtu.be/IBF5gFU6G-o)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Lenses
+- [Асинхронная композиция функций](https://youtu.be/3ZCrMlMpOrM)
+  - Примеры кода: https://github.com/HowProgrammingWorks/AsyncCompose
