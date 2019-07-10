@@ -11,3 +11,5 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/HttpRequest
 - [Разработка API на Node.js (клиент и сервер)](https://youtu.be/-az912XBCu8)
   - Примеры кода: https://github.com/HowProgrammingWorks/API
+- Отдача статики в Node.js
+- ServiceWorkers и кеширование PWA
