@@ -1,10 +1,10 @@
 # Шаблоны проектирования
 
+- [Шаблон Singleton (синглтон) в JavaScript](https://youtu.be/qdJ5yikZnfE)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Singleton
 - [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
   - Фабрики: https://github.com/HowProgrammingWorks/Factory
   - Пулы объектов: https://github.com/HowProgrammingWorks/Pool
-- [Шаблон Singleton (синглтон) в  JavaScript](https://youtu.be/qdJ5yikZnfE)
-  - Примеры кода: https://github.com/HowProgrammingWorks/Singleton
 - [Фасад - петтерн для скрытия сложности](https://youtu.be/oJtBO7CystE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Facade
 - [Адаптер (Adapter) - паттерн достижения совместимости](https://youtu.be/cA65McLQrR8)
