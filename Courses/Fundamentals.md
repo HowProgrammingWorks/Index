@@ -9,6 +9,7 @@
   - Коллекции, модули, компоненты, библиотеки, сложность, оптимизация
   - Языки и парадигмы программирования, технологические стеки
   - Среда разработки и отладка кода
+  - Примеры кода и задачи: https://github.com/HowProgrammingWorks/Introduction
 - [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
   - Примеры кода и задачи
     - https://github.com/HowProgrammingWorks/Reusable
