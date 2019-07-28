@@ -2,7 +2,6 @@
 
 - Введение в программирование
   - Абстракция, модель, алгоритм, программа, синтаксис, повторное использование
-    - [Примеры кода и задачи](https://github.com/HowProgrammingWorks/Reusable)
   - Значение, идентификатор, переменная и константа, литерал, присвоение
   - Типы данных, скалярные, ссылочные и структурные типы
   - Оператор и выражение, блок кода, функция, цикл, условие
@@ -11,7 +10,9 @@
   - Языки и парадигмы программирования, технологические стеки
   - Среда разработки и отладка кода
 - [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
-  - [Примеры кода и задачи](https://github.com/HowProgrammingWorks/Cheatsheet)
+  - Примеры кода и задачи
+    - https://github.com/HowProgrammingWorks/Reusable
+    - https://github.com/HowProgrammingWorks/Cheatsheet
 - [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
   - [Типы данных](https://github.com/HowProgrammingWorks/DataTypes)
   - [Условия](https://github.com/HowProgrammingWorks/Conditional)
