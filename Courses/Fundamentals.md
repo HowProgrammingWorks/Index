@@ -11,19 +11,23 @@
   - Среда разработки и отладка кода
 - [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
 - [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
+- Антипаттерны общие для всех парадигм
 - [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
   - Функции: https://github.com/HowProgrammingWorks/Function
   - Замыкания: https://github.com/HowProgrammingWorks/Closure
+- Антипаттерны процедурного программирования
 - [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
   - Структуры данных: https://github.com/HowProgrammingWorks/DataStructures
   - Итерирование: https://github.com/HowProgrammingWorks/Iteration
   - Прототипы: https://github.com/HowProgrammingWorks/Prototype
+- Антипаттерны объектно-ориентированного программирования
 - [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)
   - Частичное применение: https://github.com/HowProgrammingWorks/PartialApplication
   - Композиция: https://github.com/HowProgrammingWorks/Composition
 - [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
   - Функции высшего порядка: https://github.com/HowProgrammingWorks/HigherOrderFunction
   - Функции обратного вызова: https://github.com/HowProgrammingWorks/Callbacks
+- Антипаттерны функционального программирования
 - [Работа со строками, шаблонами и юникодом в JavaScript](https://youtu.be/GcopcHQkA8M)
   - Примеры кода: https://github.com/HowProgrammingWorks/String
 - [Примеси, обертки, декораторы, мемоизация в JavaScript](https://youtu.be/oRQ0kQr1N-U)
