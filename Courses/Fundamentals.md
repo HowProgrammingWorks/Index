@@ -1,7 +1,8 @@
 # Основы программирования
 
 - Введение в программирование
-  - Абстракция, модель, алгоритм, программа, синтаксис
+  - Абстракция, модель, алгоритм, программа, синтаксис, повторное использование
+    - [Примеры кода и задачи](https://github.com/HowProgrammingWorks/Reusable)
   - Значение, идентификатор, переменная и константа, литерал, присвоение
   - Типы данных, скалярные, ссылочные и структурные типы
   - Оператор и выражение, блок кода, функция, цикл, условие
@@ -10,7 +11,10 @@
   - Языки и парадигмы программирования, технологические стеки
   - Среда разработки и отладка кода
 - [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
+  - [Примеры кода и задачи](https://github.com/HowProgrammingWorks/Cheatsheet)
 - [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
+  - [Типы данных](https://github.com/HowProgrammingWorks/DataTypes)
+  - [Условия](https://github.com/HowProgrammingWorks/Conditional)
 - Антипаттерны общие для всех парадигм
 - [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
   - Функции: https://github.com/HowProgrammingWorks/Function
