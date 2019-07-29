@@ -15,3 +15,4 @@
 - Immutable - неизменяемые структуры данных
 - Lock-free структуры данных
 - CRDT - Conflict-free data types
+- Динамическое программирование
