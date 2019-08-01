@@ -29,6 +29,7 @@
   - Итерирование: https://github.com/HowProgrammingWorks/Iteration
   - Прототипы: https://github.com/HowProgrammingWorks/Prototype
 - Антипаттерны объектно-ориентированного программирования
+  - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
 - [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)
   - Частичное применение: https://github.com/HowProgrammingWorks/PartialApplication
   - Композиция: https://github.com/HowProgrammingWorks/Composition
