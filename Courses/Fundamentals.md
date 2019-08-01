@@ -18,10 +18,12 @@
   - [Типы данных](https://github.com/HowProgrammingWorks/DataTypes)
   - [Условия](https://github.com/HowProgrammingWorks/Conditional)
 - Антипаттерны общие для всех парадигм
+  - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/01-Common
 - [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
   - Функции: https://github.com/HowProgrammingWorks/Function
   - Замыкания: https://github.com/HowProgrammingWorks/Closure
 - Антипаттерны процедурного программирования
+  - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/02-Procedural
 - [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
   - Структуры данных: https://github.com/HowProgrammingWorks/DataStructures
   - Итерирование: https://github.com/HowProgrammingWorks/Iteration
