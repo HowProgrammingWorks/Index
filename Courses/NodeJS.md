@@ -54,5 +54,5 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Logging
 - [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
   - Примеры кода: https://github.com/HowProgrammingWorks/ActorModel
-- Отдача статики в Node.js
-- Graceful Shutdown в Node.js
+- Отдача статики в Node.js (готовится)
+- Graceful Shutdown в Node.js (готовится)

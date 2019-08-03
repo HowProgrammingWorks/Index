@@ -12,7 +12,7 @@
 - [Графы и запросы к графовым структурам на JavaScript](https://youtu.be/a0W0T8Yqw3s)
   - Примеры кода: https://github.com/HowProgrammingWorks/Graph
 - Буферизация: бубферы, списки буферов, циклические буферы
-- Immutable - неизменяемые структуры данных
-- Lock-free структуры данных
-- CRDT - Conflict-free data types
-- Динамическое программирование
+- Immutable - неизменяемые структуры данных (готовится)
+- Lock-free структуры данных (готовится)
+- CRDT - Conflict-free data types (готовится)
+- Динамическое программирование (готовится)
