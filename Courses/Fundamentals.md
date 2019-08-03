@@ -1,11 +1,11 @@
 # Основы программирования
 
-- Введение в программирование
+- Введение в программирование (готовится)
   - Абстракция, модель, алгоритм, программа, синтаксис, повторное использование
   - Значение, идентификатор, переменная и константа, литерал, присвоение
   - Типы данных, скалярные, ссылочные и структурные типы
   - Оператор и выражение, блок кода, функция, цикл, условие
-- Введение в программирование, продолжение
+- Введение в программирование, продолжение (готовится)
   - Коллекции, модули, компоненты, библиотеки, сложность, оптимизация
   - Языки и парадигмы программирования, технологические стеки
   - Среда разработки и отладка кода
@@ -17,18 +17,18 @@
 - [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
   - [Типы данных](https://github.com/HowProgrammingWorks/DataTypes)
   - [Условия](https://github.com/HowProgrammingWorks/Conditional)
-- Антипаттерны общие для всех парадигм
+- Антипаттерны общие для всех парадигм (готовится)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/01-Common
 - [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
   - Функции: https://github.com/HowProgrammingWorks/Function
   - Замыкания: https://github.com/HowProgrammingWorks/Closure
-- Антипаттерны процедурного программирования
+- Антипаттерны процедурного программирования (готовится)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/02-Procedural
 - [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
   - Структуры данных: https://github.com/HowProgrammingWorks/DataStructures
   - Итерирование: https://github.com/HowProgrammingWorks/Iteration
   - Прототипы: https://github.com/HowProgrammingWorks/Prototype
-- Антипаттерны объектно-ориентированного программирования
+- Антипаттерны объектно-ориентированного программирования (готовится)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
 - [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)
   - Частичное применение: https://github.com/HowProgrammingWorks/PartialApplication
@@ -36,7 +36,7 @@
 - [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
   - Функции высшего порядка: https://github.com/HowProgrammingWorks/HigherOrderFunction
   - Функции обратного вызова: https://github.com/HowProgrammingWorks/Callbacks
-- Антипаттерны функционального программирования
+- Антипаттерны функционального программирования (готовится)
 - [Работа со строками, шаблонами и юникодом в JavaScript](https://youtu.be/GcopcHQkA8M)
   - Примеры кода: https://github.com/HowProgrammingWorks/String
 - [Примеси, обертки, декораторы, мемоизация в JavaScript](https://youtu.be/oRQ0kQr1N-U)
