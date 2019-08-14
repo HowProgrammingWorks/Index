@@ -39,6 +39,8 @@
 - [Семафоры и мьютексы в JavaScript и Node.js](https://youtu.be/JNLrITevhRI)
   - Семафоры: https://github.com/HowProgrammingWorks/Semaphore
   - Мьютексы: https://github.com/HowProgrammingWorks/Mutex
+- [Разделяемая память в многопоточном Node.js](https://youtu.be/KNsm_iIQt7U) -
+доклад на конференции JS Fest 2019 Spring
 - [Необработанные ошибки в промисах](https://youtu.be/1Ml5NE2fsZ8)
   - Примеры кода: https://github.com/HowProgrammingWorks/PromiseError
 - [HTTP сессии и cookies на чистом Node.js](https://youtu.be/T_wKXuWW4Wo)
