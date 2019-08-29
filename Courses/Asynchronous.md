@@ -75,3 +75,4 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Rx
 - Асинхронные обработчики событий и AsyncEmitter
 - Async hooks
+- [Разделяемая память в многопоточном Node.js](https://youtu.be/KNsm_iIQt7U)

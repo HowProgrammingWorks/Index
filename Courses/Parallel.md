@@ -28,3 +28,4 @@
   - Мьютексы: https://github.com/HowProgrammingWorks/Mutex
 - [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
   - Примеры кода: https://github.com/HowProgrammingWorks/ActorModel
+- [Разделяемая память в многопоточном Node.js](https://youtu.be/KNsm_iIQt7U)
