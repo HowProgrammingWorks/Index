@@ -3,7 +3,12 @@
 - вт 03 cен 16:10: Лекция: Введение в программирование
 - вт 03 сен 17:30: Семинар: Обсуждение плана и материалов курса
 - видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
+- примеры и задачи:
+  [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
 - видео: [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
+- примеры и задачи:
+  [DataTypes](https://github.com/HowProgrammingWorks/DataTypes),
+  [Conditional](https://github.com/HowProgrammingWorks/Conditional)
 - вт 10 сен 16:10: Лекция: Введение в программирование, продолжение
 - вт 10 сен 17:30: Семинар: Ответы на вопросы
 - видео: [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
