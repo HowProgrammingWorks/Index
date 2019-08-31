@@ -4,6 +4,7 @@
 - вт 03 сен 17:30: Семинар: Обсуждение плана и материалов курса
 - видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
 - примеры и задачи:
+  [Reusable](https://github.com/HowProgrammingWorks/Reusable),
   [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
 - видео: [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
 - примеры и задачи:
