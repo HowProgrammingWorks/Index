@@ -1,8 +1,11 @@
 # Программа IP9X на 1 семестр
 
 - вт 03 cен 16:10: [Лекция: Введение в программирование](https://youtu.be/5Gt61EX6HZ4)
+- вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/5Gt61EX6HZ4)
+  (это для студентов КПИ 1 курса, но может быть полезно и для IP9X)
 - вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)
 - видео: [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
+  (смотреть выборочно, что не понятно - пропускайте, нам не все из этого нужно)
 - настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
 - видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
 - примеры и задачи:
@@ -12,6 +15,7 @@
 - примеры и задачи:
   [DataTypes](https://github.com/HowProgrammingWorks/DataTypes),
   [Conditional](https://github.com/HowProgrammingWorks/Conditional)
+- вт 10 cен 14:15: Семинар: Базовый синтаксис JavaScript (для групп ИП-93, 94, 95)
 - вт 10 сен 16:10: Лекция: Введение в программирование, продолжение
 - вт 10 сен 17:30: Семинар: Ответы на вопросы
 - видео: [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
