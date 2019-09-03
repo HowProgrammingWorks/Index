@@ -2,8 +2,8 @@
 
 - вт 03 cен 16:10: Лекция: Введение в программирование
 - вт 03 сен 17:30: Семинар: Обсуждение плана и материалов курса
-- видео: [Настройка среды: Node.js, npm, git, eslint(]https://youtu.be/hSyA7tcNaCE)
-- задачи по настройке среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
+- видео: [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
+- настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
 - видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
 - примеры и задачи:
   [Reusable](https://github.com/HowProgrammingWorks/Reusable),
