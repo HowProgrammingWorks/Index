@@ -9,7 +9,7 @@
 - настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
 - видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
 - примеры и задачи:
-  [Reusable](https://github.com/HowProgrammingWorks/Reusable),
+  [Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ru.md),
   [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
 - видео: [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
 - примеры и задачи:
