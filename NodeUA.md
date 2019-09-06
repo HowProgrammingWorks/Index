@@ -1,6 +1,6 @@
 # Расписание NodeUA на 2019-2020
 
-- чт 05 сен: Node.js в 2019 году
+- чт 05 сен: [Node.js в 2019 году](https://youtu.be/CUU49jjHloM)
 - чт 12 сен: Graceful Shutdown в Node.js
 - чт 19 сен: Отдача статики в Node.js
 - чт 26 сен: Применение EventSourcing

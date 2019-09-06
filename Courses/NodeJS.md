@@ -3,7 +3,7 @@
 Видеолекций: 23, еще готовится в 2019 году: 8.
 
 - [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
-- Node.js в 2019 году (готовится, 05 сентября 2019)
+- [Node.js в 2019 году](https://youtu.be/CUU49jjHloM)
 - [Обзор встроенного Node.js API](https://youtu.be/sOkjR-N6IAs)
 - [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
   - Пример проекта: https://github.com/HowProgrammingWorks/Project
