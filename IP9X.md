@@ -2,10 +2,10 @@
 
 - вт 03 cен 16:10: [Лекция: Введение в программирование](https://youtu.be/5Gt61EX6HZ4)
 - вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)
-  (это для студентов КПИ 1 курса, но может быть полезно и для IP9X)
+  (это для студентов КПИ 1 курса)
 - вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)
 - видео: [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
-  (смотреть выборочно, что не понятно - пропускайте, нам не все из этого нужно)
+  (смотреть выборочно, что не понятно - пропускайте)
 - настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
 - видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
 - примеры и задачи:
@@ -13,7 +13,7 @@
   [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
 - видео: [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
 - примеры и задачи:
-  [DataTypes](https://github.com/HowProgrammingWorks/DataTypes),
+  [DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ru.md),
   [Conditional](https://github.com/HowProgrammingWorks/Conditional)
 - вт 10 cен 14:15: Семинар: Базовый синтаксис JavaScript (для групп ИП-93, 94, 95)
 - вт 10 сен 16:10: Лекция: Введение в программирование, продолжение
