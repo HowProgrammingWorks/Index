@@ -15,9 +15,9 @@
 - примеры и задачи:
   [DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ru.md),
   [Conditional](https://github.com/HowProgrammingWorks/Conditional)
-- вт 10 cен 14:15: Семинар: Базовый синтаксис JavaScript (для групп ИП-93, 94, 95)
-- вт 10 сен 16:10: Лекция: Введение в программирование, продолжение
-- вт 10 сен 17:30: Семинар: Ответы на вопросы
+- вт 10 cен 14:15: [Семинар: Автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
+- вт 10 сен 15:00: [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
+- вт 10 сен 16:10: [Лекция: Введение в программирование, продолжение](https://youtu.be/PzlLXQ3RaDs)
 - видео: [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
 - видео: [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
 - вт 17 сен 16:10: Лекция: Языки программирования
