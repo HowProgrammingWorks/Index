@@ -61,7 +61,7 @@
 - [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
   - Примеры кода: https://github.com/HowProgrammingWorks/ActorModel
 - Отдача статики в Node.js (готовится, 19 сентября 2019)
-- Graceful Shutdown в Node.js (готовится, 12 сентября 2019)
+- [Graceful Shutdown в Node.js](https://youtu.be/ZstnowFeCe0)
 - Отправка Email из Node.js (готовится, 21 ноября 2019)
 - GeoIP в Node.js (готовится, 21 ноября 2019)
 - Безопасность приложений Node.js (готовится, 28 ноября 2019)
