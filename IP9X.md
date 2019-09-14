@@ -8,13 +8,13 @@
   (смотреть выборочно, что не понятно - пропускайте)
 - настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
 - видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
-- примеры и задачи:
-  [Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ru.md),
-  [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
+- примеры кода: [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
+- домашнее задание: [Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ru.md)
+  
 - видео: [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
-- примеры и задачи:
-  [DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ru.md),
-  [Conditional](https://github.com/HowProgrammingWorks/Conditional)
+- примеры кода: [Conditional](https://github.com/HowProgrammingWorks/Conditional)
+- домашнее задание: [DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ru.md)
+  
 - вт 10 cен 14:15: [Семинар: Автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
 - вт 10 сен 15:00: [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
 - вт 10 сен 16:10: [Лекция: Введение в программирование, продолжение](https://youtu.be/PzlLXQ3RaDs)
