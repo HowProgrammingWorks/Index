@@ -60,7 +60,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Logging
 - [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
   - Примеры кода: https://github.com/HowProgrammingWorks/ActorModel
-- Отдача статики в Node.js (готовится, 19 сентября 2019)
+- [Отдача статики в Node.js](https://youtu.be/a7d7RdjPAbQ)
 - [Graceful Shutdown в Node.js](https://youtu.be/ZstnowFeCe0)
 - Отправка Email из Node.js (готовится, 21 ноября 2019)
 - GeoIP в Node.js (готовится, 21 ноября 2019)
