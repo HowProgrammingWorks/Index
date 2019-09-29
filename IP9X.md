@@ -1,4 +1,10 @@
-# Программа IP9X на 1 семестр
+## Ссылки
+
+- Канал: https://t.me/HowProgrammingWorks
+- Группа: https://t.me/Programming_IP9X
+- Митапы: https://www.meetup.com/HowProgrammingWorks
+
+## Программа IP9X на 1 семестр
 
 - вт 03 cен 16:10: [Лекция: Введение в программирование](https://youtu.be/5Gt61EX6HZ4)
 - вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)
