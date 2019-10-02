@@ -38,6 +38,7 @@
 - видео: [Работа со строками, шаблонами и юникодом в JavaScript](https://youtu.be/GcopcHQkA8M)
 - видео: [Примеси, обертки, декораторы, мемоизация в JavaScript](https://youtu.be/oRQ0kQr1N-U)
 - вт 01 окт 16:10: [Лекция: Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4)
+- видео: [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
 - видео: [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
 - видео: [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
 - видео: [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
