@@ -23,7 +23,7 @@
 - [Семинар: JavaScript, ответы на вопросы](https://youtu.be/wqkQ6eslyzY)
 - [История развития программирования](https://youtu.be/qqz0VSaNxuw)
 - [Парадигмы программирования](https://youtu.be/Yk1sxLVHfjs)
-- Антипаттерны общие для всех парадигм (готовится)
+- [Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/01-Common
 - [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
   - Функции: https://github.com/HowProgrammingWorks/Function
