@@ -4,7 +4,7 @@
 - чт 12 сен: [Graceful Shutdown в Node.js](https://youtu.be/ZstnowFeCe0)
 - чт 19 сен: [Отдача статики в Node.js](https://youtu.be/n_AdKIzbpBc)
 - чт 26 сен: [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
-- чт 03 окт: ServiceWorkers и кеширование PWA
+- чт 03 окт: [Progressive Web Applications PWA и ServiceWorkers](https://youtu.be/s7AIwZMTVPs)
 - чт 10 отк: JavaScript в браузере
 - чт 17 отк: Принцип единственной ответственности
 - чт 24 отк: Обзор Web API
