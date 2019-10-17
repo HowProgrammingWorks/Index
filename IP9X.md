@@ -47,7 +47,8 @@
 - видео: [Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg)
 - видео: [Функциональное программирование на JavaScript](https://youtu.be/0JxSs_GcvbQ)
 - видео: [Реактивное программирование на JavaScript](https://youtu.be/7MH8-qQc-48)
-- вт 15 отк 16:10: Лекция: Массивы в JavaScript
+- вт 15 отк 16:10: [Семинар: выполнение лабораторных работ по курсу](https://youtu.be/ikUOyFPzdJw)
+- вт 15 отк 17:00: [Массивы в JavaScript: методы Array](https://youtu.be/D1kfYBkX9FE)
 - видео: [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
 - видео: [Коллекции, множества, хештаблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
 - вт 22 отк 16:10: Лекция: Code Review, как это и зачем
