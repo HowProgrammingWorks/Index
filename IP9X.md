@@ -49,6 +49,9 @@
 - видео: [Реактивное программирование на JavaScript](https://youtu.be/7MH8-qQc-48)
 - вт 15 отк 16:10: [Семинар: выполнение лабораторных работ по курсу](https://youtu.be/ikUOyFPzdJw)
 - вт 15 отк 17:00: [Массивы в JavaScript: методы Array](https://youtu.be/D1kfYBkX9FE)
+- примеры и задачи:
+  [Function](https://github.com/HowProgrammingWorks/Function/blob/master/Exercises.ru.md),
+  [Iteration](https://github.com/HowProgrammingWorks/Iteration/blob/master/Exercises.ru.md)
 - видео: [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
 - видео: [Коллекции, множества, хештаблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
 - вт 22 отк 16:10: Лекция: Code Review, как это и зачем
