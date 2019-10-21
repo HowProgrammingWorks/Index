@@ -5,6 +5,7 @@
 - Канал: https://t.me/HowProgrammingWorks
 - Группа (чат): https://t.me/Programming_IP9X
 - Регистрация на митапы: https://www.meetup.com/HowProgrammingWorks
+- Все задачи: https://github.com/HowProgrammingWorks/Index/blob/master/Exercises.ru.md
 - Автор: https://github.com/tshemsedinov
 
 ## Программа на 1й семестр
