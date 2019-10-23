@@ -55,8 +55,8 @@
   [Iteration](https://github.com/HowProgrammingWorks/Iteration/blob/master/Exercises.ru.md)
 - видео: [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
 - видео: [Коллекции, множества, хештаблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
-- вт 22 отк 16:10: Лекция: Code Review, как это и зачем
-- вт 22 окт 17:30: Семинар: Процесс разработки
+- вт 22 отк 16:10: [Code Review: как это и зачем](https://www.youtube.com/watch?v=EKL6NiIQ6ZU)
+- вт 22 окт 17:30: [Семинар: Code Review, ответы на вопросы](https://www.youtube.com/watch?v=AgH4OAKbmkM)
 - видео: [Структуры данных: списки, стек, очередь, дэк в JavaScript](https://youtu.be/9KvA4hDDSjk)
 - вт 29 отк 16:10: Лекция: Мономорфные функции
 - видео: [Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8)
