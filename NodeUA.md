@@ -7,7 +7,6 @@
 - чт 03 окт: [Progressive Web Applications PWA и ServiceWorkers](https://youtu.be/s7AIwZMTVPs)
 - чт 10 отк: [JavaScript в браузере: Web API (часть 1)](https://youtu.be/6O8SBJsNeNw)
 - чт 17 отк: [Принцип единственной ответственности и закон Конвея](https://youtu.be/o4bQywkBKOI)
-- чт 24 отк: JavaScript в браузере: Web API (часть 2)
 - чт 31 отк: Ассоциация, Агрегация и Композиция
 - чт 07 ноя: [Принцип подстановки Барбары Лисков](https://youtu.be/RbhYxygxroc)
 - чт 14 ноя: Антипаттерны объектно-ориентированного программирования
