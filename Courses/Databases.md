@@ -1,5 +1,37 @@
 # Проектирования баз данных
 
+- SQL: SELECT (оператор выборки)
+  - WHERE клауза, составные условия
+  - IN, BETWEEN выражения
+  - GROUP BY клауза
+  - HAVING клауза
+  - ORDER BY клауза
+  - WITH клауза
+  - INTO клауза
+- SQL: Операторы сравнения
+- SQL: Оператор LIKE
+- SQL: DISTINCT, ALL, ANY
+- SQL: Агрегатные функции
+- SQL: Математические функции
+- SQL: Алиасы полей и таблиц
+- SQL: LIMIT, OFFSET
+- SQL: Комментарии
+- SQL JOINS:
+  - CROSS JOIN
+  - INNER JOIN
+  - LEFT (OUTER) JOIN
+  - RIGHT JOIN
+  - FULL JOIN
+  - Рекурссивный JOIN
+- SQL: CREATE DATABASE, DROP DATABASE
+- SQL: CREATE TABLE, DROP TABLE
+- SQL: ALTER TABLE
+- SQL: CHECK ограничения на поля
+- SQL: NULL, NOT NULL
+- SQL: UNIQUE поля
+- SQL: DEFAULT значения
+- SQL: Первичные ключи
+- SQL: Уникальные и не уникальные индексы
 - [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
   - Примеры кода: https://github.com/HowProgrammingWorks/Transaction
 - [Работа с базами данных в Node.js на примере PostgreSQL](https://youtu.be/2tDvHQCBt3w)
