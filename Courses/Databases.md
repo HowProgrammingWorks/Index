@@ -40,3 +40,5 @@
   - CQS: https://github.com/HowProgrammingWorks/CQS
   - CQRS: https://github.com/HowProgrammingWorks/CQRS
   - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
+- Трехзвенные приложения баз данных
+- Инъекции SQL и защита от них
