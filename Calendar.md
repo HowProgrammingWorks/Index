@@ -32,6 +32,7 @@
 
 ## Очередь
 
+- Node.js для IoT (Internet of Things)
 - Отправка Email из Node.js, GeoIP в Node.js
 - Обзор Web API (Часть 2)
 - Антипаттерны функционального программирования
