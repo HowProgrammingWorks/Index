@@ -64,9 +64,10 @@
 - чт 07 ноя 16:10: [Семинар: Выбор направления в программировании](https://youtu.be/1gL627DQF4A)
 - видео: [Proxy и Symbol в JavaScript](https://youtu.be/UjZjSDyi9AM)
 - видео: [Регулярные выражения и парсинг в JavaScript](https://youtu.be/-ef2E0ozxao)
-- вт 19 ноя 16:10: Лекция: Примеси в JavaScript
-- вт 19 ноя 16:40: Лекция: Прототипное программирование
-- вт 19 ноя 17:20: Лекция: Мемоизация в JavaScript
+- вт 19 ноя 15:00: [Композиция: pipe, compose](https://youtu.be/xS9FicVrOTI)
+- вт 19 ноя 16:10: [Примеси: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)
+- вт 19 ноя 16:40: [Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)
+- вт 19 ноя 17:20: [Мемоизация: memoize](https://youtu.be/H6S8QJo2Qxg)
 - видео: [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
 - вт 26 ноя 16:10: Лекция: Обертки и декораторы в JavaScript и TypeScript
 - вт 26 ноя 17:30: Семинар: Какие бы языки и технологии еще освоить
