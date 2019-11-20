@@ -11,3 +11,4 @@
 4. [Циклы, итераирование](https://github.com/HowProgrammingWorks/Iteration/blob/master/Exercises.ru.md)
 5. [Замыкания и чеининг](https://github.com/HowProgrammingWorks/Closure/blob/master/Exercises.ru.md)
 6. [Композиция функций](https://github.com/HowProgrammingWorks/Composition/blob/master/Exercises.ru.md)
+7. [Работа с массивами](https://github.com/HowProgrammingWorks/Arrays/blob/master/Exercises.ru.md)
