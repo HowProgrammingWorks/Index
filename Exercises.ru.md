@@ -9,3 +9,5 @@
 2. [Базовый синтаксис JavaScript](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ru.md)
 3. [Функции и методы](https://github.com/HowProgrammingWorks/Function/blob/master/Exercises.ru.md)
 4. [Циклы, итераирование](https://github.com/HowProgrammingWorks/Iteration/blob/master/Exercises.ru.md)
+5. [Замыкания и чеининг](https://github.com/HowProgrammingWorks/Closure/blob/master/Exercises.ru.md)
+6. [Композиция функций](https://github.com/HowProgrammingWorks/Composition/blob/master/Exercises.ru.md)
