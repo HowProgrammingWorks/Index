@@ -10,7 +10,7 @@
 
 ## Программа на 1й семестр
 
-- вт 03 cен 16:10: [Лекция: Введение в программирование](https://youtu.be/5Gt61EX6HZ4)
+- вт 03 cен 16:10: [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)
 - вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)
   (это для студентов КПИ 1 курса)
 - вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)
@@ -27,18 +27,18 @@
   [Conditional](https://github.com/HowProgrammingWorks/Conditional)
 - вт 10 cен 14:15: [Семинар: Автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
 - вт 10 сен 15:00: [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
-- вт 10 сен 16:10: [Лекция: Введение в программирование, продолжение](https://youtu.be/PzlLXQ3RaDs)
+- вт 10 сен 16:10: [Введение в программирование, продолжение](https://youtu.be/PzlLXQ3RaDs)
 - видео: [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
 - видео: [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
-- вт 17 сен 16:10: [Лекция: Языки программирования](https://youtu.be/enHA1CRkJe0)
+- вт 17 сен 16:10: [Языки программирования](https://youtu.be/enHA1CRkJe0)
 - вт 17 сен 17:30: [Семинар: JavaScript, ответы на вопросы](https://youtu.be/wqkQ6eslyzY)
 - видео: [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)
 - видео: [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
-- вт 24 сен 16:10: [Лекция: История развития программирования](https://youtu.be/qqz0VSaNxuw)
-- вт 24 сен 17:30: [Лекция: Парадигмы программирования](https://youtu.be/Yk1sxLVHfjs)
+- вт 24 сен 16:10: [История развития программирования](https://youtu.be/qqz0VSaNxuw)
+- вт 24 сен 17:30: [Парадигмы программирования](https://youtu.be/Yk1sxLVHfjs)
 - видео: [Работа со строками, шаблонами и юникодом в JavaScript](https://youtu.be/GcopcHQkA8M)
 - видео: [Примеси, обертки, декораторы, мемоизация в JavaScript](https://youtu.be/oRQ0kQr1N-U)
-- вт 01 окт 16:10: [Лекция: Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4)
+- вт 01 окт 16:10: [Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4)
 - видео: [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
 - видео: [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
 - видео: [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
@@ -69,8 +69,8 @@
 - вт 19 ноя 16:40: [Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)
 - вт 19 ноя 17:20: [Мемоизация: memoize](https://youtu.be/H6S8QJo2Qxg)
 - видео: [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
-- вт 26 ноя 16:10: Лекция: Обертки и декораторы в JavaScript и TypeScript
+- вт 26 ноя 16:10: Обертки и декораторы в JavaScript и TypeScript
 - вт 26 ноя 17:30: Семинар: Какие бы языки и технологии еще освоить
 - видео: [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
-- вт 03 дек 16:10: Лекция: Новое в JavaScript
+- вт 03 дек 16:10: Новое в JavaScript
 - вт 03 дек 17:30: Семинар: Обзор материала и как готовиться к экзамену
