@@ -69,8 +69,7 @@
 - вт 19 ноя 16:40: [Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)
 - вт 19 ноя 17:20: [Мемоизация: memoize](https://youtu.be/H6S8QJo2Qxg)
 - видео: [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
-- вт 26 ноя 16:10: Обертки и декораторы в JavaScript и TypeScript
-- вт 26 ноя 17:30: Семинар: Какие бы языки и технологии еще освоить
+- вт 26 ноя 16:10: [Функции-обертки: wrappers](https://www.youtube.com/watch?v=En7pWi2fSzs)
 - видео: [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
 - вт 03 дек 16:10: Новое в JavaScript
 - вт 03 дек 17:30: Семинар: Обзор материала и как готовиться к экзамену
