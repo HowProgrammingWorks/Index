@@ -71,5 +71,5 @@
 - видео: [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
 - вт 26 ноя 16:10: [Функции-обертки: wrappers](https://www.youtube.com/watch?v=En7pWi2fSzs)
 - видео: [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
-- вт 03 дек 16:10: Новое в JavaScript
+- вт 03 дек 16:10: [Новое в JavaScript](https://youtu.be/fUjHLj8bq_Y)
 - вт 03 дек 17:30: Семинар: Обзор материала и как готовиться к экзамену
