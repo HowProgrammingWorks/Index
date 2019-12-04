@@ -28,13 +28,13 @@
 - [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
   - Функции: https://github.com/HowProgrammingWorks/Function
   - Замыкания: https://github.com/HowProgrammingWorks/Closure
-- Антипаттерны процедурного программирования (готовится)
+- [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/02-Procedural
 - [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
   - Структуры данных: https://github.com/HowProgrammingWorks/DataStructures
   - Итерирование: https://github.com/HowProgrammingWorks/Iteration
   - Прототипы: https://github.com/HowProgrammingWorks/Prototype
-- Антипаттерны объектно-ориентированного программирования (готовится)
+- [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
 - [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)
   - Частичное применение: https://github.com/HowProgrammingWorks/PartialApplication
