@@ -11,4 +11,4 @@
 - чт 07 ноя: [Принцип подстановки Барбары Лисков](https://youtu.be/RbhYxygxroc)
 - чт 21 ноя: [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
 - чт 28 ноя: [Безопасность приложений Node.js](https://youtu.be/Pdfo1G-gI6s)
-- чт 05 дек: Изоляция запросов в Node.js
+- чт 05 дек: [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
