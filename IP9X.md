@@ -1,12 +1,12 @@
-# Материалы курса IP9X: Основы программирования
+# Материалы курса IP9X: Основы инженерии программного обеспечения
 
 ## Ссылки
 
-- Канал: https://t.me/HowProgrammingWorks
-- Группа (чат): https://t.me/Programming_IP9X
-- Регистрация на митапы: https://www.meetup.com/HowProgrammingWorks
-- Все задачи: https://github.com/HowProgrammingWorks/Index/blob/master/Exercises.ru.md
 - Автор: https://github.com/tshemsedinov
+- Канал в телеграме: https://t.me/HowProgrammingWorks
+- Группа (чат): https://t.me/Programming_IP9X
+- Задачи по курсу: https://github.com/HowProgrammingWorks/Index/blob/master/Exercises.ru.md
+- Словарь терминов: https://github.com/HowProgrammingWorks/Dictionary/blob/master/IP9X.ru.md
 
 ## Программа на 1й семестр
 
