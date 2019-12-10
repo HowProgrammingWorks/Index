@@ -52,10 +52,6 @@
 - [Парадигмы программирования](https://youtu.be/Yk1sxLVHfjs)
 - [Работа со строками, шаблонами и юникодом в JavaScript](https://youtu.be/GcopcHQkA8M)
   - Примеры кода: https://github.com/HowProgrammingWorks/String
-- [Примеси, обертки, декораторы, мемоизация в JavaScript](https://youtu.be/2h9syXN5wO0)
-  - Обертки: https://github.com/HowProgrammingWorks/Wrapper
-  - Примеси: https://github.com/HowProgrammingWorks/Mixin
-  - Мемоизация: https://github.com/HowProgrammingWorks/Memoization
 - [Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4)
   - Примеры кода: https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/01-Common
 - [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
@@ -103,17 +99,21 @@
 - [Композиция: pipe, compose](https://youtu.be/xS9FicVrOTI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Composition
 - [Примеси: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)
+  - Тема class λ-mixin из этой лекции не обязательна для 1 семестра
   - Примеры кода: https://github.com/HowProgrammingWorks/Mixin
+  - Старая версия лекции: https://youtu.be/2h9syXN5wO0
 - [Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)
   - Примеры кода: https://github.com/HowProgrammingWorks/PrototypeChain
   - Слайды: https://www.slideshare.net/tshemsedinov/prototype-programming-in-javascript
 - [Мемоизация: memoize](https://youtu.be/H6S8QJo2Qxg)
   - Примеры кода: https://github.com/HowProgrammingWorks/Memoization
+  - Старая версия лекции: https://youtu.be/2h9syXN5wO0
 - [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
   - Фабрики: https://github.com/HowProgrammingWorks/Factory
   - Пулы объектов: https://github.com/HowProgrammingWorks/Pool
 - [Функции-обертки: wrappers](https://youtu.be/En7pWi2fSzs)
   - Примеры кода: https://github.com/HowProgrammingWorks/Wrapper
+  - Старая версия лекции: https://youtu.be/2h9syXN5wO0
 - [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
   - Примеры кода: https://github.com/HowProgrammingWorks/TypedArrays
 - [Новое в JavaScript](https://youtu.be/fUjHLj8bq_Y)
