@@ -83,8 +83,6 @@
 - [Структуры данных: списки, стек, очередь, дэк в JavaScript](https://youtu.be/9KvA4hDDSjk)
   - Списки: https://github.com/HowProgrammingWorks/LinkedList
   - Очереди: https://github.com/HowProgrammingWorks/Dequeue
-- [Мономорфный и полиморфный код, инлайн-кэш, скрытые классы](https://youtu.be/9JUY3prnCQ4)
-  - Примеры кода: https://github.com/HowProgrammingWorks/Monomorphism
 - [Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8)
   - Примеры кода: https://github.com/HowProgrammingWorks/Serialization
 - [Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4)
@@ -117,14 +115,16 @@
 - [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
   - Примеры кода: https://github.com/HowProgrammingWorks/TypedArrays
 - [Новое в JavaScript](https://youtu.be/fUjHLj8bq_Y)
+  - Не все в лекции обязательно для 1 семестра, что поймете, то и хорошо
   - Слайды: https://www.slideshare.net/tshemsedinov/javascript-esnext-ecmascript-2020-es11-es10-es9-es8-es7-es6-es2020-es2019
   - Примеры кода: https://github.com/HowProgrammingWorks/ESNext
-- Семинар: Обзор материала и как готовиться к экзамену
 
 ## Необязательные темы на 1 семестр
 
 - [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
   - Примеры кода: https://github.com/HowProgrammingWorks/Projection
+- [Мономорфный и полиморфный код, инлайн-кэш, скрытые классы](https://youtu.be/9JUY3prnCQ4)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Monomorphism
 - [Функциональное программирование на JavaScript](https://youtu.be/0JxSs_GcvbQ)
   - Смотрите обзорно, это не обязательная лекция, попробуйте уловить суть парадигмы
   - Примеры кода: https://github.com/HowProgrammingWorks/FunctionalProgramming
