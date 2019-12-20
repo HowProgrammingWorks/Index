@@ -28,3 +28,4 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Lenses
 - [Асинхронная композиция функций](https://youtu.be/3ZCrMlMpOrM)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncCompose
+- [Принцип подстановки Барбары Лисков](https://youtu.be/RbhYxygxroc)

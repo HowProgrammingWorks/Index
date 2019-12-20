@@ -16,3 +16,7 @@
 - [Progressive Web Applications PWA и ServiceWorkers](https://youtu.be/s7AIwZMTVPs)
   - Примеры кода: https://github.com/HowProgrammingWorks/ServiceWorker
 - [JavaScript в браузере: Web API (часть 1)](https://youtu.be/6O8SBJsNeNw)
+- [Отдача статики в Node.js](https://youtu.be/n_AdKIzbpBc)
+  - Примеры кода и задачи: https://github.com/HowProgrammingWorks/ServeStatic
+- [Progressive Web Applications PWA и ServiceWorkers](https://youtu.be/s7AIwZMTVPs)
+- [JavaScript в браузере: Web API (часть 1)](https://youtu.be/6O8SBJsNeNw)

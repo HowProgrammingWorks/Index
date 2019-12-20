@@ -45,3 +45,9 @@
   - CQS: https://github.com/HowProgrammingWorks/CQS
   - CQRS: https://github.com/HowProgrammingWorks/CQRS
   - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
+- [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
+  - https://github.com/HowProgrammingWorks/EventSourcing
+  - https://github.com/HowProgrammingWorks/CQRS
+  - https://github.com/HowProgrammingWorks/Command
+- [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
+  - Слайды: https://www.slideshare.net/tshemsedinov/serverless-clouds-faas-and-request-context-isolation-in-nodejs

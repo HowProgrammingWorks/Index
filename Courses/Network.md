@@ -16,4 +16,7 @@
   - CQS: https://github.com/HowProgrammingWorks/CQS
   - CQRS: https://github.com/HowProgrammingWorks/CQRS
   - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
-- Примерение EventSourcing (готовится)
+- [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
+  - https://github.com/HowProgrammingWorks/EventSourcing
+  - https://github.com/HowProgrammingWorks/CQRS
+  - https://github.com/HowProgrammingWorks/Command

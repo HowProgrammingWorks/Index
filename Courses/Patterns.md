@@ -17,3 +17,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/RevealingConstructor
 - [Паттерн Наблюдатель (Observer + Observable)](https://youtu.be/_bFXuLcXoXg)
   - Примеры кода: https://github.com/HowProgrammingWorks/Observer
+- [Принцип единственной ответственности и закон Конвея](https://youtu.be/o4bQywkBKOI)
+- [Ассоциация, Агрегация и Композиция](https://youtu.be/tOIcBrzezK0)
+- [Принцип подстановки Барбары Лисков](https://youtu.be/RbhYxygxroc)
+- [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)

@@ -42,3 +42,9 @@
   - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
 - Трехзвенные приложения баз данных
 - Инъекции SQL и защита от них
+- [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
+  - https://github.com/HowProgrammingWorks/EventSourcing
+  - https://github.com/HowProgrammingWorks/CQRS
+  - https://github.com/HowProgrammingWorks/Command
+- [Безопасность приложений Node.js](https://youtu.be/Pdfo1G-gI6s)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-security-199004963
