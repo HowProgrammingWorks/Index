@@ -4,6 +4,7 @@
 
 - [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
 - [Node.js в 2019 году](https://youtu.be/CUU49jjHloM)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2019
 - [Обзор встроенного Node.js API](https://youtu.be/sOkjR-N6IAs)
 - [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
   - Пример проекта: https://github.com/HowProgrammingWorks/Project
@@ -41,6 +42,7 @@
   - Мьютексы: https://github.com/HowProgrammingWorks/Mutex
 - [Разделяемая память в многопоточном Node.js](https://youtu.be/KNsm_iIQt7U) -
 доклад на конференции JS Fest 2019 Spring
+  - Слайды: https://www.slideshare.net/JSFestUA/js-fest-2019-nodejs
 - [Необработанные ошибки в промисах](https://youtu.be/1Ml5NE2fsZ8)
   - Примеры кода: https://github.com/HowProgrammingWorks/PromiseError
 - [HTTP сессии и cookies на чистом Node.js](https://youtu.be/T_wKXuWW4Wo)
@@ -60,9 +62,11 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Logging
 - [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
   - Примеры кода: https://github.com/HowProgrammingWorks/ActorModel
-- [Отдача статики в Node.js](https://youtu.be/a7d7RdjPAbQ)
+- [Отдача статики в Node.js](https://youtu.be/n_AdKIzbpBc)
+  - Примеры кода и задачи: https://github.com/HowProgrammingWorks/ServeStatic
 - [Graceful Shutdown в Node.js](https://youtu.be/ZstnowFeCe0)
-- Отправка Email из Node.js (готовится, 21 ноября 2019)
-- GeoIP в Node.js (готовится, 21 ноября 2019)
-- Безопасность приложений Node.js (готовится, 28 ноября 2019)
-- Изоляция запросов в Node.js (готовится, 05 декабря 2019)
+  - Примеры кода и задачи: https://github.com/HowProgrammingWorks/GracefulShutdown
+- [Безопасность приложений Node.js](https://youtu.be/Pdfo1G-gI6s)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-security-199004963
+- [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
+  - Слайды: https://www.slideshare.net/tshemsedinov/serverless-clouds-faas-and-request-context-isolation-in-nodejs
