@@ -1,7 +1,5 @@
 # Технологический стек Node.js
 
-Видеолекций: 23, еще готовится в 2019 году: 8.
-
 - [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
 - [Node.js в 2019 году](https://youtu.be/CUU49jjHloM)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2019
@@ -57,7 +55,7 @@
   - CQS: https://github.com/HowProgrammingWorks/CQS
   - CQRS: https://github.com/HowProgrammingWorks/CQRS
   - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
-- Применение EventSourcing (готовится, 26 сентября 2019)
+- [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
 - [Логирование на Node.js и JavaScript](https://youtu.be/4DkZj2Cdokc)
   - Примеры кода: https://github.com/HowProgrammingWorks/Logging
 - [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
