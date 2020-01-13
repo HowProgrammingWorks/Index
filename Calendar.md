@@ -8,6 +8,7 @@
 - Конфигурирование приложений на Node.js
 - Схемы для API, структур данных и баз данных
 - Контрактное программирование
+- Протекающие абстракции (Leaky abstractions)
 - Node.js для IoT (Internet of Things)
 - Отправка Email из Node.js, GeoIP в Node.js
 - Обзор Web API (Часть 2)
