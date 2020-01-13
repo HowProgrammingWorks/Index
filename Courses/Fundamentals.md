@@ -140,8 +140,8 @@
 - [Функциональные объекты, функторы и монады в JavaScript](https://youtu.be/3Z7f0Gi8pxw)
   - Примеры кода: https://github.com/HowProgrammingWorks/Functor
 - [Генераторы и асинхронные генераторы](https://youtu.be/kvNm9D32s8s)
-  - Генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
-  - Асинхронные генераторы: https://github.com/HowProgrammingWorks/Generator
+  - Генераторы: https://github.com/HowProgrammingWorks/Generator
+  - Асинхронные генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
 - [Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
   - Итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
   - Асинхронные итераторы: https://github.com/HowProgrammingWorks/Iterator
