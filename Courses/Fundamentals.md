@@ -6,9 +6,14 @@
 - Канал в телеграме: https://t.me/HowProgrammingWorks
 - Группа (чат): https://t.me/Programming_IP9X
 - Задачи по курсу: https://github.com/HowProgrammingWorks/Index/blob/master/Exercises.ru.md
-- Словарь терминов: https://github.com/HowProgrammingWorks/Dictionary/blob/master/IP9X.ru.md
+- Словарь терминов: https://github.com/HowProgrammingWorks/Dictionary/blob/master/Fundamentals.ru.md
 
-## 1 семестр
+## 1 семестр 1 курса
+
+Объем материала: 36 лекций (из них 4 вводные лекции, 8 лекций по языку JS,
+18 лекций по фундаментальным понятиям теории программирования, 6 лекций по
+инструментам и процессу разработки), 8 семинаров, 9 лабораторных работ,
+47 репозиториев с примерами кода.
 
 - [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)
   - Абстракция, модель, алгоритм, программа, синтаксис, повторное использование
@@ -65,7 +70,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Iteration
 - [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/02-Procedural
-- [Ответы на вопросы по курсу "Основы программирования"](https://youtu.be/TY6nDW7aYys)
+- Семинар: [Ответы на вопросы по курсу "Основы программирования"](https://youtu.be/TY6nDW7aYys)
 - [Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg)
   - Таймеры: https://github.com/HowProgrammingWorks/Timers
   - EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
@@ -119,20 +124,30 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/javascript-esnext-ecmascript-2020-es11-es10-es9-es8-es7-es6-es2020-es2019
   - Примеры кода: https://github.com/HowProgrammingWorks/ESNext
 
-## Необязательные темы на 1 семестр
+## 2 семестр 1 курса (материалы готовятся)
 
+- [Карта специальности инженер-программист](https://youtu.be/SE5aXH-yf0I)
+- [Подход к изучению программирования](https://youtu.be/zMU4ir10DMg)
+- Списки: односвязные, двусвязные, циклические, развернутые
+- [Графы и запросы к графовым структурам данных](https://youtu.be/a0W0T8Yqw3s)
+- Структуры (struct или записи), наборы данных в памяти
 - [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
   - Примеры кода: https://github.com/HowProgrammingWorks/Projection
 - [Мономорфный и полиморфный код, инлайн-кэш, скрытые классы](https://youtu.be/9JUY3prnCQ4)
   - Примеры кода: https://github.com/HowProgrammingWorks/Monomorphism
-- [Функциональное программирование на JavaScript](https://youtu.be/0JxSs_GcvbQ)
+- Объектно-ориентированное программирование
+- [Функциональное программирование](https://youtu.be/0JxSs_GcvbQ)
   - Смотрите обзорно, это не обязательная лекция, попробуйте уловить суть парадигмы
   - Примеры кода: https://github.com/HowProgrammingWorks/FunctionalProgramming
-- [Реактивное программирование на JavaScript](https://youtu.be/7MH8-qQc-48)
+- [Реактивное программирование](https://youtu.be/7MH8-qQc-48)
   - Примеры кода: https://github.com/HowProgrammingWorks/ReactiveProgramming
-
-## 2 семестр (материалы готовятся)
-
+- Работа с файлами
+- Оценка сложности алгоритмов
+- [Измерение производительности кода и оптимизация](https://youtu.be/sanq2X7Re8o)
+- [Асинхронное программирование на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
+- [Асинхронные функции async, await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
+- Неизменяемые структуры данных (immutable)
+- Автоматное программирование: конечные автоматы (машины состояний)
 - [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
 - [Шаблон Singleton (синглтон) в  JavaScript](https://youtu.be/qdJ5yikZnfE)
