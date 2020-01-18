@@ -164,3 +164,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Enum
 - [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Generics
+- [Тестирование: юниттесты с примерами](https://youtu.be/CszugIag2TA)
+- [Тестирование: системное и интеграционное тестирование](https://youtu.be/OuKu_6H_6gE)
+- [Интроспекция и рефлексия в JavaScript](https://youtu.be/yvW1PjUVeM0)
+- [Почему хорошее ИТ-образование невостребовано рыночком](https://youtu.be/nvIJE6xMpiI)
