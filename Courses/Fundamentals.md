@@ -130,6 +130,7 @@
 - [Подход к изучению программирования](https://youtu.be/zMU4ir10DMg)
 - Списки: односвязные, двусвязные, циклические, развернутые
 - [Графы и запросы к графовым структурам данных](https://youtu.be/a0W0T8Yqw3s)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Graph
 - Структуры (struct или записи), наборы данных в памяти
 - [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
   - Примеры кода: https://github.com/HowProgrammingWorks/Projection
@@ -144,8 +145,11 @@
 - Работа с файлами
 - Оценка сложности алгоритмов
 - [Измерение производительности кода и оптимизация](https://youtu.be/sanq2X7Re8o)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Benchmark
 - [Асинхронное программирование на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
+  - Примеры кода: https://github.com/HowProgrammingWorks/AsynchronousProgramming
 - [Асинхронные функции async, await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
+  - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
 - Неизменяемые структуры данных (immutable)
 - Автоматное программирование: конечные автоматы (машины состояний)
 - [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
@@ -165,6 +169,11 @@
 - [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Generics
 - [Тестирование: юниттесты с примерами](https://youtu.be/CszugIag2TA)
+  - Тестирование: https://github.com/HowProgrammingWorks/Testing
+  - Юниттесты: https://github.com/HowProgrammingWorks/Unittesting
 - [Тестирование: системное и интеграционное тестирование](https://youtu.be/OuKu_6H_6gE)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Unittesting
 - [Интроспекция и рефлексия в JavaScript](https://youtu.be/yvW1PjUVeM0)
+  - Интроспекция: https://github.com/HowProgrammingWorks/Introspection
+  - Рефлекция: https://github.com/HowProgrammingWorks/Reflect
 - [Почему хорошее ИТ-образование невостребовано рыночком](https://youtu.be/nvIJE6xMpiI)
