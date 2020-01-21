@@ -1,9 +1,12 @@
 # Технологический стек Node.js
 
+Объем материала: 30 лекций, 34 репозитория с примерами кода, 4 PDF со слайдами
+
 - [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
 - [Node.js в 2019 году](https://youtu.be/CUU49jjHloM)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2019
 - [Обзор встроенного Node.js API](https://youtu.be/sOkjR-N6IAs)
+  - Ссылка на документацию: https://nodejs.org/api/documentation.html
 - [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
   - Пример проекта: https://github.com/HowProgrammingWorks/Project
   - Абстрактные слои: https://github.com/HowProgrammingWorks/AbstractionLayers
@@ -55,7 +58,9 @@
   - CQS: https://github.com/HowProgrammingWorks/CQS
   - CQRS: https://github.com/HowProgrammingWorks/CQRS
   - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
+  - Паттерн Command https://github.com/HowProgrammingWorks/Command
 - [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
+  - См. ссылки на примеры выше из лекции по CQS, CQRS, Event Sourcing
 - [Логирование на Node.js и JavaScript](https://youtu.be/4DkZj2Cdokc)
   - Примеры кода: https://github.com/HowProgrammingWorks/Logging
 - [Модель акторов (Actor Model)](https://youtu.be/xp5MVKEqxY4)
