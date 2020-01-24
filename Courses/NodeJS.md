@@ -26,7 +26,7 @@
 - [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
   - Примеры кода: https://github.com/HowProgrammingWorks/CommandLine
 
-## Структура и архитектуре приложений на Node.js
+## Структура и архитектура приложений на Node.js
 
 - [Архитектурный подход к программированию](https://youtu.be/d_vyO2CkiOc)
 - [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
