@@ -17,4 +17,4 @@
 - [7. Внедрение зависимостей DI, Firebase, Angular, SPA, React, Обработка ошибок](https://youtu.be/LaxV_CDdV5c)
 - [8. Асинхронное программирование](https://youtu.be/81tXZUP7tBY)
 - [9. Песочницы, IoC, DI, IPC, структура приложений](https://youtu.be/fjAUssuzTm4)
-- 10. Архитектура приложений и метапрограммирование
+- [10. Архитектура приложений и метапрограммирование](https://youtu.be/aDtKUEKkzKs)
