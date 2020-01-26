@@ -14,5 +14,6 @@
 
 ### Выступление и разное
 
+- [Асинхронное программирование на JS и Node.js](https://youtu.be/VdRhAXnfrd0)
 - [Epic invitation to #OdessaJS2017](https://youtu.be/Ysnl6Ex1OZw)
 - [Ваше положение таково, что понять вам его невозможно](https://youtu.be/fbhwG3KwmUY)
