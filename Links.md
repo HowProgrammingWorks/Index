@@ -18,6 +18,7 @@
 - Подписка на митапы [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/)
 по общим темам программирования, по JavaScript и для начинающих, тут лежит
 календарь событий, можно регистрироваться и оставлять отзывы
+- Канал на ютюбе: https://www.youtube.com/TimurShemsedinov
 
 ## Для начинающих
 
