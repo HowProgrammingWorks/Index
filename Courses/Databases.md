@@ -1,6 +1,9 @@
 # Проектирования баз данных
 
-- SQL: SELECT (оператор выборки)
+- [Базы данных в 2020 (введение, история, состояние)](https://youtu.be/8RjT2VYBWNQ)
+  - Слайды: https://www.slideshare.net/tshemsedinov/2020-228734914
+- [Введение в SQL: SELECT](https://youtu.be/Z679c8S0d7I)
+  - Слайды: https://www.slideshare.net/tshemsedinov/sql-structured-query-language-228735217
   - WHERE клауза, составные условия
   - IN, BETWEEN выражения
   - GROUP BY клауза
