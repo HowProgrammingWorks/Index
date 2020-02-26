@@ -126,17 +126,16 @@
 
 ## 2 семестр 1 курса (материалы готовятся)
 
+- [Объектно-ориентированное программирование](https://youtu.be/r4ReQlVtfgQ)
 - [Карта специальности инженер-программист](https://youtu.be/SE5aXH-yf0I)
 - [Подход к изучению программирования](https://youtu.be/zMU4ir10DMg)
 - Списки: односвязные, двусвязные, циклические, развернутые
 - [Графы и запросы к графовым структурам данных](https://youtu.be/a0W0T8Yqw3s)
   - Примеры кода: https://github.com/HowProgrammingWorks/Graph
-- Структуры (struct или записи), наборы данных в памяти
 - [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
   - Примеры кода: https://github.com/HowProgrammingWorks/Projection
 - [Мономорфный и полиморфный код, инлайн-кэш, скрытые классы](https://youtu.be/9JUY3prnCQ4)
   - Примеры кода: https://github.com/HowProgrammingWorks/Monomorphism
-- Объектно-ориентированное программирование
 - [Функциональное программирование](https://youtu.be/0JxSs_GcvbQ)
   - Смотрите обзорно, это не обязательная лекция, попробуйте уловить суть парадигмы
   - Примеры кода: https://github.com/HowProgrammingWorks/FunctionalProgramming
