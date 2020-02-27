@@ -4,6 +4,28 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/2020-228734914
 - [Введение в SQL: SELECT](https://youtu.be/Z679c8S0d7I)
   - Слайды: https://www.slideshare.net/tshemsedinov/sql-structured-query-language-228735217
+- [Введение в SQL: CREATE, ALTER, DROP, ключи, индексы](https://youtu.be/QF0v29ZneYE)
+- [PostgreSQL: установка, настройка, консоль](https://youtu.be/Fm6yLb8qCh4)
+- [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Transaction
+- [Работа с базами данных в Node.js на примере PostgreSQL](https://youtu.be/2tDvHQCBt3w)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Databases
+- [CQS, CQRS, Event Sourcing - Разделение запросов и модификации данных](https://youtu.be/T2tRc80Q8Qw)
+  - CQS: https://github.com/HowProgrammingWorks/CQS
+  - CQRS: https://github.com/HowProgrammingWorks/CQRS
+  - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
+- Трехзвенные приложения баз данных
+- Инъекции SQL и защита от них
+- [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
+  - https://github.com/HowProgrammingWorks/EventSourcing
+  - https://github.com/HowProgrammingWorks/CQRS
+  - https://github.com/HowProgrammingWorks/Command
+- [Безопасность приложений Node.js](https://youtu.be/Pdfo1G-gI6s)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-security-199004963
+
+## SQL
+
+- SQL: SELECT
   - WHERE клауза, составные условия
   - IN, BETWEEN выражения
   - GROUP BY клауза
@@ -35,19 +57,3 @@
 - SQL: DEFAULT значения
 - SQL: Первичные ключи
 - SQL: Уникальные и не уникальные индексы
-- [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
-  - Примеры кода: https://github.com/HowProgrammingWorks/Transaction
-- [Работа с базами данных в Node.js на примере PostgreSQL](https://youtu.be/2tDvHQCBt3w)
-  - Примеры кода: https://github.com/HowProgrammingWorks/Databases
-- [CQS, CQRS, Event Sourcing - Разделение запросов и модификации данных](https://youtu.be/T2tRc80Q8Qw)
-  - CQS: https://github.com/HowProgrammingWorks/CQS
-  - CQRS: https://github.com/HowProgrammingWorks/CQRS
-  - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
-- Трехзвенные приложения баз данных
-- Инъекции SQL и защита от них
-- [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
-  - https://github.com/HowProgrammingWorks/EventSourcing
-  - https://github.com/HowProgrammingWorks/CQRS
-  - https://github.com/HowProgrammingWorks/Command
-- [Безопасность приложений Node.js](https://youtu.be/Pdfo1G-gI6s)
-  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-security-199004963
