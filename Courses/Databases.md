@@ -8,6 +8,8 @@
 - [PostgreSQL: установка, настройка, консоль](https://youtu.be/Fm6yLb8qCh4)
 - SQL SELECT: math functions, aliases, limit, with, into
 - SQL JOINS: CROSS, INNER, LEFT, RIGHT, FULL
+- ERD, IDEF1X: Entity-Relationship Diagram
+- Нормальные формы
 - [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
   - Примеры кода: https://github.com/HowProgrammingWorks/Transaction
 - [Работа с базами данных в Node.js на примере PostgreSQL](https://youtu.be/2tDvHQCBt3w)
