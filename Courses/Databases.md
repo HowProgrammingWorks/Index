@@ -6,9 +6,9 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/sql-structured-query-language-228735217
 - [Введение в SQL: CREATE, ALTER, DROP, ключи, индексы](https://youtu.be/QF0v29ZneYE)
 - [PostgreSQL: установка, настройка, консоль](https://youtu.be/Fm6yLb8qCh4)
-- SQL SELECT: math functions, aliases, limit, with, into
+- [Базы данных: ER, ERD, IDEF1x, сущность-связь](https://youtu.be/ByWfj3e0HnE)
+- [SQL SELECT: math functions, aliases, limit, with, into](https://youtu.be/lle4Yp58z6k)
 - SQL JOINS: CROSS, INNER, LEFT, RIGHT, FULL
-- ERD, IDEF1X: Entity-Relationship Diagram
 - Нормальные формы
 - [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
   - Примеры кода: https://github.com/HowProgrammingWorks/Transaction
