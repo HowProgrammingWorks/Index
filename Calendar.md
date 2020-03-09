@@ -9,13 +9,13 @@
 - вт 03 мар - ООП: абстракция, инкапсуляция, наследование, полиморфизм
 - чт 05 мар - SQL: SELECT (продолжение), функции, алиасы, limit, with, into
 - чт 05 мар - SQL: ERD, IDEF1x
-- вт 10 мар - ООП: принципы GRASP
-- чт 12 мар - SQL: INSERT, DELETE
-- вт 17 мар - ООП: принципы SOLID: SRP (принцип единственной ответственности)
-- вт 17 мар - ООП: принципы SOLID: OCP (Open Closed Principle)
-- чт 19 мар - SQL: JOINS
-- вт 24 мар - ООП: принципы SOLID: ISP (Interface Segregation Principle)
-- вт 24 мар - ООП: принципы SOLID: DIP (Dependency Inversion Principle)
+- вт 17 мар - ООП: принципы GRASP
+- чт 19 мар - SQL: INSERT, DELETE
+- вт 24 мар - ООП: принципы SOLID: SRP (принцип единственной ответственности)
+- вт 24 мар - ООП: принципы SOLID: OCP (Open Closed Principle)
+- чт 26 мар - SQL: JOINS
+- вт 31 мар - ООП: принципы SOLID: ISP (Interface Segregation Principle)
+- вт 31 мар - ООП: принципы SOLID: DIP (Dependency Inversion Principle)
 
 ## Очередь
 
