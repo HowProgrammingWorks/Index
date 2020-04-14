@@ -4,6 +4,14 @@
 Перед основной частью курса по Node.js нужно сначала освоить хоть частично курс
 по асинхронному программированию: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md
 
+## Вебинары Node.js: Выйди и зайди нормально
+
+- [Часть 1: Обзор новых возможностей, история и изоляция](https://youtu.be/GJY2dyE6328?t=480)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-1
+- [Часть 2: Проблемы и как они связаны с фундаментальными CS](https://youtu.be/r1u-dGocm1c)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-2
+- Часть 3: Структура и архитектура проекта, Node.js Starter Kit
+
 ## Введение и основы
 
 - [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
