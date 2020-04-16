@@ -104,6 +104,8 @@
 - [Разделяемая память в многопоточном Node.js](https://youtu.be/KNsm_iIQt7U) -
 доклад на конференции JS Fest 2019 Spring
   - Слайды: https://www.slideshare.net/JSFestUA/js-fest-2019-nodejs
+- [Web Locks API in Node.js and browser](https://youtu.be/auMM-uV12F0)
+  - Слайды: https://www.slideshare.net/tshemsedinov/web-locks-api
 
 ## Безопасность, надежность, развертывание и управление инфраструктурой
 
