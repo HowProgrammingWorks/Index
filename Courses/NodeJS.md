@@ -10,7 +10,8 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-1
 - [Часть 2: Проблемы и как они связаны с фундаментальными CS](https://youtu.be/r1u-dGocm1c)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-2
-- Часть 3: Структура и архитектура проекта, Node.js Starter Kit
+- [Часть 3: Структура и архитектура проекта, Node.js Starter Kit](https://youtu.be/ZXB5OTRld1w)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-3
 
 ## Введение и основы
 
