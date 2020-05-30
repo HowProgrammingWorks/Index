@@ -31,8 +31,8 @@
 - [Проблема асинхронного стектрейса](https://youtu.be/pfiHTx3j87Y)
   - Примеры кода: https://github.com/HowProgrammingWorks/StackTrace
 - [Генераторы и асинхронные генераторы](https://youtu.be/kvNm9D32s8s)
-  - Генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
-  - Асинхронные генераторы: https://github.com/HowProgrammingWorks/Generator
+  - Генераторы: https://github.com/HowProgrammingWorks/Generator
+  - Асинхронные генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
 - [Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
   - Итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
   - Асинхронные итераторы: https://github.com/HowProgrammingWorks/Iterator
