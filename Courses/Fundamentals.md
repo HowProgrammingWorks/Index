@@ -1,5 +1,7 @@
 # Основы программирования
 
+Модули [SEF1](SEF1) и [SEF2](SEF1)
+
 ## Ссылки
 
 - Автор: https://github.com/tshemsedinov
@@ -8,7 +10,7 @@
 - Задачи по курсу: https://github.com/HowProgrammingWorks/Index/blob/master/Exercises.ru.md
 - Словарь терминов: https://github.com/HowProgrammingWorks/Dictionary
 
-## 1 семестр 1 курса
+## Модуль SEF1
 
 Объем материала: 36 лекций (из них 4 вводные лекции, 8 лекций по языку JS,
 18 лекций по фундаментальным понятиям теории программирования, 6 лекций по
@@ -102,7 +104,7 @@
 - [Композиция: pipe, compose](https://youtu.be/xS9FicVrOTI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Composition
 - [Примеси: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)
-  - Тема class λ-mixin из этой лекции не обязательна для 1 семестра
+  - Тема class λ-mixin из этой лекции не обязательна для модуля SEF1
   - Примеры кода: https://github.com/HowProgrammingWorks/Mixin
   - Старая версия лекции: https://youtu.be/2h9syXN5wO0
 - [Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)
@@ -120,11 +122,11 @@
 - [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
   - Примеры кода: https://github.com/HowProgrammingWorks/TypedArrays
 - [Новое в JavaScript](https://youtu.be/fUjHLj8bq_Y)
-  - Не все в лекции обязательно для 1 семестра, что поймете, то и хорошо
+  - Не все в темы обязательны для модуля SEF1, что поймете, то и хорошо
   - Слайды: https://www.slideshare.net/tshemsedinov/javascript-esnext-ecmascript-2020-es11-es10-es9-es8-es7-es6-es2020-es2019
   - Примеры кода: https://github.com/HowProgrammingWorks/ESNext
 
-## 2 семестр 1 курса (материалы готовятся)
+## Модуль SEF2
 
 - [Объектно-ориентированное программирование](https://youtu.be/r4ReQlVtfgQ)
 - [Структуры (struct) или записи (record)](https://youtu.be/Wb7o_kK4aH4)
