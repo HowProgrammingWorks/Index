@@ -1,6 +1,7 @@
 # Материалы курса IP9X: Основы инженерии программного обеспечения
 
-[Обновленная версия программы курса](Courses/Fundamentals.md)
+Внимание, материалы на этой странице устарили, обновленная версия программы
+курса тут: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
 
 ## Ссылки
 
@@ -10,7 +11,7 @@
 - Задачи по курсу: https://github.com/HowProgrammingWorks/Index/blob/master/Exercises.ru.md
 - Словарь терминов: https://github.com/HowProgrammingWorks/Dictionary/blob/master/IP9X.ru.md
 
-## Программа на 1й семестр
+## Программа на 1й семестр 2019-2020
 
 - вт 03 cен 16:10: [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)
 - вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)
