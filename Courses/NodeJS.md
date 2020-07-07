@@ -24,7 +24,7 @@
 - [Обзор встроенного Node.js API](https://youtu.be/sOkjR-N6IAs)
   - Ссылка на документацию: https://nodejs.org/api/documentation.html
 - [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
-  - Репозиторий с инстрементами: https://github.com/HowProgrammingWorks/Tools
+  - Репозиторий с инструментами: https://github.com/HowProgrammingWorks/Tools
 - [Работа с файлами, буферами и файловыми потоками в Node.js](https://youtu.be/eQGBS15vUac)
   - Работа с файлами: https://github.com/HowProgrammingWorks/Files
   - Файловые потоки: https://github.com/HowProgrammingWorks/Streams
