@@ -7,7 +7,7 @@
 - Автор: https://github.com/tshemsedinov
 - Канал в телеграме: https://t.me/HowProgrammingWorks
 - Группа (чат): https://t.me/Programming_IP9X
-- Задачи по курсу: https://github.com/HowProgrammingWorks/Index/blob/master/Exercises.ru.md
+- Задачи по курсу: https://github.com/HowProgrammingWorks/Index/blob/master/Exercises/SEF1.ru.md
 - Словарь терминов: https://github.com/HowProgrammingWorks/Dictionary
 
 ## Модуль SEF1
