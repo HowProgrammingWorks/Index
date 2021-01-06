@@ -164,8 +164,8 @@
   - Генераторы: https://github.com/HowProgrammingWorks/Generator
   - Асинхронные генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
 - [Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
-  - Итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
-  - Асинхронные итераторы: https://github.com/HowProgrammingWorks/Iterator
+  - Итераторы: https://github.com/HowProgrammingWorks/Iterator
+  - Асинхронные итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
 - [Перечислимый тип (enum) в JavaScript и TypeScript](https://youtu.be/BXiKebOIAGI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Enum
 - [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
