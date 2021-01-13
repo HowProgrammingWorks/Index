@@ -29,7 +29,7 @@
 - Шаблонизатор: https://github.com/metarhia/tickplate
 - Web-locks API (блокировки): https://github.com/metarhia/web-locks
 - Библиотека для асинхронного программирования: https://github.com/metarhia/metasync
-- Простые асинхронные абстрации: https://github.com/metarhia/do
+- Простые асинхронные абстракции: https://github.com/metarhia/do
 - Буферизация для Writable Stream: https://github.com/metarhia/metastreams
 - Библиотека для цветов в консоли: https://github.com/metarhia/concolor
 - Загрузчик конфигурации: https://github.com/metarhia/config
