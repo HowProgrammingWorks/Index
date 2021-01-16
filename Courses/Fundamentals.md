@@ -80,7 +80,7 @@
 - Семинар: [Выполнение лабораторных работ по курсу](https://youtu.be/ikUOyFPzdJw)
 - [Массивы в JavaScript: методы Array](https://youtu.be/D1kfYBkX9FE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Arrays
-- [Коллекции, множества, хештаблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
+- [Коллекции, множества, хеш таблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
   - Коллекции: https://github.com/HowProgrammingWorks/Collections
   - Хеш таблицы: https://github.com/HowProgrammingWorks/Map
   - Множества: https://github.com/HowProgrammingWorks/Set
