@@ -2,6 +2,7 @@
 
 - [Node.js in 2021: новости платформы и вызовы на следующее десятилетие](https://youtu.be/nnB7ADYso8s)
   - Слайды: https://www2.slideshare.net/tshemsedinov/nodejs-in-2021
+  - Семинар с ответами на вопросы и обсуждением: https://youtu.be/zYRDhxj0zhQ
 - [Разработка API на Node.js и технологическом стеке Metarhia](https://youtu.be/gppFXK1YzPA)
 
 ## Вебинары Node.js: Выйди и зайди нормально
