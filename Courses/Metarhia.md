@@ -4,6 +4,7 @@
   - Слайды: https://www2.slideshare.net/tshemsedinov/nodejs-in-2021
   - Семинар с ответами на вопросы и обсуждением: https://youtu.be/zYRDhxj0zhQ
 - [Разработка API на Node.js и технологическом стеке Metarhia](https://youtu.be/gppFXK1YzPA)
+  - Семинар с ответами на вопросы и обсуждением: https://youtu.be/R7TwKnImNiY
 
 ## Вебинары Node.js: Выйди и зайди нормально
 
