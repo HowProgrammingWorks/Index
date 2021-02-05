@@ -5,6 +5,7 @@
   - Семинар с ответами на вопросы и обсуждением: https://youtu.be/zYRDhxj0zhQ
 - [Разработка API на Node.js и технологическом стеке Metarhia](https://youtu.be/gppFXK1YzPA)
   - Семинар с ответами на вопросы и обсуждением: https://youtu.be/R7TwKnImNiY
+- [Сессии и контексты на Node.js и технологическом стеке Metarhia](https://youtu.be/5u8imY9SJiQ)
 
 ## Вебинары Node.js: Выйди и зайди нормально
 
