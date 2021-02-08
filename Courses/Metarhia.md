@@ -1,8 +1,12 @@
 # Технологический стек Metarhia
 
+# Презентации
+- [Для владельцев и руководителей проектов](https://youtu.be/dEqJj8M0ke0)
 - [Node.js in 2021: новости платформы и вызовы на следующее десятилетие](https://youtu.be/nnB7ADYso8s)
   - Слайды: https://www2.slideshare.net/tshemsedinov/nodejs-in-2021
   - Семинар с ответами на вопросы и обсуждением: https://youtu.be/zYRDhxj0zhQ
+
+## Для разработчиков
 - [Разработка API на Node.js и технологическом стеке Metarhia](https://youtu.be/gppFXK1YzPA)
   - Семинар с ответами на вопросы и обсуждением: https://youtu.be/R7TwKnImNiY
 - [Сессии и контексты на Node.js и технологическом стеке Metarhia](https://youtu.be/5u8imY9SJiQ)
