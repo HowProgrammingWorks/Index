@@ -15,4 +15,4 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/js-fest-2019-nodejs-antipatterns
 - [Разделяемая память в многопоточном Node.js. Тимур Шемсединов. JS Fest 2019 Spring](https://youtu.be/KNsm_iIQt7U)
   - Слайды: https://www.slideshare.net/tshemsedinov/shared-memory-and-multithreading-in-nodejs-timur-shemsedinov-jsfest19
-Байки про JavaScript и Node.js с Тимуром Шемсединовым
+- [Стратегия входа Node.js в корпоративный сектор](https://youtu.be/FLcBrP1KFYk)

@@ -9,6 +9,7 @@
 - [Node.js Middleware – никогда больше!](https://youtu.be/RS8x73z4csI)
   - Слaйды: https://www2.slideshare.net/tshemsedinov/nodejs-middleware-never-again
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
+- [Стратегия входа Node.js в корпоративный сектор](https://youtu.be/FLcBrP1KFYk)
 
 ## Вебинары Node.js: Выйди и зайди нормально
 
