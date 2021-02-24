@@ -150,7 +150,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Benchmark
 - [Асинхронное программирование на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsynchronousProgramming
-- [Асинхронные функции async, await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
+- [Асинхронные функции, async/await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
 - Неизменяемые структуры данных (immutable)
 - Автоматное программирование: конечные автоматы (машины состояний)
