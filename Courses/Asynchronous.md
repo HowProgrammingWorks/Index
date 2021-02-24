@@ -19,7 +19,7 @@
   - Библиотека async.js: https://caolan.github.io/async/
 - [Асинхронность на промисах](https://youtu.be/RMl4r6s1Y8M)
   - Примеры кода: https://github.com/HowProgrammingWorks/Promise
-- [Асинхронные функции и обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
+- [Асинхронные функции, async/await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
 - [Асинхронные адаптеры: promisify, callbackify, asyncify](https://youtu.be/76k6_YkYRmU)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAdapter
