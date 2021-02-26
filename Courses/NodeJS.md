@@ -59,6 +59,8 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/InterProcessCommunication
 - [Слои, связанность и связность кода](https://youtu.be/A3RpwNlVeyY)
   - Примеры кода: https://github.com/HowProgrammingWorks/Abstractions
+- [GRASP принципы с адаптацией для JavaScript и Node.js](https://youtu.be/ExauFjYV_lQ)
+- [Принцип информационный эксперт с адаптацией](https://youtu.be/cCHL329_As0)
 
 ## Разработка серверов приложений и API на Node.js
 

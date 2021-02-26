@@ -18,3 +18,5 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/LiskovSubstitution
 - [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
   - Примеры кода: https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
+- [GRASP принципы с адаптацией для JavaScript и Node.js](https://youtu.be/ExauFjYV_lQ)
+- [Принцип информационный эксперт с адаптацией](https://youtu.be/cCHL329_As0)
