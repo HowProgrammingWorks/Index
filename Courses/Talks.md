@@ -24,6 +24,8 @@
   - [Asynchronous programming and mutlithreading](https://www.slideshare.net/tshemsedinov/asynchronous-programming-and-mutlithreading)
   - [Race conditions, web locks and shared memory](https://www.slideshare.net/tshemsedinov/raceconditionsweblocksandsharedmemory)
   - [Node.js patterns and antipatterns](https://www.slideshare.net/tshemsedinov/patterns-and-antipatterns-234771061)
+- AllStarsIT meetup: [Патерни та антипатерни для JavaScript та Node.js](https://www.facebook.com/events/493244841602522)
+- Innovecs meetup: [Node.js in 2020](https://www.facebook.com/events/599254947289540/)
 
 ## 2019
 
@@ -57,6 +59,13 @@
 - JS Conference 2017
   - [Масштабирование Node.js для высоких нагрузок](https://youtu.be/-yJWLaJ31NI)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-scaling-in-highload-145786324
+
+## 2016
+
+- Odessa.js'2016
+  - [Node.js Macht frei](https://youtu.be/926UKzrVrqk)
+  - Статья: https://habrahabr.ru/post/306584/
+  - Слайды: http://www.slideshare.net/tshemsedinov/metarhia-nodejs-macht-frei
 
 ## 2015
 
