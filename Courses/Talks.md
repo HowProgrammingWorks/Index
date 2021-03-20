@@ -1,7 +1,12 @@
 # Доклады и выступления
 
+## 2021
+
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
 - [Стратегия входа Node.js в корпоративный сектор](https://youtu.be/FLcBrP1KFYk)
+
+## 2020
+
 - [JavaScript fwdays'20 autumn online conference](https://fwdays.com/en/event/javascript-fwdays-2020)
   - Доклад: [Node.js Middleware: Never again!](https://youtu.be/RS8x73z4csI)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-middleware-never-again
@@ -13,6 +18,9 @@
     - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-2
   - [Часть 3: Структура и архитектура проекта, Node.js Starter Kit](https://youtu.be/ZXB5OTRld1w)
     - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-3
+
+## 2019
+
 - [Антипаттерны Node.js](https://jsfest.com.ua/jsfest2019autumn/)
   - Слайды: https://www.slideshare.net/tshemsedinov/js-fest-2019-nodejs-antipatterns
 - [Разделяемая память в многопоточном Node.js. Тимур Шемсединов. JS Fest 2019 Spring](https://youtu.be/KNsm_iIQt7U)
