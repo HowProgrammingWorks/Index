@@ -18,6 +18,12 @@
     - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-2
   - [Часть 3: Структура и архитектура проекта, Node.js Starter Kit](https://youtu.be/ZXB5OTRld1w)
     - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-3
+- JavaScript fwdays'20: [Web Locks API in Node.js and browser](https://youtu.be/auMM-uV12F0)
+  - Слайды: https://www.slideshare.net/tshemsedinov/web-locks-api
+- Node.js global summit 2020
+  - [Asynchronous programming and mutlithreading](https://www.slideshare.net/tshemsedinov/asynchronous-programming-and-mutlithreading)
+  - [Race conditions, web locks and shared memory](https://www.slideshare.net/tshemsedinov/raceconditionsweblocksandsharedmemory)
+  - [Node.js patterns and antipatterns](https://www.slideshare.net/tshemsedinov/patterns-and-antipatterns-234771061)
 
 ## 2019
 
