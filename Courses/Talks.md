@@ -4,6 +4,7 @@
 
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
 - [Стратегия входа Node.js в корпоративный сектор](https://youtu.be/FLcBrP1KFYk)
+- [Как Node.js разработчику подготовиться к проектам корпоративного уровня](https://youtu.be/DghzF_OmodY)
 
 ## 2020
 
