@@ -18,7 +18,6 @@
 - [JavaScript fwdays'20 autumn online conference](https://fwdays.com/en/event/javascript-fwdays-2020)
   - Доклад: [Node.js Middleware: Never again!](https://youtu.be/RS8x73z4csI)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-middleware-never-again
-- Круглый стол: [Node.js with Timur Shemsedinov, Illya Klymov, Olena Sharovar, Nikita Galkin and Andrii Shumada](https://youtu.be/0DHslLRof-M)
 - Вебинары на JavaScript fwdays'20 [Node.js: Выйди и зайди нормально](https://fwdays.com/en/event/node-js-in-2020)
   - [Часть 1: Обзор новых возможностей, история и изоляция](https://youtu.be/GJY2dyE6328?t=480)
     - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-1
@@ -32,8 +31,12 @@
   - [Asynchronous programming and mutlithreading](https://www.slideshare.net/tshemsedinov/asynchronous-programming-and-mutlithreading)
   - [Race conditions, web locks and shared memory](https://www.slideshare.net/tshemsedinov/raceconditionsweblocksandsharedmemory)
   - [Node.js patterns and antipatterns](https://www.slideshare.net/tshemsedinov/patterns-and-antipatterns-234771061)
+- Круглый стол: [Node.js with Timur Shemsedinov, Illya Klymov, Olena Sharovar, Nikita Galkin and Andrii Shumada](https://youtu.be/0DHslLRof-M)
 - AllStarsIT meetup: [Патерни та антипатерни для JavaScript та Node.js](https://www.facebook.com/events/493244841602522)
 - Innovecs meetup: [Node.js in 2020](https://www.facebook.com/events/599254947289540/)
+- DevPro workshop: [Node.js 8-часовой интенсив](https://www.facebook.com/events/469222250713698/)
+- [Школа Метархии NS5: 11-12 июля](https://www.meetup.com/NodeUA/events/269049581/)
+- [Школа Метархии NS6: 22-23 августа](https://www.meetup.com/NodeUA/events/272331406/)
 
 ## 2019
 
