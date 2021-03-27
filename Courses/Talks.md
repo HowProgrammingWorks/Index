@@ -1,5 +1,12 @@
 # Доклады и выступления
 
+## Future talks
+
+- [Технологический стек Metarhia для Node.js](https://fwdays.com/en/event/javascript-fwdays-2021/review/metarhia-technology-stack-for-nodejs)
+- [Технологический стек Node.js для корпоративных приложений](https://fwdays.com/en/event/node-js-stack-for-enterprise)
+- [Node.js от middleware к сервисам](https://fwdays.com/en/event/node-js-stack-for-enterprise)
+- [Адаптация GRASP для JavaScript и Node.js](https://fwdays.com/en/event/node-js-stack-for-enterprise)
+
 ## 2021
 
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
