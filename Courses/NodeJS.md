@@ -63,6 +63,7 @@
 - [Принцип информационный эксперт / Information Expert](https://youtu.be/cCHL329_As0)
 - [Зацепление и связность / coupling and cohesion](https://youtu.be/IGXdPOZ3Fyk)
 - [Чистая выдумка / Pure Fabrication](https://youtu.be/CV577a0RHBM)
+- [GRASP: Пример декомпозиции класса](https://youtu.be/4AMVQ2-2DcM)
 
 ## Разработка серверов приложений и API на Node.js
 
