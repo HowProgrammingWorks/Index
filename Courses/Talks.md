@@ -32,7 +32,9 @@
   - [Race conditions, web locks and shared memory](https://www.slideshare.net/tshemsedinov/raceconditionsweblocksandsharedmemory)
   - [Node.js patterns and antipatterns](https://www.slideshare.net/tshemsedinov/patterns-and-antipatterns-234771061)
 - Круглый стол: [Node.js with Timur Shemsedinov, Illya Klymov, Olena Sharovar, Nikita Galkin and Andrii Shumada](https://youtu.be/0DHslLRof-M)
-- AllStarsIT meetup: [Патерни та антипатерни для JavaScript та Node.js](https://www.facebook.com/events/493244841602522)
+- AllStarsIT meetup: Патерни та антипатерни для JavaScript та Node.js
+  - Event page: https://www.facebook.com/events/493244841602522
+  - Video: https://youtu.be/udcn_NqvDqk
 - Innovecs meetup: [Node.js in 2020](https://www.facebook.com/events/599254947289540/)
 - DevPro workshop: [Node.js 8-часовой интенсив](https://www.facebook.com/events/469222250713698/)
 - [Школа Метархии NS5: 11-12 июля](https://www.meetup.com/NodeUA/events/269049581/)
