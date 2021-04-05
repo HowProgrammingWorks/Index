@@ -39,3 +39,8 @@
 - Фреймворк тестирования: https://github.com/metarhia/metatests
 - Общие утилиты: https://github.com/metarhia/common
 - Общие утилиты (облегченная): https://github.com/metarhia/metautil
+
+## Регистрация тем
+
+- Нужно заполнить форму: https://forms.gle/u7v7nUFxamcgJ2aQ6
+- И дать мне права на редозиторий, мой аккаунт: https://github.com/tshemsedinov
