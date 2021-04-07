@@ -6,6 +6,7 @@
 - [Технологический стек Node.js для корпоративных приложений](https://fwdays.com/en/event/node-js-stack-for-enterprise)
 - [Node.js от middleware к сервисам](https://fwdays.com/en/event/node-js-stack-for-enterprise)
 - [Адаптация GRASP для JavaScript и Node.js](https://fwdays.com/en/event/node-js-stack-for-enterprise)
+- [The Main Issues of IT Industry](https://www.facebook.com/events/549611189353814/)
 
 ## 2021
 
