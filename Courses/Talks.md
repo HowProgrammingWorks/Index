@@ -4,7 +4,6 @@
 
 - [Технологический стек Metarhia для Node.js](https://fwdays.com/en/event/javascript-fwdays-2021/review/metarhia-technology-stack-for-nodejs)
 - [Адаптация GRASP для JavaScript и Node.js](https://fwdays.com/en/event/node-js-stack-for-enterprise)
-- [The Main Issues of IT Industry](https://www.facebook.com/events/549611189353814/)
 
 ## 2021
 
@@ -14,6 +13,8 @@
 - [Node.js for Enterprise Node.js от middleware к сервисам](https://fwdays.com/en/event/node-js-stack-for-enterprise)
   - [Часть 1: DDD, слои транспорт-агностик подход](https://youtu.be/L7Yge5Ph0z4)
   - [Часть 2: Изоляция кда и внедрение зависимостей](https://youtu.be/GRg4BmV1uYI)
+- [Главная проблема ИТ индустрии](https://youtu.be/XOzjDBeaSwc)
+  - [Голосуйте за стипикера на странице конкурса](https://techspeaker.allstars-it.com/#speakers)
 
 ## 2020
 
