@@ -20,6 +20,11 @@
 - [Часть 3: Структура и архитектура проекта, Node.js Starter Kit](https://youtu.be/ZXB5OTRld1w)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2020-part-3
 
+## Вебинары Node.js for Enterprise
+
+- [Часть 1: DDD, слои транспорт-агностик подход](https://youtu.be/L7Yge5Ph0z4)
+- [Часть 2: Изоляция кда и внедрение зависимостей](https://youtu.be/GRg4BmV1uYI)
+
 ## Введение и основы
 
 - [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
