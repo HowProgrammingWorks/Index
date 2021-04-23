@@ -23,7 +23,8 @@
 ## Вебинары Node.js for Enterprise
 
 - [Часть 1: DDD, слои транспорт-агностик подход](https://youtu.be/L7Yge5Ph0z4)
-- [Часть 2: Изоляция кда и внедрение зависимостей](https://youtu.be/GRg4BmV1uYI)
+- [Часть 2: Изоляция кода и внедрение зависимостей](https://youtu.be/GRg4BmV1uYI)
+- [Часть 3: Применение GRASP, SOLID, DDD, LoD, GoF](https://youtu.be/EiSbiQWt5tM)
 
 ## Введение и основы
 

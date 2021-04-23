@@ -12,7 +12,8 @@
 - [Как Node.js разработчику подготовиться к проектам корпоративного уровня](https://youtu.be/DghzF_OmodY)
 - [Node.js for Enterprise Node.js от middleware к сервисам](https://fwdays.com/en/event/node-js-stack-for-enterprise)
   - [Часть 1: DDD, слои транспорт-агностик подход](https://youtu.be/L7Yge5Ph0z4)
-  - [Часть 2: Изоляция кда и внедрение зависимостей](https://youtu.be/GRg4BmV1uYI)
+  - [Часть 2: Изоляция кода и внедрение зависимостей](https://youtu.be/GRg4BmV1uYI)
+  - [Часть 3: Применение GRASP, SOLID, DDD, LoD, GoF](https://youtu.be/EiSbiQWt5tM)
 - [Главная проблема ИТ индустрии](https://youtu.be/XOzjDBeaSwc)
   - [Голосуйте за стипикера на странице конкурса](https://techspeaker.allstars-it.com/#speakers)
 
