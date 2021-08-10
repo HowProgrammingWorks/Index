@@ -2,9 +2,6 @@
 
 ## Future talks
 
-- [Технологический стек Metarhia для Node.js](https://fwdays.com/en/event/javascript-fwdays-2021/review/metarhia-technology-stack-for-nodejs)
-- [Адаптация GRASP для JavaScript и Node.js](https://fwdays.com/en/event/node-js-stack-for-enterprise)
-
 ## 2021
 
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
@@ -15,7 +12,11 @@
   - [Часть 2: Изоляция кода и внедрение зависимостей](https://youtu.be/GRg4BmV1uYI)
   - [Часть 3: Применение GRASP, SOLID, DDD, LoD, GoF](https://youtu.be/EiSbiQWt5tM)
 - [Главная проблема ИТ индустрии](https://youtu.be/XOzjDBeaSwc)
-  - [Голосуйте за стипикера на странице конкурса](https://techspeaker.allstars-it.com/#speakers)
+  - [Голосуйте за спикера на странице конкурса](https://techspeaker.allstars-it.com/#speakers)
+- [Технологический стек Metarhia для Node.js](https://youtu.be/PHyl4b8Fj5A)
+  - Слайды: https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs)
+  - Страница: https://fwdays.com/en/event/javascript-fwdays-2021/review/metarhia-technology-stack-for-nodejs
+- [Node.js - плохие подходы и хорошие стороны - Postindustria Podcast](https://youtu.be/oEyS_TNiw2g)
 
 ## 2020
 
