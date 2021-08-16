@@ -2,6 +2,11 @@
 
 ## Future talks
 
+- Parrots who code: we will teach everyone (JavaScript Fwdays with Andrey
+  Listochkin and Timur Shemsedinov) 17 Aug 2021, 19:00
+- NodeJS Online TechCorner at Odessa.js (with Eldar Djafarov, Denis Otrishko,
+  and others) 19 Aug 2021, 17:00
+
 ## 2021
 
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
