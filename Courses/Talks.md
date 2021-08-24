@@ -2,6 +2,8 @@
 
 ## Future talks
 
+- Node.js: Less complexity, more reliability at [HolyJS](https://holyjs-moscow.ru/)
+
 ## 2021
 
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
