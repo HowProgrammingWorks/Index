@@ -2,12 +2,6 @@
 
 ## Future talks
 
-- [Parrots who code: we will teach everyone](https://youtu.be/WG9Qv9DR-ps)
-  JavaScript Fwdays with Andrey Listochkin and Timur Shemsedinov) (17 Aug 2021)
-- [NodeJS Online TechCorner at Odessa.js](https://youtu.be/yruIjTWYMro) with
-  Timur Shemsedinov, Eldar Djafarov, Denis Otrishko, Nick Romanenko, Nick
-  Lototskiy, Olexiy Novohatskiy (19 Aug 2021)
-
 ## 2021
 
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
@@ -23,6 +17,11 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs)
   - Страница: https://fwdays.com/en/event/javascript-fwdays-2021/review/metarhia-technology-stack-for-nodejs
 - [Node.js - плохие подходы и хорошие стороны - Postindustria Podcast](https://youtu.be/oEyS_TNiw2g)
+- [Parrots who code: we will teach everyone](https://youtu.be/WG9Qv9DR-ps)
+  JavaScript Fwdays with Andrey Listochkin and Timur Shemsedinov) (17 Aug 2021)
+- [NodeJS Online TechCorner at Odessa.js](https://youtu.be/yruIjTWYMro) with
+  Timur Shemsedinov, Eldar Djafarov, Denis Otrishko, Nick Romanenko, Nick
+  Lototskiy, Olexiy Novohatskiy (19 Aug 2021)
 
 ## 2020
 
