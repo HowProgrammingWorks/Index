@@ -3,6 +3,7 @@
 ## Future talks
 
 - Node.js: Less complexity, more reliability at [HolyJS](https://holyjs-moscow.ru/)
+- Rethinking Low-code (скорее всего на Fwdays Architecture '21)
 
 ## 2021
 
