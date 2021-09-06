@@ -17,7 +17,7 @@
 инструментам и процессу разработки), 8 семинаров, 9 лабораторных работ,
 47 репозиториев с примерами кода.
 
-### 1 неделя: 6 сентября -12 сентября
+### 1 неделя: 6 сентября - 12 сентября
 
 - [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)
   - Абстракция, модель, алгоритм, программа, синтаксис, повторное использование
@@ -178,22 +178,36 @@
 
 ## Модуль SEF2
 
+### 18 неделя: 31 января - 6 февраля
+
 - [Объектно-ориентированное программирование](https://youtu.be/r4ReQlVtfgQ)
 - [Структуры (struct) или записи (record)](https://youtu.be/Wb7o_kK4aH4)
 - [Карта специальности инженер-программист](https://youtu.be/SE5aXH-yf0I)
+
+### 19 неделя: 7 февраля - 13 февраля
+
 - [Подход к изучению программирования](https://youtu.be/zMU4ir10DMg)
 - Списки: односвязные, двусвязные, циклические, развернутые
 - [Графы и запросы к графовым структурам данных](https://youtu.be/a0W0T8Yqw3s)
   - Примеры кода: https://github.com/HowProgrammingWorks/Graph
+
+### 20 неделя: 14 февраля - 20 февраля
+
 - [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
   - Примеры кода: https://github.com/HowProgrammingWorks/Projection
 - [Мономорфный и полиморфный код, инлайн-кэш, скрытые классы](https://youtu.be/9JUY3prnCQ4)
   - Примеры кода: https://github.com/HowProgrammingWorks/Monomorphism
+
+### 21 неделя: 21 февраля - 27 февраля
+
 - [Функциональное программирование](https://youtu.be/0JxSs_GcvbQ)
   - Смотрите обзорно, это не обязательная лекция, попробуйте уловить суть парадигмы
   - Примеры кода: https://github.com/HowProgrammingWorks/FunctionalProgramming
 - [Реактивное программирование](https://youtu.be/7MH8-qQc-48)
   - Примеры кода: https://github.com/HowProgrammingWorks/ReactiveProgramming
+
+### 22 неделя: 28 февраля - 6 марта
+
 - [Работа с файлами, буферами и файловыми потоками в Node.js](https://youtu.be/eQGBS15vUac)
   - Файлы: https://github.com/HowProgrammingWorks/Files
   - Потоки: https://github.com/HowProgrammingWorks/Streams
@@ -201,34 +215,55 @@
 - Оценка сложности алгоритмов
 - [Измерение производительности кода и оптимизация](https://youtu.be/sanq2X7Re8o)
   - Примеры кода: https://github.com/HowProgrammingWorks/Benchmark
+
+### 23 неделя: 7 марта - 13 марта
+
 - [Асинхронное программирование на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
 - [Асинхронное программирование на promise`ах](https://youtu.be/RMl4r6s1Y8M)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsynchronousProgramming
 - [Асинхронные функции, async/await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
+
+### 24 неделя: 14 марта - 20 марта
+
 - Неизменяемые структуры данных (immutable)
 - Автоматное программирование: конечные автоматы (машины состояний)
+
+### 25 неделя: 21 марта - 27 марта
+
 - [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
 - [Шаблон Singleton (синглтон) в  JavaScript](https://youtu.be/qdJ5yikZnfE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Singleton
 - [Функциональные объекты, функторы и монады в JavaScript](https://youtu.be/3Z7f0Gi8pxw)
   - Примеры кода: https://github.com/HowProgrammingWorks/Functor
+
+### 26 неделя: 28 марта - 3 апреля
+
 - [Генераторы и асинхронные генераторы](https://youtu.be/kvNm9D32s8s)
   - Генераторы: https://github.com/HowProgrammingWorks/Generator
   - Асинхронные генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
 - [Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
   - Итераторы: https://github.com/HowProgrammingWorks/Iterator
   - Асинхронные итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
+
+### 27 неделя: 4 апреля - 10 апреля
+
 - [Перечислимый тип (enum) в JavaScript и TypeScript](https://youtu.be/BXiKebOIAGI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Enum
 - [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Generics
+
+### 28 неделя: 11 апреля - 17 апреля
+
 - [Тестирование: юниттесты с примерами](https://youtu.be/CszugIag2TA)
   - Тестирование: https://github.com/HowProgrammingWorks/Testing
   - Юниттесты: https://github.com/HowProgrammingWorks/Unittesting
 - [Тестирование: системное и интеграционное тестирование](https://youtu.be/OuKu_6H_6gE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Unittesting
+
+### 29 неделя: 18 апреля - 24 апреля
+
 - [Интроспекция и рефлексия в JavaScript](https://youtu.be/yvW1PjUVeM0)
   - Интроспекция: https://github.com/HowProgrammingWorks/Introspection
   - Рефлекция: https://github.com/HowProgrammingWorks/Reflect
