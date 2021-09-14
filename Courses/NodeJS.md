@@ -54,6 +54,8 @@
 ## Структура и архитектура приложений на Node.js
 
 - [Архитектурный подход к программированию](https://youtu.be/d_vyO2CkiOc)
+- [Node.js модули: ECMA, Common.js, Module API](https://youtu.be/CJr2vS3hjMU)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Modularity
 - [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
   - Пример проекта: https://github.com/HowProgrammingWorks/Project
   - Абстрактные слои: https://github.com/HowProgrammingWorks/AbstractionLayers
