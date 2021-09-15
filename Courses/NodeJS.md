@@ -54,12 +54,14 @@
 ## Структура и архитектура приложений на Node.js
 
 - [Архитектурный подход к программированию](https://youtu.be/d_vyO2CkiOc)
-- [Node.js модули: ECMA, Common.js, Module API](https://youtu.be/CJr2vS3hjMU)
-  - Примеры кода: https://github.com/HowProgrammingWorks/Modularity
 - [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
   - Пример проекта: https://github.com/HowProgrammingWorks/Project
   - Абстрактные слои: https://github.com/HowProgrammingWorks/AbstractionLayers
   - Песочницы: https://github.com/HowProgrammingWorks/Sandboxes
+- [Node.js модули: ECMA, Common.js, Module API](https://youtu.be/CJr2vS3hjMU)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Modularity
+- [Модули и пакеты, использование package.json и node_modules](https://youtu.be/31sX_3IbXs4)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Packages
 - [Инверсия управления и внедрение зависимостей в Node.js](https://youtu.be/Fz86Fdjz-LM)
   - Инверсия управления: https://github.com/HowProgrammingWorks/InversionOfControl
   - Внедрение зависимостей: https://github.com/HowProgrammingWorks/DependencyInjection
