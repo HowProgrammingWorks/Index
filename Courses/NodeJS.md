@@ -147,3 +147,7 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-security-199004963
 - [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
   - Слайды: https://www.slideshare.net/tshemsedinov/serverless-clouds-faas-and-request-context-isolation-in-nodejs
+
+## Вспомогательные темы
+
+- [Асинхронный пул для worker thread pool в Node.js](https://youtu.be/Jj5KZRq4wYI)
