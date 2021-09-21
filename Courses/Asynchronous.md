@@ -59,3 +59,4 @@
 - Асинхронные обработчики событий и AsyncEmitter
 - Async hooks
 - [Разделяемая память в многопоточном Node.js](https://youtu.be/KNsm_iIQt7U)
+- [Асинхронный пул для worker thread pool в Node.js](https://youtu.be/Jj5KZRq4wYI)
