@@ -4,6 +4,7 @@
 
 - Node.js: Less complexity, more reliability at [HolyJS](https://holyjs-moscow.ru/)
 - Rethinking Low-code (скорее всего на Fwdays Architecture '21)
+- Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)
 
 ## 2021
 
