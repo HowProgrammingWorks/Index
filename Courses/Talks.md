@@ -27,6 +27,7 @@
   Timur Shemsedinov, Eldar Djafarov, Denis Otrishko, Nick Romanenko, Nick
   Lototskiy, Olexiy Novohatskiy (19 Aug 2021)
 - [Как GRASP и SOLID защитят ваш Node.js код от мидлварей и протекания абстракций](https://youtu.be/p063fy3fHZM)
+- [Hacktoberfest 2021: лайвкодинг и ревью кода, Node.js worker_threads и thread pool для Metarhia](https://youtu.be/qipIRQptP_4)
 
 ## 2020
 
