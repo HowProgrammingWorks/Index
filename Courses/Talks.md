@@ -3,7 +3,9 @@
 ## Future talks
 
 - Node.js: Less complexity, more reliability at [HolyJS](https://holyjs-moscow.ru/)
-- Rethinking Low-code (скорее всего на Fwdays Architecture '21)
+- Rethinking Low-code (Fwdays Architecture '21)
+  - Слайды https://www.slideshare.net/tshemsedinov/rethinking-lowcode
+  - https://fwdays.com/en/event/architecture-fwdays-2021/review/rethinking-low-code
 - Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)
 
 ## 2021
