@@ -2,16 +2,16 @@
 
 ## Future talks
 
+- Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)
+
+## 2021
+
 - Node.js: Less complexity, more reliability at [HolyJS](https://holyjs-moscow.ru/)
   - Слайды https://www.slideshare.net/tshemsedinov/nodejs-holyjs-2021
   - https://holyjs-moscow.ru/talks/node-js-less-complexity-more-reliability/
 - Rethinking Low-code (Fwdays Architecture '21)
   - Слайды https://www.slideshare.net/tshemsedinov/rethinking-lowcode
   - https://fwdays.com/en/event/architecture-fwdays-2021/review/rethinking-low-code
-- Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)
-
-## 2021
-
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
 - [Стратегия входа Node.js в корпоративный сектор](https://youtu.be/FLcBrP1KFYk)
 - [Как Node.js разработчику подготовиться к проектам корпоративного уровня](https://youtu.be/DghzF_OmodY)
