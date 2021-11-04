@@ -3,6 +3,8 @@
 ## Future talks
 
 - Node.js: Less complexity, more reliability at [HolyJS](https://holyjs-moscow.ru/)
+  - Слайды https://www.slideshare.net/tshemsedinov/nodejs-holyjs-2021
+  - https://holyjs-moscow.ru/talks/node-js-less-complexity-more-reliability/
 - Rethinking Low-code (Fwdays Architecture '21)
   - Слайды https://www.slideshare.net/tshemsedinov/rethinking-lowcode
   - https://fwdays.com/en/event/architecture-fwdays-2021/review/rethinking-low-code
