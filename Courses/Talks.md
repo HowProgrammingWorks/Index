@@ -2,7 +2,9 @@
 
 ## Future talks
 
-- Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)
+- [Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)](https://fwdays.com/en/event/js-autumn-fwdays-2021/review/node-js-threads)
+- [OdessaJs: Node.js Online TechCorner Part 2](https://odessajs.org/)
+- [Интервью на "Мы обречены"](https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA)
 
 ## 2021
 
@@ -32,6 +34,7 @@
   Lototskiy, Olexiy Novohatskiy (19 Aug 2021)
 - [Как GRASP и SOLID защитят ваш Node.js код от мидлварей и протекания абстракций](https://youtu.be/p063fy3fHZM)
 - [Hacktoberfest 2021: лайвкодинг и ревью кода, Node.js worker_threads и thread pool для Metarhia](https://youtu.be/qipIRQptP_4)
+- [Дуэль Node.js vs Java: Тимур Шемсединов vs Владимир Кириченко](https://youtu.be/oIzLD73IQ4s)
 
 ## 2020
 
