@@ -2,12 +2,13 @@
 
 ## Future talks
 
-- [Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)](https://fwdays.com/en/event/js-autumn-fwdays-2021/review/node-js-threads)
-- [OdessaJs: Node.js Online TechCorner Part 2](https://odessajs.org/)
 - [Интервью на "Мы обречены"](https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA)
 
 ## 2021
 
+- [Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)](https://fwdays.com/en/event/js-autumn-fwdays-2021/review/node-js-threads)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-threads-for-iobound-tasks
+- [OdessaJs: Node.js Online TechCorner Part 2](https://youtu.be/f5cCHvwUwAI)
 - Node.js: Less complexity, more reliability at [HolyJS](https://holyjs-moscow.ru/)
   - Слайды https://www.slideshare.net/tshemsedinov/nodejs-holyjs-2021
   - https://holyjs-moscow.ru/talks/node-js-less-complexity-more-reliability/
