@@ -2,10 +2,9 @@
 
 ## Future talks
 
-- [Интервью на "Мы обречены"](https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA)
-
 ## 2021
 
+- [Интервью на "Мы обречены"](https://youtu.be/bPx4ajl0Tmw)
 - [Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)](https://fwdays.com/en/event/js-autumn-fwdays-2021/review/node-js-threads)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-threads-for-iobound-tasks
 - [OdessaJs: Node.js Online TechCorner Part 2](https://youtu.be/f5cCHvwUwAI)
