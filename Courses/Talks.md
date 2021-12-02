@@ -2,6 +2,9 @@
 
 ## Future talks
 
+- [Многопоточность в NodeJS](https://podlodka.io/fecrew) 13 декабря, пн, 19:00–20:00
+- [Открытое собеседование на подлодке](https://podlodka.io/fecrew) 15 декабря, ср, 10:00–11:00
+
 ## 2021
 
 - [Интервью на "Мы обречены"](https://youtu.be/bPx4ajl0Tmw)
