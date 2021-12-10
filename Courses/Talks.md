@@ -1,9 +1,10 @@
-# Доклады и выступления
+# Conference and public talks
 
 ## Future talks
 
 - [Многопоточность в NodeJS](https://podlodka.io/fecrew) 13 декабря, пн, 19:00–20:00
 - [Открытое собеседование на подлодке](https://podlodka.io/fecrew) 15 декабря, ср, 10:00–11:00
+- [Digitaltalk с Valeriy Wise](https://www.youtube.com/c/ValeriyWise) 10 декабря, пт
 
 ## 2021
 
