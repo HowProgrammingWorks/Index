@@ -4,10 +4,10 @@
 
 - [Многопоточность в NodeJS](https://podlodka.io/fecrew) 13 декабря, пн, 19:00–20:00
 - [Открытое собеседование на подлодке](https://podlodka.io/fecrew) 15 декабря, ср, 10:00–11:00
-- [Digitaltalk с Valeriy Wise](https://www.youtube.com/c/ValeriyWise) 10 декабря, пт
 
 ## 2021
 
+- [Digitaltalk с Valeriy Wise](https://youtu.be/410aVHlS6Gg)
 - [Интервью на "Мы обречены"](https://youtu.be/bPx4ajl0Tmw)
 - [Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)](https://fwdays.com/en/event/js-autumn-fwdays-2021/review/node-js-threads)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-threads-for-iobound-tasks
