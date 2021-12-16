@@ -2,12 +2,12 @@
 
 ## Future talks
 
-- [Открытое собеседование на подлодке](https://podlodka.io/fecrew) 14 декабря, вт, 19:00–20:00
-- [Многопоточность в NodeJS](https://podlodka.io/fecrew) 16 декабря, пн, 10:00–11:00
-
 ## 2021
 
 - [Digitaltalk с Valeriy Wise](https://youtu.be/410aVHlS6Gg)
+- [Открытое собеседование на подлодке](https://youtu.be/sNFPdfgax3Q) https://podlodka.io/fecrew
+- [Многопоточность в NodeJS](https://youtu.be/VNXga8zomrY)
+  - Слайды: https://www.slideshare.net/tshemsedinov/multithreading-in-nodejs-and-javascript
 - [Интервью на "Мы обречены"](https://youtu.be/bPx4ajl0Tmw)
 - [Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)](https://fwdays.com/en/event/js-autumn-fwdays-2021/review/node-js-threads)
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-threads-for-iobound-tasks
