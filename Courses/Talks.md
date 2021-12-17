@@ -2,6 +2,8 @@
 
 ## Future talks
 
+- [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
+
 ## 2021
 
 - [Digitaltalk с Valeriy Wise](https://youtu.be/410aVHlS6Gg)
