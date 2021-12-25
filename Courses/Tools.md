@@ -9,4 +9,3 @@
 - Бенчмаркинг
   - [Измерение производительности кода и оптимизация в JavaScript и Node.js](https://youtu.be/sanq2X7Re8o)
   - https://github.com/HowProgrammingWorks/Benchmark
-- [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
