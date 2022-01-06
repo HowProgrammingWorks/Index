@@ -6,7 +6,6 @@
 
 ## 2021
 
-- [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
 - [Digitaltalk с Valeriy Wise](https://youtu.be/410aVHlS6Gg)
 - [Открытое собеседование на подлодке](https://youtu.be/sNFPdfgax3Q) https://podlodka.io/fecrew
 - [Многопоточность в NodeJS](https://youtu.be/VNXga8zomrY)
