@@ -3,6 +3,7 @@
 ## Future talks
 
 - [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
+- [OdessaJs: Node.js Online TechCorner](https://youtu.be/f5cCHvwUwAI) 17 Feb
 
 ## 2021
 
