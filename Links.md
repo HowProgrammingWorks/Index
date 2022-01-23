@@ -15,6 +15,7 @@
 тут публикуются объявления о лекциях, митапах и семинарах, все новые видео и
 другие материалы
 - Телеграм группа [MetarhiaHPW](https://t.me/MetarhiaHPW)
+- Телеграм канал [Metaeducation](https://t.me/metaedu)
 - Подписка на митапы [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/)
 по общим темам программирования, по JavaScript и для начинающих, тут лежит
 календарь событий, можно регистрироваться и оставлять отзывы
@@ -22,7 +23,7 @@
 
 ## Для начинающих
 
-- Телеграм группа [IP9X](https://t.me/Programming_IP9X)
+- Телеграм группа для начинающих [IP9X](https://t.me/Programming_IP9X)
 - Подписка на митапы [HowProgrammingWorks](https://www.meetup.com/HowProgrammingWorks/)
 тут лежит календарь событий, можно регистрироваться и оставлять отзывы
 

@@ -1,12 +1,26 @@
-# Доклады и выступления
+# Conference and public talks
 
 ## Future talks
 
-- [Технологический стек Metarhia для Node.js](https://fwdays.com/en/event/javascript-fwdays-2021/review/metarhia-technology-stack-for-nodejs)
-- [Адаптация GRASP для JavaScript и Node.js](https://fwdays.com/en/event/node-js-stack-for-enterprise)
+- [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
+- [OdessaJs: Node.js Online TechCorner](https://youtu.be/f5cCHvwUwAI) 17 Feb
 
 ## 2021
 
+- [Digitaltalk с Valeriy Wise](https://youtu.be/410aVHlS6Gg)
+- [Открытое собеседование на подлодке](https://youtu.be/sNFPdfgax3Q) https://podlodka.io/fecrew
+- [Многопоточность в NodeJS](https://youtu.be/VNXga8zomrY)
+  - Слайды: https://www.slideshare.net/tshemsedinov/multithreading-in-nodejs-and-javascript
+- [Интервью на "Мы обречены"](https://youtu.be/bPx4ajl0Tmw)
+- [Node.js потоки для I/O-bound задач (Node.js threads for I/O-bound tasks)](https://fwdays.com/en/event/js-autumn-fwdays-2021/review/node-js-threads)
+  - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-threads-for-iobound-tasks
+- [OdessaJs: Node.js Online TechCorner Part 2](https://youtu.be/f5cCHvwUwAI)
+- Node.js: Less complexity, more reliability at [HolyJS](https://holyjs-moscow.ru/)
+  - Слайды https://www.slideshare.net/tshemsedinov/nodejs-holyjs-2021
+  - https://holyjs-moscow.ru/talks/node-js-less-complexity-more-reliability/
+- Rethinking Low-code (Fwdays Architecture '21)
+  - Слайды https://www.slideshare.net/tshemsedinov/rethinking-lowcode
+  - https://fwdays.com/en/event/architecture-fwdays-2021/review/rethinking-low-code
 - [Байки про JavaScript и Node.js с Тимуром Шемсединовым](https://youtu.be/hoKKYKMadQs)
 - [Стратегия входа Node.js в корпоративный сектор](https://youtu.be/FLcBrP1KFYk)
 - [Как Node.js разработчику подготовиться к проектам корпоративного уровня](https://youtu.be/DghzF_OmodY)
@@ -15,7 +29,19 @@
   - [Часть 2: Изоляция кода и внедрение зависимостей](https://youtu.be/GRg4BmV1uYI)
   - [Часть 3: Применение GRASP, SOLID, DDD, LoD, GoF](https://youtu.be/EiSbiQWt5tM)
 - [Главная проблема ИТ индустрии](https://youtu.be/XOzjDBeaSwc)
-  - [Голосуйте за стипикера на странице конкурса](https://techspeaker.allstars-it.com/#speakers)
+  - [Голосуйте за спикера на странице конкурса](https://techspeaker.allstars-it.com/#speakers)
+- [Технологический стек Metarhia для Node.js](https://youtu.be/PHyl4b8Fj5A)
+  - Слайды: https://www.slideshare.net/tshemsedinov/fwdays-2021-metarhia-technology-stack-for-nodejs)
+  - Страница: https://fwdays.com/en/event/javascript-fwdays-2021/review/metarhia-technology-stack-for-nodejs
+- [Node.js - плохие подходы и хорошие стороны - Postindustria Podcast](https://youtu.be/oEyS_TNiw2g)
+- [Parrots who code: we will teach everyone](https://youtu.be/WG9Qv9DR-ps)
+  JavaScript Fwdays with Andrey Listochkin and Timur Shemsedinov) (17 Aug 2021)
+- [NodeJS Online TechCorner at Odessa.js](https://youtu.be/yruIjTWYMro) with
+  Timur Shemsedinov, Eldar Djafarov, Denis Otrishko, Nick Romanenko, Nick
+  Lototskiy, Olexiy Novohatskiy (19 Aug 2021)
+- [Как GRASP и SOLID защитят ваш Node.js код от мидлварей и протекания абстракций](https://youtu.be/p063fy3fHZM)
+- [Hacktoberfest 2021: лайвкодинг и ревью кода, Node.js worker_threads и thread pool для Metarhia](https://youtu.be/qipIRQptP_4)
+- [Дуэль Node.js vs Java: Тимур Шемсединов vs Владимир Кириченко](https://youtu.be/oIzLD73IQ4s)
 
 ## 2020
 

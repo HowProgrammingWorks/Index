@@ -34,8 +34,8 @@
   - Генераторы: https://github.com/HowProgrammingWorks/Generator
   - Асинхронные генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
 - [Итераторы и асинхронные итераторы](https://youtu.be/rBGFlWpVpGs)
-  - Итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
-  - Асинхронные итераторы: https://github.com/HowProgrammingWorks/Iterator
+  - Итераторы: https://github.com/HowProgrammingWorks/Iterator
+  - Асинхронные итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
 - [Отмена асинхронных операций](https://youtu.be/T8fXlnqI4Ws)
   - Примеры кода: https://github.com/HowProgrammingWorks/Cancelable
 - [Асинхронная композиция функций](https://youtu.be/3ZCrMlMpOrM)
@@ -59,3 +59,4 @@
 - Асинхронные обработчики событий и AsyncEmitter
 - Async hooks
 - [Разделяемая память в многопоточном Node.js](https://youtu.be/KNsm_iIQt7U)
+- [Асинхронный пул для worker thread pool в Node.js](https://youtu.be/Jj5KZRq4wYI)

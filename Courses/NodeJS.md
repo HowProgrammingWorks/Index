@@ -58,6 +58,10 @@
   - Пример проекта: https://github.com/HowProgrammingWorks/Project
   - Абстрактные слои: https://github.com/HowProgrammingWorks/AbstractionLayers
   - Песочницы: https://github.com/HowProgrammingWorks/Sandboxes
+- [Node.js модули: ECMA, Common.js, Module API](https://youtu.be/CJr2vS3hjMU)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Modularity
+- [Модули и пакеты, использование package.json и node_modules](https://youtu.be/31sX_3IbXs4)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Packages
 - [Инверсия управления и внедрение зависимостей в Node.js](https://youtu.be/Fz86Fdjz-LM)
   - Инверсия управления: https://github.com/HowProgrammingWorks/InversionOfControl
   - Внедрение зависимостей: https://github.com/HowProgrammingWorks/DependencyInjection
@@ -143,3 +147,7 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-security-199004963
 - [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
   - Слайды: https://www.slideshare.net/tshemsedinov/serverless-clouds-faas-and-request-context-isolation-in-nodejs
+
+## Вспомогательные темы
+
+- [Асинхронный пул для worker thread pool в Node.js](https://youtu.be/Jj5KZRq4wYI)
