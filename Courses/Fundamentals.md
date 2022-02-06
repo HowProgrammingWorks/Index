@@ -157,7 +157,7 @@
 - [Асинхронные функции, async/await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
 - Неизменяемые структуры данных (immutable)
-- Автоматное программирование: конечные автоматы (машины состояний)
+- [Автоматное программирование: конечные автоматы (машины состояний)](https://youtu.be/mxz7_zcip0c)
 - [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
 - [Шаблон Singleton (синглтон) в  JavaScript](https://youtu.be/qdJ5yikZnfE)
