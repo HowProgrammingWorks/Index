@@ -2,6 +2,10 @@
 
 ## Future talks
 
+- IT-Kamasutra - https://youtube.com/c/ITKAMASUTRA
+- Odessa.js Architecture TechCorner
+- Odessa.js Node.js Tech Corner
+- EPAM Math.random community
 - [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
 - [Google Developer Student Club - Мультипарадигменное и метапрограммирование](https://youtu.be/Bo9y4IxdNRY) - 10 Февраля
   - https://gdsc.community.dev/events/details/developer-student-clubs-national-technical-university-of-ukraine-kyiv-polytechnic-institute-natsionalnii-tekhnichnii-universitet-ukrayini-kiyivskii-politekhnichnii-institut-presents-tech-talk-multi-paradigm-and-meta-programming/
