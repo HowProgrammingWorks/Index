@@ -3,7 +3,7 @@
 ## Future talks
 
 - IT-Kamasutra - https://youtube.com/c/ITKAMASUTRA
-- Odessa.js Architecture TechCorner
+- [Odessa.js Architecture TechCorner](https://youtu.be/OARxqxb262Q)
 - Odessa.js Node.js Tech Corner
 - EPAM Math.random community
 - [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
