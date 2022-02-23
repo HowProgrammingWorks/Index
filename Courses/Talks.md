@@ -2,7 +2,7 @@
 
 ## Future talks
 
-- IT-Kamasutra - https://youtube.com/c/ITKAMASUTRA
+- [NodeJS, Metarhia, образование - IT-Kamasutra TekTok Podcast #1](https://youtu.be/ND5HNHicACI)
 - [Odessa.js Architecture TechCorner](https://youtu.be/OARxqxb262Q)
 - Odessa.js Node.js Tech Corner - https://youtube.com/OdessaJSConference
 - [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
