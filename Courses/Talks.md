@@ -5,11 +5,16 @@
 - IT-Kamasutra - https://youtube.com/c/ITKAMASUTRA
 - [Odessa.js Architecture TechCorner](https://youtu.be/OARxqxb262Q)
 - Odessa.js Node.js Tech Corner - https://youtube.com/OdessaJSConference
-- EPAM Math.random community - https://www.mathrandom.com/events/myth-busters-about-nodejs/
 - [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
 - [Google Developer Student Club - Мультипарадигменное и метапрограммирование](https://youtu.be/Bo9y4IxdNRY) - 10 Февраля
   - https://gdsc.community.dev/events/details/developer-student-clubs-national-technical-university-of-ukraine-kyiv-polytechnic-institute-natsionalnii-tekhnichnii-universitet-ukrayini-kiyivskii-politekhnichnii-institut-presents-tech-talk-multi-paradigm-and-meta-programming/
 - [OdessaJs: Node.js Online TechCorner](https://youtu.be/f5cCHvwUwAI) 17 Feb
+
+## 2022
+
+- Разрушаем мифы про Node.js - EPAM Math.random community
+  - Видео: https://youtu.be/Nykxhmh3WDY
+  - https://www.mathrandom.com/events/myth-busters-about-nodejs/
 
 ## 2021
 
