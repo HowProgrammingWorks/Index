@@ -3,18 +3,17 @@
 ## Future talks
 
 - [NodeJS, Metarhia, образование - IT-Kamasutra TekTok Podcast #1](https://youtu.be/ND5HNHicACI)
-- [Odessa.js Architecture TechCorner](https://youtu.be/OARxqxb262Q)
 - Odessa.js Node.js Tech Corner - https://youtube.com/OdessaJSConference
 - [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
-- [Google Developer Student Club - Мультипарадигменное и метапрограммирование](https://youtu.be/Bo9y4IxdNRY) - 10 Февраля
-  - https://gdsc.community.dev/events/details/developer-student-clubs-national-technical-university-of-ukraine-kyiv-polytechnic-institute-natsionalnii-tekhnichnii-universitet-ukrayini-kiyivskii-politekhnichnii-institut-presents-tech-talk-multi-paradigm-and-meta-programming/
-- [OdessaJs: Node.js Online TechCorner](https://youtu.be/f5cCHvwUwAI) 17 Feb
 
 ## 2022
 
 - Разрушаем мифы про Node.js - EPAM Math.random community
   - Видео: https://youtu.be/Nykxhmh3WDY
   - https://www.mathrandom.com/events/myth-busters-about-nodejs/
+- [Google Developer Student Club - Мультипарадигменное и метапрограммирование](https://youtu.be/Bo9y4IxdNRY) - 10 Февраля
+  - https://gdsc.community.dev/events/details/developer-student-clubs-national-technical-university-of-ukraine-kyiv-polytechnic-institute-natsionalnii-tekhnichnii-universitet-ukrayini-kiyivskii-politekhnichnii-institut-presents-tech-talk-multi-paradigm-and-meta-programming/
+- [Odessa.js Architecture TechCorner](https://youtu.be/OARxqxb262Q)
 
 ## 2021
 
