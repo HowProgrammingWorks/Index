@@ -1,5 +1,7 @@
 # Metarhia community weekly call index
 
+Для достепа к архиву и участия в созвонах: https://www.patreon.com/tshemsedinov
+
 ## Выпуск №1 (2021-04-17)
 ```
 0:00 новости (сертификации, metarhia, lowcode)
