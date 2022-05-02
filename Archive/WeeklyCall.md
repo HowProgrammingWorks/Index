@@ -1,6 +1,8 @@
 # Metarhia community weekly call index
 
-Для достепа к архиву и участия в созвонах: https://www.patreon.com/tshemsedinov
+Для доступа к архиву и участия в созвонах: https://www.patreon.com/tshemsedinov
+Канал с открытыми лекциями: https://www.youtube.com/TimurShemsedinov
+Оглавление курса: https://github.com/HowProgrammingWorks/Index
 
 ## Выпуск №1 (2021-04-17)
 ```
