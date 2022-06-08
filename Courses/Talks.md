@@ -2,12 +2,11 @@
 
 ## Future talks
 
-- [NodeJS, Metarhia, образование - IT-Kamasutra TekTok Podcast #1](https://youtu.be/ND5HNHicACI)
-- Odessa.js Node.js Tech Corner - https://youtube.com/OdessaJSConference
-- [Интервью у ITBEARD](https://www.youtube.com/c/ITBEARD)
+- [IT-Kamasutra](https://youtu.be/ND5HNHicACI)
 
 ## 2022
 
+- [Интервью на 5 часов на канале ITBEARD](https://youtu.be/0xtEdIy2j88)
 - Разрушаем мифы про Node.js - EPAM Math.random community
   - Видео: https://youtu.be/Nykxhmh3WDY
   - https://www.mathrandom.com/events/myth-busters-about-nodejs/
