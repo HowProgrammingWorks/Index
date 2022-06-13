@@ -3,6 +3,8 @@
 ## Future talks
 
 - [IT-Kamasutra](https://youtu.be/ND5HNHicACI)
+- [Anywhere Club и АйТиБорода про JavaScript](https://youtube.com/AnywhereClub)
+- [Интервью на канале SergeyNemchinskiy](https://youtube.com/SergeyNemchinskiy)
 
 ## 2022
 
