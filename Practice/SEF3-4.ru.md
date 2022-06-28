@@ -64,4 +64,4 @@
 ## Регистрация тем
 
 - Нужно заполнить форму: https://forms.gle/u7v7nUFxamcgJ2aQ6
-- И дать мне права на редозиторий, мой аккаунт: https://github.com/tshemsedinov
+- И дать мне права на репозиторий, мой аккаунт: https://github.com/tshemsedinov
