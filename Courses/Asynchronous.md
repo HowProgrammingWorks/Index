@@ -120,8 +120,8 @@
 - [19:05 chain исполнение async функций](https://youtu.be/z8Hg6zgi3yQ?t=1145)
 - [41:16 где можно встретить асинхронные функции](https://youtu.be/z8Hg6zgi3yQ?t=2476)
 
-
 ## [Неблокирующее асинхронное итерирование в JavaScript](https://youtu.be/wYA2cIRYLoA)
+
 - [1:02 блокирующее итерирование по массиву](https://youtu.be/wYA2cIRYLoA?t=62)
 - [3:24 блокирующее итерирование с помощью for await](https://youtu.be/wYA2cIRYLoA?t=204)
 - [4:47 неблокирующее итерирование с помощью setTimeout](https://youtu.be/wYA2cIRYLoA?t=287)
