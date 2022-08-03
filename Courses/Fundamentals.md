@@ -256,6 +256,7 @@
 - [1:13:05 условие / Conditional statements / ветвление](https://youtu.be/5Gt61EX6HZ4?t=4385)
 - [1:14:54 парадигма программирования / Programming paradigm](https://youtu.be/5Gt61EX6HZ4?t=4494)
 ## [Семинар: Обсуждение плана и материалов курса «Основы программирования»](https://youtu.be/bQMTbRWrteU)
+
 - [0:15 - вопрос по операционным системам](https://youtu.be/bQMTbRWrteU?t=15)
 - [			3:35 - какой язык посоветуете из функционального программирования](https://youtu.be/bQMTbRWrteU?t=215)
 - [			4:40 - время нужное для прохождения курса](https://youtu.be/bQMTbRWrteU?t=280)
