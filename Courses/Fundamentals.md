@@ -332,10 +332,11 @@
 - [01:01:20  Очередность операторов (Operator precedence)](https://youtu.be/qa-XleqA0JU?t=3680)
 - [01:13:25  Оператор Switch](https://youtu.be/qa-XleqA0JU?t=4405)
 ## [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
-- [](https://youtu.be/PGqjTXQe_qw?t=0)
+
 ## [Семинар: автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
-- [](https://youtu.be/M4KpG0LEAyA?t=0)
+
 ## [Введение в программирование (2 часть)](https://youtu.be/PzlLXQ3RaDs)
+
 - [0:00:01 введение](https://youtu.be/PzlLXQ3RaDs?t=1)
 - [0:01:45 процедура или подпрограмма / Procedure or Subroutine](https://youtu.be/PzlLXQ3RaDs?t=105)
 - [0:06:05 функция / Function](https://youtu.be/PzlLXQ3RaDs?t=365)
