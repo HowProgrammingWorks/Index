@@ -1055,27 +1055,27 @@
 - [			21:49 Метод splice](https://youtu.be/D1kfYBkX9FE?t=1309)
 - [			23:27 Методы reduce и reduceRight](https://youtu.be/D1kfYBkX9FE?t=1407)
 ## [Code Review: как это и зачем](https://youtu.be/EKL6NiIQ6ZU)
-- [](https://youtu.be/EKL6NiIQ6ZU?t=0)
+
 ## [Семинар: Code Review, ответы на вопросы](https://youtu.be/AgH4OAKbmkM)
-- [](https://youtu.be/AgH4OAKbmkM?t=0)
+
 ## [Мономорфный и полиморфный код, инлайн-кэш, скрытые классы в JavaScript](https://youtu.be/9JUY3prnCQ4)
-- [](https://youtu.be/9JUY3prnCQ4?t=0)
+
 ## [Ассоциация, агрегация и композиция объектов в JavaScript](https://youtu.be/tOIcBrzezK0)
-- [](https://youtu.be/tOIcBrzezK0?t=0)
+
 ## [Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4)
-- [](https://youtu.be/z73wmpdweQ4?t=0)
+
 ## [Принцип подстановки Барбары Лисков](https://youtu.be/RbhYxygxroc)
-- [](https://youtu.be/RbhYxygxroc?t=0)
+
 ## [Композиция функций (pipe, compose) в JavaScript](https://youtu.be/xS9FicVrOTI)
-- [](https://youtu.be/xS9FicVrOTI?t=0)
+
 ## [Примеси в JavaScript: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)
-- [](https://youtu.be/NZMrJ2adEyY?t=0)
+
 ## [Прототипное программирование и прототипное наследование в JavaScript](https://youtu.be/SzaXTW2qcJE)
-- [](https://youtu.be/SzaXTW2qcJE?t=0)
+
 ## [Мемоизация функций: memoize в JavaScript](https://youtu.be/H6S8QJo2Qxg)
-- [](https://youtu.be/H6S8QJo2Qxg?t=0)
+
 ## [Функции-обертки: Wrappers в JavaScript](https://youtu.be/En7pWi2fSzs)
-- [](https://youtu.be/En7pWi2fSzs?t=0)
+
 ## [Новое в JavaScript: ES.Next, ECMAScript 2020, ES11, ES10, ES9, ES8, ES7, ES6, ES2020, ES2019](https://youtu.be/fUjHLj8bq_Y)
 
 - [00:00  ECMA Script versions](https://youtu.be/fUjHLj8bq_Y?t=0)
