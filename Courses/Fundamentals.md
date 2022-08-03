@@ -331,6 +331,7 @@
 - [00:56:30  Операторы сравнения ](https://youtu.be/qa-XleqA0JU?t=3390)
 - [01:01:20  Очередность операторов (Operator precedence)](https://youtu.be/qa-XleqA0JU?t=3680)
 - [01:13:25  Оператор Switch](https://youtu.be/qa-XleqA0JU?t=4405)
+
 ## [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
 
 ## [Семинар: автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
