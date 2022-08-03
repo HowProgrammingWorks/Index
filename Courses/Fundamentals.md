@@ -653,13 +653,15 @@
 - [01:30:45 Итог](https://youtu.be/d_vyO2CkiOc?t=5445)
 
 ## [Функциональное программирование на JavaScript](https://youtu.be/0JxSs_GcvbQ)
-- [](https://youtu.be/0JxSs_GcvbQ?t=0)
+
 ## [Реактивное программирование на JavaScript](https://youtu.be/7MH8-qQc-48)
+
 - [0:00 введение](https://youtu.be/7MH8-qQc-48?t=0)
-- [			3:00 imperative.js](https://youtu.be/7MH8-qQc-48?t=180)
-- [			4:00 set-get.js](https://youtu.be/7MH8-qQc-48?t=240)
-- [			7:15 proxy.js](https://youtu.be/7MH8-qQc-48?t=435)
-- [			23:07 observer.js](https://youtu.be/7MH8-qQc-48?t=1387)
+- [3:00 imperative.js](https://youtu.be/7MH8-qQc-48?t=180)
+- [4:00 set-get.js](https://youtu.be/7MH8-qQc-48?t=240)
+- [7:15 proxy.js](https://youtu.be/7MH8-qQc-48?t=435)
+- [23:07 observer.js](https://youtu.be/7MH8-qQc-48?t=1387)
+
 ## [Асинхронное программирование на callback`ах в JavaScript](https://youtu.be/z8Hg6zgi3yQ)
 - [1:20 пример callback функции](https://youtu.be/z8Hg6zgi3yQ?t=80)
 - [			2:40 пример последовательного исполнения callback функций](https://youtu.be/z8Hg6zgi3yQ?t=160)
