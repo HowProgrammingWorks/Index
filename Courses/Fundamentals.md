@@ -284,8 +284,9 @@
 - [43:10 - сложные вопросы CS в курсе](https://youtu.be/bQMTbRWrteU?t=2590)
 - [46:00 - как происходит проверка задач для допуска к экзамену](https://youtu.be/bQMTbRWrteU?t=2760)
 ## [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
-- [](https://youtu.be/hSyA7tcNaCE?t=0)
+
 ## [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
+
 - [00:00:00  Введение](https://youtu.be/xJn3k1f4BiM?t=0)
 - [			-------------------------------------  Многоразовые абстракции  (Reusable abstractions)  -----------------------------](https://youtu.be/xJn3k1f4BiM?t=0)
 - [			00:03:02  Идентификаторы (identifiers: const, let, arguments, object property)](https://youtu.be/xJn3k1f4BiM?t=182)
