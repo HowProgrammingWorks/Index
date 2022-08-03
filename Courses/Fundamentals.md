@@ -722,20 +722,18 @@
 - [19:30 использование асинхронного итерирования для обычных массивов](https://youtu.be/wYA2cIRYLoA?t=1170)
 
 ## [Структуры данных: списки, стек, очередь, дэк в JavaScript](https://youtu.be/9KvA4hDDSjk)
+
 - [00:00:00  Идея структуры данных](https://youtu.be/9KvA4hDDSjk?t=0)
-- [			Списки ( list )](https://youtu.be/9KvA4hDDSjk?t=0)
 - [00:02:27  Списки на прототипах ( абстракция элемента )    ](https://youtu.be/9KvA4hDDSjk?t=147)
 - [00:06:23  Списки на объектах   ](https://youtu.be/9KvA4hDDSjk?t=383)
 - [00:07:28  Списки на замыканиях](https://youtu.be/9KvA4hDDSjk?t=448)
 - [00:10:56  Списки на объектах ( абстракция элемента и списка )   ](https://youtu.be/9KvA4hDDSjk?t=656)
 - [00:18:22  Списки на классах](https://youtu.be/9KvA4hDDSjk?t=1102)
-- [			Стек  ( stack )](https://youtu.be/9KvA4hDDSjk?t=0)
 - [00:21:08  Стек на прототипах ( двух-связанный)](https://youtu.be/9KvA4hDDSjk?t=1268)
 - [00:28:17  Стек на классах (односвязный)](https://youtu.be/9KvA4hDDSjk?t=1697)
-- [			Очередь  ( queue  )](https://youtu.be/9KvA4hDDSjk?t=0)
 - [00:29:55  Очередь](https://youtu.be/9KvA4hDDSjk?t=1795)
-- [			Дэк  (double ended queue  )    ](https://youtu.be/9KvA4hDDSjk?t=0)
 - [00:34:26  Дэк](https://youtu.be/9KvA4hDDSjk?t=2066)
+
 ## [Proxy и Symbol в JavaScript](https://youtu.be/UjZjSDyi9AM)
 - [---------------------------------------------------------------------  Proxy  -------------------------------------------------------------------](https://youtu.be/UjZjSDyi9AM?t=0)
 - [			00:00:00  Определение Proxy](https://youtu.be/UjZjSDyi9AM?t=0)
