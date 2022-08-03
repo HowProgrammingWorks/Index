@@ -197,7 +197,9 @@
 - [1:13:53 Deno как экспементальная альтернатива Node.js](https://youtu.be/CUU49jjHloM?t=4433)
 - [1:21:02 Обзор ссылок по теме](https://youtu.be/CUU49jjHloM?t=4862)
 - [1:23:06 Ответы на вопросы](https://youtu.be/CUU49jjHloM?t=4986)
+
 ## [Асинхронное программирование в Node.js и JavaScript](https://youtu.be/hY6Z6qNYzmc)
+
 - [5:45 Callbacks](https://youtu.be/hY6Z6qNYzmc?t=345)
 - [10:00 Async.js or analogues](https://youtu.be/hY6Z6qNYzmc?t=600)
 - [15:47 Events](https://youtu.be/hY6Z6qNYzmc?t=947)
@@ -218,7 +220,9 @@
 - [47:58 Flow communication like in electronics](https://youtu.be/hY6Z6qNYzmc?t=2878)
 - [50:06 Collectors](https://youtu.be/hY6Z6qNYzmc?t=3006)
 - [59:17 Queue](https://youtu.be/hY6Z6qNYzmc?t=3557)
+
 ## [Обзор встроенного Node.js API](https://youtu.be/sOkjR-N6IAs)
+
 - [1:45 Readline](https://youtu.be/sOkjR-N6IAs?t=105)
 - [2:42 Stream](https://youtu.be/sOkjR-N6IAs?t=162)
 - [6:51 Buffer](https://youtu.be/sOkjR-N6IAs?t=411)
@@ -241,24 +245,33 @@
 - [49:55 Worker Threads](https://youtu.be/sOkjR-N6IAs?t=2995)
 - [50:56 ZLIB](https://youtu.be/sOkjR-N6IAs?t=3056)
 - [51:55 Modules](https://youtu.be/sOkjR-N6IAs?t=3115)
+
 ## [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
-- [](https://youtu.be/hSyA7tcNaCE?t=0)
+
+
 ## [Работа с файлами, буферами и файловыми потоками в Node.js](https://youtu.be/eQGBS15vUac)
+
 - [1:39 Работа с файлами](https://youtu.be/eQGBS15vUac?t=99)
 - [35:12 Буферы](https://youtu.be/eQGBS15vUac?t=2112)
 - [43:46 Файловые потоки](https://youtu.be/eQGBS15vUac?t=2626)
+
 ## [Наблюдение за файловой системой в Node.js](https://youtu.be/29QINR9rruQ)
+
 - [0:32 File watch](https://youtu.be/29QINR9rruQ?t=32)
 - [4:40 Folder watch](https://youtu.be/29QINR9rruQ?t=280)
 - [8:40 Server](https://youtu.be/29QINR9rruQ?t=520)
 - [12:55 LiveReload](https://youtu.be/29QINR9rruQ?t=775)
 - [24:50 LiverReload в impress](https://youtu.be/29QINR9rruQ?t=1490)
+
 ## [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
+
 - [1:20 console](https://youtu.be/5aSZyKi5BmE?t=80)
 - [16:00 readline](https://youtu.be/5aSZyKi5BmE?t=960)
 - [21:35 cli](https://youtu.be/5aSZyKi5BmE?t=1295)
 - [31:15 делаем красивый login screen](https://youtu.be/5aSZyKi5BmE?t=1875)
+
 ## [Архитектурный подход к программированию](https://youtu.be/d_vyO2CkiOc)
+
 - [00:00:00 Когда нужна архитектура](https://youtu.be/d_vyO2CkiOc?t=0)
 - [00:06:07 Принятие решений](https://youtu.be/d_vyO2CkiOc?t=367)
 - [00:09:58 Типы связывания](https://youtu.be/d_vyO2CkiOc?t=598)
@@ -273,84 +286,94 @@
 - [01:16:45 Современные возможности и требования ](https://youtu.be/d_vyO2CkiOc?t=4605)
 - [01:25:20 Топологии](https://youtu.be/d_vyO2CkiOc?t=5120)
 - [01:30:45 Итог](https://youtu.be/d_vyO2CkiOc?t=5445)
+
 ## [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
+
 - [1:00 Пример структуры приложения](https://youtu.be/O7A9chb573E?t=60)
 - [14:23 Примеры плохо и хорошо структурированного кода ](https://youtu.be/O7A9chb573E?t=863)
 - [25:46 Песочницы](https://youtu.be/O7A9chb573E?t=1546)
+
 ## [Инверсия управления и внедрение зависимостей в Node.js](https://youtu.be/Fz86Fdjz-LM)
-- [](https://youtu.be/Fz86Fdjz-LM?t=0)
+
 ## [Межпроцессовое взаимодействие в Node.js](https://youtu.be/2OXWZFMvfbc)
-- [](https://youtu.be/2OXWZFMvfbc?t=0)
+
 ## [Слои, связанность и связность кода в JavaScript](https://youtu.be/A3RpwNlVeyY)
-- [](https://youtu.be/A3RpwNlVeyY?t=0)
+
 ## [Клиент-сервер на Node.js TCP и UDP, DNS](https://youtu.be/bHn-wTlTTR0)
+
 - [2:25 TCP, простой пример клиент/сервер](https://youtu.be/bHn-wTlTTR0?t=145)
 - [20:20 TCP, пример сложнее](https://youtu.be/bHn-wTlTTR0?t=1220)
 - [29:26 UDP](https://youtu.be/bHn-wTlTTR0?t=1766)
 - [35:14 DNS](https://youtu.be/bHn-wTlTTR0?t=2114)
+
 ## [HTTP сервер на Node.js (routing, cluster, IP sticky)](https://youtu.be/7Ufxj0oTaUo)
-- [](https://youtu.be/7Ufxj0oTaUo?t=0)
+
 ## [HTTP сессии и cookies на чистом Node.js](https://youtu.be/T_wKXuWW4Wo)
-- [](https://youtu.be/T_wKXuWW4Wo?t=0)
+
 ## [HTTP запросы в браузере и Node.js: XMLHttpRequest, fetch](https://youtu.be/wMMki2FEYGY)
-- [](https://youtu.be/wMMki2FEYGY?t=0)
+
 ## [Разработка API на Node.js (клиент и сервер)](https://youtu.be/-az912XBCu8)
-- [](https://youtu.be/-az912XBCu8?t=0)
+
 ## [WebSocket сервер на Node.js (электронные таблицы и чат)](https://youtu.be/Sf7ln3n16ws)
-- [](https://youtu.be/Sf7ln3n16ws?t=0)
+
 ## [Скаффолдинг для API, UI и данных](https://youtu.be/lipkLQVqDd8)
-- [](https://youtu.be/lipkLQVqDd8?t=0)
+
 ## [Высоконагруженные распределенные приложения на Node.js](https://youtu.be/7tfZDABPvVs)
-- [](https://youtu.be/7tfZDABPvVs?t=0)
+
 ## [Отдача статики в Node.js](https://youtu.be/n_AdKIzbpBc)
-- [](https://youtu.be/n_AdKIzbpBc?t=0)
+
 ## [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
-- [](https://youtu.be/CRcSWtWVvrA?t=0)
+
 ## [Работа с базами данных в Node.js на примере PostgreSQL](https://youtu.be/2tDvHQCBt3w)
-- [](https://youtu.be/2tDvHQCBt3w?t=0)
+
 ## [Паттерн Команда (Command) действие и параметры как объект](https://youtu.be/vER0vYL4hM4)
-- [](https://youtu.be/vER0vYL4hM4?t=0)
+
 ## [CQS, CQRS, Event Sourcing - Разделение запросов и модификации данных](https://youtu.be/T2tRc80Q8Qw)
-- [](https://youtu.be/T2tRc80Q8Qw?t=0)
+
 ## [Применение Event Sourcing (command, read, write, bus)](https://youtu.be/kFNtKiK2SPs)
-- [](https://youtu.be/kFNtKiK2SPs?t=0)
+
 ## [Модель акторов для параллельных вычислений](https://youtu.be/xp5MVKEqxY4)
-- [](https://youtu.be/xp5MVKEqxY4?t=0)
+
 ## [Утечки памяти в Node.js и JavaScript, сборка мусора и профилирование](https://youtu.be/0oZa64SB2wM)
-- [](https://youtu.be/0oZa64SB2wM?t=0)
+
 ## [Atomics, SharedArrayBuffer, worker_threads в Node.js](https://youtu.be/zLm8pnbxSII)
+
 - [00:00 - початок ](https://youtu.be/zLm8pnbxSII?t=0)
 - [03:53 - про worker_threads](https://youtu.be/zLm8pnbxSII?t=233)
 - [12:20 - сепарація на worker i master](https://youtu.be/zLm8pnbxSII?t=740)
 - [14:57 - як використовувати worker  ](https://youtu.be/zLm8pnbxSII?t=897)
 - [25:00  - про Atomics](https://youtu.be/zLm8pnbxSII?t=1500)
 - [41:00 - Atomics i worker_threads робота в парі](https://youtu.be/zLm8pnbxSII?t=2460)
+
 ## [Семафоры и мьютексы в JavaScript и Node.js](https://youtu.be/JNLrITevhRI)
+
 - [00:00 - теорія](https://youtu.be/JNLrITevhRI?t=0)
 - [8:55 -  приклад worker_threads без семафора ](https://youtu.be/JNLrITevhRI?t=535)
 - [15:29 - про семафор, семафор бінарний, семафор з лічильником і Atomics ](https://youtu.be/JNLrITevhRI?t=929)
 - [53:52 - мютекси та різниця між семафором ](https://youtu.be/JNLrITevhRI?t=3232)
 - [58:28 - про deadlock](https://youtu.be/JNLrITevhRI?t=3508)
 - [1:02:12  - про livelock і стан гонки](https://youtu.be/JNLrITevhRI?t=3732)
+
 ## [Разделяемая память в многопоточном Node.js. Тимур Шемсединов. JS Fest 2019 Spring](https://youtu.be/KNsm_iIQt7U)
-- [](https://youtu.be/KNsm_iIQt7U?t=0)
+
 ## [Необработанные ошибки в промисах на Node.js](https://youtu.be/1Ml5NE2fsZ8)
-- [](https://youtu.be/1Ml5NE2fsZ8?t=0)
+
 ## [Проблема асинхронного стектрейса в JavaScript и Node.js](https://youtu.be/pfiHTx3j87Y)
-- [](https://youtu.be/pfiHTx3j87Y?t=0)
+
 ## [Логирование на Node.js и JavaScript](https://youtu.be/4DkZj2Cdokc)
-- [](https://youtu.be/4DkZj2Cdokc?t=0)
+
 ## [Graceful Shutdown в Node.js](https://youtu.be/ZstnowFeCe0)
-- [](https://youtu.be/ZstnowFeCe0?t=0)
+
 ## [Безопасность приложений Node.js Security](https://youtu.be/Pdfo1G-gI6s)
-- [](https://youtu.be/Pdfo1G-gI6s?t=0)
+
 ## [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
-- [](https://youtu.be/x-Rd6fPV6L8?t=0)
+
 ## [Node.js в 2021: обзор платформы и вызовы на следующее десятилетие](https://youtu.be/nnB7ADYso8s)
-- [](https://youtu.be/nnB7ADYso8s?t=0)
+
 ## [Семинар: Node.js в 2021, ответы на вопросы и обсуждение](https://youtu.be/zYRDhxj0zhQ)
-- [](https://youtu.be/zYRDhxj0zhQ?t=0)
+
 ## [GRASP принципы с адаптацией для JavaScript и Node.js](https://youtu.be/ExauFjYV_lQ)
+
 - [5:03 Information Expert](https://youtu.be/ExauFjYV_lQ?t=303)
 - [13:06 Creator](https://youtu.be/ExauFjYV_lQ?t=786)
 - [18:15 Cohesion & Coupling](https://youtu.be/ExauFjYV_lQ?t=1095)
@@ -359,17 +382,19 @@
 - [31:55 Indirection](https://youtu.be/ExauFjYV_lQ?t=1915)
 - [34:34 Pure Fabrication](https://youtu.be/ExauFjYV_lQ?t=2074)
 - [38:36 Protected Variations](https://youtu.be/ExauFjYV_lQ?t=2316)
+
 ## [GRASP: принцип информационный эксперт с адаптацией для JavaScript и Node.js](https://youtu.be/cCHL329_As0)
-- [](https://youtu.be/cCHL329_As0?t=0)
+
 ## [GRASP: Зацепление и связность в JavaScript и Node.js - coupling and cohesion](https://youtu.be/IGXdPOZ3Fyk)
-- [](https://youtu.be/IGXdPOZ3Fyk?t=0)
+
 ## [GRASP: Чистая выдумка для JavaScript и Node.js - Pure Fabrication](https://youtu.be/CV577a0RHBM)
-- [](https://youtu.be/CV577a0RHBM?t=0)
+
 ## [GRASP: Декомпозиция класса Application из библиотеки impress технологического стека Metarhia](https://youtu.be/4AMVQ2-2DcM)
-- [](https://youtu.be/4AMVQ2-2DcM?t=0)
+
 ## [Node.js - плохие подходы и хорошие стороны - Postindustria Podcast](https://youtu.be/oEyS_TNiw2g)
-- [](https://youtu.be/oEyS_TNiw2g?t=0)
+
 ## [Node.js модули: ECMA, Common.js, Module API](https://youtu.be/CJr2vS3hjMU)
+
 - [1:02 export модулей](https://youtu.be/CJr2vS3hjMU?t=62)
 - [3:00 require модулей](https://youtu.be/CJr2vS3hjMU?t=180)
 - [5:35 require-resolve модулей](https://youtu.be/CJr2vS3hjMU?t=335)
@@ -383,16 +408,19 @@
 - [31:10 загрузка ф-ии createRequire](https://youtu.be/CJr2vS3hjMU?t=1870)
 - [41:00 подгрузка module через require](https://youtu.be/CJr2vS3hjMU?t=2460)
 - [43:40 подгрузка module через import](https://youtu.be/CJr2vS3hjMU?t=2620)
+
 ## [Node.js модули и пакеты формата ECMA и CommonJS, использование package.json и node_modules](https://youtu.be/31sX_3IbXs4)
+
 - [1:00 подгрузка пакетов package](https://youtu.be/31sX_3IbXs4?t=60)
 - [5:40 загрузка пакетов](https://youtu.be/31sX_3IbXs4?t=340)
 - [9:00 подгрузка файлов нового формата .mjs](https://youtu.be/31sX_3IbXs4?t=540)
 - [10:47 импорт ecma скрипт модулей с .js файлов](https://youtu.be/31sX_3IbXs4?t=647)
 - [13:20 export пакетов](https://youtu.be/31sX_3IbXs4?t=800)
 - [22:30 сравнение cache-й модулей](https://youtu.be/31sX_3IbXs4?t=1350)
+
 ## [Асинхронный пул для worker thread pool в Node.js](https://youtu.be/Jj5KZRq4wYI)
-- [](https://youtu.be/Jj5KZRq4wYI?t=0)
+
 ## [Контрактное программирование с примерами на JavaScript и Node.js](https://youtu.be/K5_kSUvbGEQ)
-- [](https://youtu.be/K5_kSUvbGEQ?t=0)
+
 ## [Hacktoberfest 2021: лайвкодинг и ревью кода, Node.js worker_threads и thread pool для Metarhia](https://youtu.be/qipIRQptP_4)
-- [](https://youtu.be/qipIRQptP_4?t=0)
+
