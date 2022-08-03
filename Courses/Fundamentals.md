@@ -564,10 +564,12 @@
 - [01:33:32  Реализация сложной мемоизации](https://youtu.be/oRQ0kQr1N-U?t=5612)
 
 ## [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
+
 - [1:20 console](https://youtu.be/5aSZyKi5BmE?t=80)
-- [			16:00 readline](https://youtu.be/5aSZyKi5BmE?t=960)
-- [			21:35 cli](https://youtu.be/5aSZyKi5BmE?t=1295)
-- [			31:15 делаем красивый login screen](https://youtu.be/5aSZyKi5BmE?t=1875)
+- [16:00 readline](https://youtu.be/5aSZyKi5BmE?t=960)
+- [21:35 cli](https://youtu.be/5aSZyKi5BmE?t=1295)
+- [31:15 делаем красивый login screen](https://youtu.be/5aSZyKi5BmE?t=1875)
+
 ## [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
 - [--------------------------------------------------------------  Чеининг  ----------------------------------------------------------](https://youtu.be/PfuEfIiLX34?t=0)
 - [			00:00:00  Введение ](https://youtu.be/PfuEfIiLX34?t=0)
