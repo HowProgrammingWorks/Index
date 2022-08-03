@@ -1035,25 +1035,27 @@
 - [01:33:32  Реализация сложной мемоизации](https://youtu.be/2h9syXN5wO0?t=5612)
 
 ## [Ответы на вопросы по курсу "Основы программирования" 2019-2020](https://youtu.be/TY6nDW7aYys)
-- [](https://youtu.be/TY6nDW7aYys?t=0)
+
 ## [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE)
-- [](https://youtu.be/cTv7V22mkwE?t=0)
+
 ## [Семинар: выполнение лабораторных работ на JavaSript по курсу "Основы программирования"](https://youtu.be/ikUOyFPzdJw)
-- [](https://youtu.be/ikUOyFPzdJw?t=0)
+
 ## [Массивы в JavaScript (методы Array)](https://youtu.be/D1kfYBkX9FE)
+
 - [00:00 Конструкция массива](https://youtu.be/D1kfYBkX9FE?t=0)
-- [			09:58 Метод concat](https://youtu.be/D1kfYBkX9FE?t=598)
-- [			11:00 Методы every и some  ](https://youtu.be/D1kfYBkX9FE?t=660)
-- [			13:00 Метод filter ](https://youtu.be/D1kfYBkX9FE?t=780)
-- [			13:29 Методы  find и findIndex](https://youtu.be/D1kfYBkX9FE?t=809)
-- [			14:30 Метод flat ](https://youtu.be/D1kfYBkX9FE?t=870)
-- [			17:08 Метод includes ](https://youtu.be/D1kfYBkX9FE?t=1028)
-- [			17:32 Метод indexOf и lastIndexOf](https://youtu.be/D1kfYBkX9FE?t=1052)
-- [			18:35 Метод join](https://youtu.be/D1kfYBkX9FE?t=1115)
-- [			18:58 Метод reverse](https://youtu.be/D1kfYBkX9FE?t=1138)
-- [			19:29 Метод slice](https://youtu.be/D1kfYBkX9FE?t=1169)
-- [			21:49 Метод splice](https://youtu.be/D1kfYBkX9FE?t=1309)
-- [			23:27 Методы reduce и reduceRight](https://youtu.be/D1kfYBkX9FE?t=1407)
+- [09:58 Метод concat](https://youtu.be/D1kfYBkX9FE?t=598)
+- [11:00 Методы every и some  ](https://youtu.be/D1kfYBkX9FE?t=660)
+- [13:00 Метод filter ](https://youtu.be/D1kfYBkX9FE?t=780)
+- [13:29 Методы  find и findIndex](https://youtu.be/D1kfYBkX9FE?t=809)
+- [14:30 Метод flat ](https://youtu.be/D1kfYBkX9FE?t=870)
+- [17:08 Метод includes ](https://youtu.be/D1kfYBkX9FE?t=1028)
+- [17:32 Метод indexOf и lastIndexOf](https://youtu.be/D1kfYBkX9FE?t=1052)
+- [18:35 Метод join](https://youtu.be/D1kfYBkX9FE?t=1115)
+- [18:58 Метод reverse](https://youtu.be/D1kfYBkX9FE?t=1138)
+- [19:29 Метод slice](https://youtu.be/D1kfYBkX9FE?t=1169)
+- [21:49 Метод splice](https://youtu.be/D1kfYBkX9FE?t=1309)
+- [23:27 Методы reduce и reduceRight](https://youtu.be/D1kfYBkX9FE?t=1407)
+
 ## [Code Review: как это и зачем](https://youtu.be/EKL6NiIQ6ZU)
 
 ## [Семинар: Code Review, ответы на вопросы](https://youtu.be/AgH4OAKbmkM)
