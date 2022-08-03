@@ -663,12 +663,14 @@
 - [23:07 observer.js](https://youtu.be/7MH8-qQc-48?t=1387)
 
 ## [Асинхронное программирование на callback`ах в JavaScript](https://youtu.be/z8Hg6zgi3yQ)
+
 - [1:20 пример callback функции](https://youtu.be/z8Hg6zgi3yQ?t=80)
-- [			2:40 пример последовательного исполнения callback функций](https://youtu.be/z8Hg6zgi3yQ?t=160)
-- [			5:52 пример параллельного исполнения async функций c использованием wrapAsync](https://youtu.be/z8Hg6zgi3yQ?t=352)
-- [			15:18 пример последовательного исполнения async функций c использованием wrapAsync](https://youtu.be/z8Hg6zgi3yQ?t=918)
-- [			19:05 chain исполнение async функций](https://youtu.be/z8Hg6zgi3yQ?t=1145)
-- [			41:16 где можно встретить асинхронные функции](https://youtu.be/z8Hg6zgi3yQ?t=2476)
+- [2:40 пример последовательного исполнения callback функций](https://youtu.be/z8Hg6zgi3yQ?t=160)
+- [5:52 пример параллельного исполнения async функций c использованием wrapAsync](https://youtu.be/z8Hg6zgi3yQ?t=352)
+- [15:18 пример последовательного исполнения async функций c использованием wrapAsync](https://youtu.be/z8Hg6zgi3yQ?t=918)
+- [19:05 chain исполнение async функций](https://youtu.be/z8Hg6zgi3yQ?t=1145)
+- [41:16 где можно встретить асинхронные функции](https://youtu.be/z8Hg6zgi3yQ?t=2476)
+
 ## [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
 - [00:00:00  Введение ](https://youtu.be/lwJCq9inky8?t=0)
 - [			00:01:50  Простая проекция набора данных    ](https://youtu.be/lwJCq9inky8?t=110)
