@@ -248,7 +248,6 @@
 
 ## [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
 
-
 ## [Работа с файлами, буферами и файловыми потоками в Node.js](https://youtu.be/eQGBS15vUac)
 
 - [1:39 Работа с файлами](https://youtu.be/eQGBS15vUac?t=99)
