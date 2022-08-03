@@ -712,13 +712,15 @@
 - [00:47:15  Обобщение](https://youtu.be/hN0wsq5LNOc?t=2835)
 
 ## [Неблокирующее асинхронное итерирование в JavaScript](https://youtu.be/wYA2cIRYLoA)
+
 - [1:02 блокирующее итерирование по массиву](https://youtu.be/wYA2cIRYLoA?t=62)
-- [			3:24 блокирующее итерирование с помощью for await](https://youtu.be/wYA2cIRYLoA?t=204)
-- [			4:47 неблокирующее итерирование с помощью setTimeout](https://youtu.be/wYA2cIRYLoA?t=287)
-- [			6:45 неблокирующее итерирование с помощью for await](https://youtu.be/wYA2cIRYLoA?t=405)
-- [			8:20 неблокирующее итерирование без задержки](https://youtu.be/wYA2cIRYLoA?t=500)
-- [			13:00 неблокирующее итерирование без задержки с помощью for await](https://youtu.be/wYA2cIRYLoA?t=780)
-- [			19:30 использование асинхронного итерирования для обычных массивов](https://youtu.be/wYA2cIRYLoA?t=1170)
+- [3:24 блокирующее итерирование с помощью for await](https://youtu.be/wYA2cIRYLoA?t=204)
+- [4:47 неблокирующее итерирование с помощью setTimeout](https://youtu.be/wYA2cIRYLoA?t=287)
+- [6:45 неблокирующее итерирование с помощью for await](https://youtu.be/wYA2cIRYLoA?t=405)
+- [8:20 неблокирующее итерирование без задержки](https://youtu.be/wYA2cIRYLoA?t=500)
+- [13:00 неблокирующее итерирование без задержки с помощью for await](https://youtu.be/wYA2cIRYLoA?t=780)
+- [19:30 использование асинхронного итерирования для обычных массивов](https://youtu.be/wYA2cIRYLoA?t=1170)
+
 ## [Структуры данных: списки, стек, очередь, дэк в JavaScript](https://youtu.be/9KvA4hDDSjk)
 - [00:00:00  Идея структуры данных](https://youtu.be/9KvA4hDDSjk?t=0)
 - [			Списки ( list )](https://youtu.be/9KvA4hDDSjk?t=0)
