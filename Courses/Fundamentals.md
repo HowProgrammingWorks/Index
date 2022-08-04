@@ -148,8 +148,9 @@
 - [Измерение производительности кода и оптимизация](https://youtu.be/sanq2X7Re8o)
   - Примеры кода: https://github.com/HowProgrammingWorks/Benchmark
 - [Асинхронное программирование на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
-- [Асинхронное программирование на promise`ах](https://youtu.be/RMl4r6s1Y8M)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsynchronousProgramming
+- [Асинхронное программирование на promise`ах](https://youtu.be/RMl4r6s1Y8M)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Promise
 - [Асинхронные функции, async/await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
 - Неизменяемые структуры данных (immutable)
