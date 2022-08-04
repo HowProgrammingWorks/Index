@@ -4,6 +4,8 @@
 Перед основной частью курса по Node.js нужно сначала освоить хоть частично курс
 по асинхронному программированию: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md
 
+[Таймкоды и подробное оглавление для части лекций](NodeJS-timecodes.md)
+
 ## Доклады и выступления
 
 - [Node.js Middleware – никогда больше!](https://youtu.be/RS8x73z4csI)

@@ -16,10 +16,10 @@
 
 ## Отдельные курсы
 
-- [Асинхронное программирование](Courses/Asynchronous.md)
-  (есть 97% примеров кода и видео-лекции)
-- [Технологический стек Node.js](Courses/NodeJS.md)
-  (есть 95% кода и видео-лекций)
+- [Асинхронное программирование](Courses/Asynchronous.md) [(с таймкодами)](Courses/Asynchronous-timecodes.md)
+  (есть 98% примеров кода и видео-лекции)
+- [Технологический стек Node.js](Courses/NodeJS.md) [(с таймкодами)](Courses/NodeJS-timecodes.md)
+  (есть 97% кода и видео-лекций)
 - [Технологический стек Metarhia](Courses/Metarhia.md)
   (есть 5% примеров и видео-лекций)
 - [Шаблоны проектирования](Courses/Patterns.md)
