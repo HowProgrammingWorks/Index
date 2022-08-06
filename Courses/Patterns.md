@@ -1,5 +1,9 @@
 # Шаблоны проектирования
 
+[Таймкоды и подробное оглавление для части лекций](Patterns-timecodes.md)
+
+## Видео-лекции
+
 - [Шаблон Singleton (синглтон) в JavaScript](https://youtu.be/qdJ5yikZnfE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Singleton
 - [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
