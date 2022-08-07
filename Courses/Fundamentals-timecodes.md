@@ -1,6 +1,6 @@
 # Таймкоды к курсу "Основы программирования"
 
-Общее оглавление курса тут: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
+Общее оглавление курса тут: [Fundamentals.md](Fundamentals.md)
 
 ## [Карта специальности инженер-программист](https://youtu.be/SE5aXH-yf0I)
 
