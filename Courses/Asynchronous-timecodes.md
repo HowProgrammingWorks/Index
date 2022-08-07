@@ -1,6 +1,6 @@
 # Таймкоды к курсу "Асинхронное программирование"
 
-Общее оглавление курса тут: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md
+Общее оглавление курса тут: [Asynchronous.md](Asynchronous.md)
 
 ## [Асинхронное программирование в Node.js и JavaScript](https://youtu.be/hY6Z6qNYzmc)
 

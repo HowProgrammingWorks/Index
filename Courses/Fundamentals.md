@@ -2,6 +2,8 @@
 
 Модули [SEF1](#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-sef1) и [SEF2](#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-sef2)
 
+[Для части лекций есть таймкоды и подробное оглавление](Fundamentals-timecodes.md)
+
 ## Ссылки
 
 - Автор: https://github.com/tshemsedinov

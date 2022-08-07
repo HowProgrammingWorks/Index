@@ -1,6 +1,6 @@
 # Таймкоды к курсу по Node.js
 
-Общее оглавление курса тут: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md
+Общее оглавление курса тут: [NodeJS.md](NodeJS.md)
 
 ## [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
 
