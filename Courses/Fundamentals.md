@@ -42,7 +42,7 @@
   - Условия: https://github.com/HowProgrammingWorks/Conditional
 - Семинар: [Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
 - Семинар: [Автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
-- [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
+- [Функции, стрелочные функции, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
   - Функции: https://github.com/HowProgrammingWorks/Function
   - Замыкания: https://github.com/HowProgrammingWorks/Closure
 - [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
@@ -105,8 +105,8 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/RegExp
 - [Композиция: pipe, compose](https://youtu.be/xS9FicVrOTI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Composition
-- [Примеси: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)
-  - Тема class λ-mixin из этой лекции не обязательна для модуля SEF1
+- [Примеси: mixin, extend, Object.assign, class-mixin](https://youtu.be/NZMrJ2adEyY)
+  - Тема class-mixin из этой лекции не обязательна для модуля SEF1
   - Примеры кода: https://github.com/HowProgrammingWorks/Mixin
   - Старая версия лекции: https://youtu.be/2h9syXN5wO0
 - [Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)
