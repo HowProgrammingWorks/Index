@@ -2,10 +2,6 @@
 
 ## Future talks
 
-- [IT-Kamasutra](https://youtu.be/ND5HNHicACI)
-- [Anywhere Club и АйТиБорода про JavaScript](https://youtube.com/AnywhereClub)
-- [Интервью на канале SergeyNemchinskiy](https://youtube.com/SergeyNemchinskiy)
-
 ## 2022
 
 - [Интервью на 5 часов на канале ITBEARD](https://youtu.be/0xtEdIy2j88)
@@ -15,6 +11,8 @@
 - [Google Developer Student Club - Мультипарадигменное и метапрограммирование](https://youtu.be/Bo9y4IxdNRY) - 10 Февраля
   - https://gdsc.community.dev/events/details/developer-student-clubs-national-technical-university-of-ukraine-kyiv-polytechnic-institute-natsionalnii-tekhnichnii-universitet-ukrayini-kiyivskii-politekhnichnii-institut-presents-tech-talk-multi-paradigm-and-meta-programming/
 - [Odessa.js Architecture TechCorner](https://youtu.be/OARxqxb262Q)
+- [Backend на Node.js и почему TypeScript может навредить - Anywhere Club](https://youtu.be/VmKl4kAGitc)
+- [Асинхронный JS, однопоточный NodeJS, event loop и libuv - IT-Kamasutra](https://youtu.be/ND5HNHicACI)
 
 ## 2021
 
