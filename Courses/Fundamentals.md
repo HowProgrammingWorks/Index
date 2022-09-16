@@ -178,7 +178,7 @@
   - Тестирование: https://github.com/HowProgrammingWorks/Testing
   - Юниттесты: https://github.com/HowProgrammingWorks/Unittesting
 - [Тестирование: системное и интеграционное тестирование](https://youtu.be/OuKu_6H_6gE)
-  - Примеры кода: https://github.com/HowProgrammingWorks/Unittesting
+  - Примеры кода: https://github.com/HowProgrammingWorks/IntegrationTesting
 - [Интроспекция и рефлексия в JavaScript](https://youtu.be/yvW1PjUVeM0)
   - Интроспекция: https://github.com/HowProgrammingWorks/Introspection
   - Рефлекция: https://github.com/HowProgrammingWorks/Reflect
