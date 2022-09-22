@@ -14,7 +14,7 @@
 - [Асинхронное программирование](./Asynchronous.md)
 - [Таймкоды к курсу](./Asynchronous-timecodes.md)
 
-## OOP, GRASP, SOLOD, GoF
+## OOP, GRASP, SOLID, GoF
 
 - [Шаблоны проектирования](./Patterns.md)
 - [Объектно-ориентированное программирование](./OOP.md)
