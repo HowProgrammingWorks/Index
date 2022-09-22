@@ -6,6 +6,8 @@
 
 - [Основы JavaScript: облегченный курс для начинающих](https://www.youtube.com/playlist?list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)
 - [Углубленный JavaScript: старый курс](./Fundamentals.md)
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Парадигмы программирования](Courses/Paradigms.md), [метапрограммирование и мультипарадигменное программирование](./Metaprogramming.md)
 
 ## Asynchronous programming
 
@@ -26,3 +28,17 @@
 
 - [Технологический стек Node.js](./NodeJS.md)
 - [Таймкоды к курсу](./NodeJS-timecodes.md)
+
+## Architecture and Enterprise Information Systems
+
+- [Проектирование сетевых протоколов и сервисов](Courses/Network.md)
+- [Архитектура информационных систем](Courses/Architecture.md)
+- [Проектирование баз данных](Courses/Databases.md)
+- [Высоконагруженные и масштабируемые системы](Courses/Highload.md)
+- [Безопасность информационных систем](Courses/Security.md)
+
+# Seminars, Interviews, Public talks
+
+- [Индекс докладов, интервью и других выступлений](./Talks.md)
+- [Публичные собеседования](https://www.youtube.com/watch?v=tlBg-vwYpbs&list=PLHhi8ymDMrQZIC0Py5pekvdH49rkXH_MJ)
+- Записи семинаров (скоро будет плейлист за все годы)
