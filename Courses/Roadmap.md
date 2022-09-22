@@ -7,7 +7,7 @@
 - [Основы JavaScript: облегченный курс для начинающих](https://www.youtube.com/playlist?list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)
 - [Углубленный JavaScript: старый курс](./Fundamentals.md)
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [Парадигмы программирования](Courses/Paradigms.md), [метапрограммирование и мультипарадигменное программирование](./Metaprogramming.md)
+- [Парадигмы программирования](./Paradigms.md), [метапрограммирование и мультипарадигменное программирование](./Metaprogramming.md)
 
 ## Asynchronous programming
 
@@ -31,11 +31,11 @@
 
 ## Architecture and Enterprise Information Systems
 
-- [Проектирование сетевых протоколов и сервисов](Courses/Network.md)
-- [Архитектура информационных систем](Courses/Architecture.md)
-- [Проектирование баз данных](Courses/Databases.md)
-- [Высоконагруженные и масштабируемые системы](Courses/Highload.md)
-- [Безопасность информационных систем](Courses/Security.md)
+- [Проектирование сетевых протоколов и сервисов](./Network.md)
+- [Архитектура информационных систем](./Architecture.md)
+- [Проектирование баз данных](./Databases.md)
+- [Высоконагруженные и масштабируемые системы](./Highload.md)
+- [Безопасность информационных систем](./Security.md)
 
 # Seminars, Interviews, Public talks
 
