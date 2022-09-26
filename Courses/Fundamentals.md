@@ -181,5 +181,6 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/IntegrationTesting
 - [Интроспекция и рефлексия в JavaScript](https://youtu.be/yvW1PjUVeM0)
   - Интроспекция: https://github.com/HowProgrammingWorks/Introspection
-  - Рефлекция: https://github.com/HowProgrammingWorks/Reflect
+  - Reflect API: https://github.com/HowProgrammingWorks/Reflect
+  - Рефлексия: https://github.com/HowProgrammingWorks/Reflection
 - [Почему хорошее ИТ-образование невостребовано рыночком](https://youtu.be/nvIJE6xMpiI)
