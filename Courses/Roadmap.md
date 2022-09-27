@@ -9,6 +9,11 @@
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Парадигмы программирования](./Paradigms.md), [метапрограммирование и мультипарадигменное программирование](./Metaprogramming.md)
 
+## Web and Frontend
+
+- [Курс по верстке: HTML, CSS от Евгения Андриканича](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
+- [План развития фронтендера от Евгения Андриканича](https://miro.com/app/board/uXjVOeSIAPo=/)
+
 ## Asynchronous programming
 
 - [Асинхронное программирование](./Asynchronous.md)
