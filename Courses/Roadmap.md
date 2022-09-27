@@ -2,6 +2,8 @@
 
 ![Roadmap](https://user-images.githubusercontent.com/4405297/192525334-665c5969-4957-4cb8-884c-b31b440ba7ad.png)
 
+Варианты роадмапа для разных специальностей: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Specialties.md
+
 ## Programming Fundamentals
 
 - [Основы JavaScript: облегченный курс для начинающих](https://www.youtube.com/playlist?list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)
