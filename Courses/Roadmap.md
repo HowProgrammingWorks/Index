@@ -1,6 +1,6 @@
 # Roadmap
 
-![Roadmap (1)](https://user-images.githubusercontent.com/4405297/191325086-c273db69-5df6-4114-b520-bf6d3f9f4d9b.png)
+![Roadmap](https://user-images.githubusercontent.com/4405297/192468392-0408ef42-362c-412b-97d3-3f325778aefb.png)
 
 ## Programming Fundamentals
 
