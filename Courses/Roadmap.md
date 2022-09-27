@@ -28,6 +28,7 @@
 
 - [Технологический стек Node.js](./NodeJS.md)
 - [Таймкоды к курсу](./NodeJS-timecodes.md)
+- [Новый курс Node.js 2022-23](./NodeJS-2022-2023.md)
 
 ## Architecture and Enterprise Information Systems
 
