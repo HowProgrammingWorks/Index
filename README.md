@@ -11,6 +11,7 @@
 
 - [Введение и обзор знаний](Courses/Introduction.md)
   а так же [семинары](Courses/Seminars.md)
+- [Основы программирования для начинающих](https://www.youtube.com/watch?v=2DM5I2CI4gY&list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)
 - [Основы программирования, модули (1 год обучения)](Courses/Fundamentals.md)
   (готовность 95%) [(с таймкодами)](Courses/Fundamentals-timecodes.md)
 - [Программирование (2 год обучения)](Courses/Advanced.md)
