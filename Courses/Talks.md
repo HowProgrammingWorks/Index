@@ -13,6 +13,7 @@
 - [Odessa.js Architecture TechCorner](https://youtu.be/OARxqxb262Q)
 - [Backend на Node.js и почему TypeScript может навредить - Anywhere Club](https://youtu.be/VmKl4kAGitc)
 - [Асинхронный JS, однопоточный NodeJS, event loop и libuv - IT-Kamasutra](https://youtu.be/ND5HNHicACI)
+- [Укрінформ: Презентація METATECH](https://youtu.be/Oz8E0mbdDec)
 
 ## 2021
 
