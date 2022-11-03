@@ -85,16 +85,13 @@
   - Обработка ошибок: https://github.com/HowProgrammingWorks/Errors
 - [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Recursion
-
-### 7 неделя: 07-13 ноября
-
 - [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
   - Примеры кода: https://github.com/HowProgrammingWorks/Iteration
 - [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/02-Procedural
 - Семинар: [Ответы на вопросы по курсу "Основы программирования"](https://youtu.be/TY6nDW7aYys)
 
-### 8 неделя: 14-20 ноября
+### 7 неделя: 14-20 ноября
 
 - [Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg)
   - Таймеры: https://github.com/HowProgrammingWorks/Timers
@@ -108,7 +105,7 @@
   - Хеш таблицы: https://github.com/HowProgrammingWorks/Map
   - Множества: https://github.com/HowProgrammingWorks/Set
 
-### 9 неделя: 21-27 ноября
+### 8 неделя: 21-27 ноября
 
 - [Code Review: как это и зачем](https://youtu.be/EKL6NiIQ6ZU)
   - Примеры: https://github.com/HowProgrammingWorks/CodeReview
@@ -119,7 +116,7 @@
 - [Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8)
   - Примеры кода: https://github.com/HowProgrammingWorks/Serialization
 
-### 10 неделя: 28 ноября - 04 декабря
+### 9 неделя: 28 ноября - 04 декабря
 
 - [Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4)
   - Примеры кода: https://github.com/HowProgrammingWorks/Refactoring
@@ -131,7 +128,7 @@
 - [Регулярные выражения и парсинг в JavaScript](https://youtu.be/-ef2E0ozxao)
   - Примеры кода: https://github.com/HowProgrammingWorks/RegExp
 
-### 11 неделя: 05-11 декабря
+### 10 неделя: 05-11 декабря
 
 - [Композиция: pipe, compose](https://youtu.be/xS9FicVrOTI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Composition
@@ -143,7 +140,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Memoization
   - Старая версия лекции: https://youtu.be/2h9syXN5wO0
 
-### 12 неделя: 12-18 декабря
+### 11 неделя: 12-18 декабря
 
 - [Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)
   - Примеры кода: https://github.com/HowProgrammingWorks/PrototypeChain
@@ -155,7 +152,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Wrapper
   - Старая версия лекции: https://youtu.be/2h9syXN5wO0
 
-### 13 неделя: 19-25 декабря
+### 12 неделя: 19-25 декабря
 
 - [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
   - Примеры кода: https://github.com/HowProgrammingWorks/TypedArrays
@@ -166,27 +163,27 @@
 
 ## Модуль SEF2
 
-### 14 неделя
+### 13 неделя
 
 - [Объектно-ориентированное программирование](https://youtu.be/r4ReQlVtfgQ)
 - [Структуры (struct) или записи (record)](https://youtu.be/Wb7o_kK4aH4)
 - [Карта специальности инженер-программист](https://youtu.be/SE5aXH-yf0I)
 
-### 15 неделя
+### 14 неделя
 
 - [Подход к изучению программирования](https://youtu.be/zMU4ir10DMg)
 - Списки: односвязные, двусвязные, циклические, развернутые
 - [Графы и запросы к графовым структурам данных](https://youtu.be/a0W0T8Yqw3s)
   - Примеры кода: https://github.com/HowProgrammingWorks/Graph
 
-### 16 неделя
+### 15 неделя
 
 - [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
   - Примеры кода: https://github.com/HowProgrammingWorks/Projection
 - [Мономорфный и полиморфный код, инлайн-кэш, скрытые классы](https://youtu.be/9JUY3prnCQ4)
   - Примеры кода: https://github.com/HowProgrammingWorks/Monomorphism
 
-### 17 неделя
+### 16 неделя
 
 - [Функциональное программирование](https://youtu.be/0JxSs_GcvbQ)
   - Смотрите обзорно, это не обязательная лекция, попробуйте уловить суть парадигмы
@@ -194,7 +191,7 @@
 - [Реактивное программирование](https://youtu.be/7MH8-qQc-48)
   - Примеры кода: https://github.com/HowProgrammingWorks/ReactiveProgramming
 
-### 18 неделя
+### 17 неделя
 
 - [Работа с файлами, буферами и файловыми потоками в Node.js](https://youtu.be/eQGBS15vUac)
   - Файлы: https://github.com/HowProgrammingWorks/Files
@@ -204,7 +201,7 @@
 - [Измерение производительности кода и оптимизация](https://youtu.be/sanq2X7Re8o)
   - Примеры кода: https://github.com/HowProgrammingWorks/Benchmark
 
-### 19 неделя
+### 18 неделя
 
 - [Асинхронное программирование на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
 - [Асинхронное программирование на promise`ах](https://youtu.be/RMl4r6s1Y8M)
@@ -212,12 +209,12 @@
 - [Асинхронные функции, async/await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
   - Примеры кода: https://github.com/HowProgrammingWorks/AsyncAwait
 
-### 20 неделя
+### 19 неделя
 
 - Неизменяемые структуры данных (immutable)
 - Автоматное программирование: конечные автоматы (машины состояний)
 
-### 21 неделя
+### 20 неделя
 
 - [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
   - https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
@@ -226,7 +223,7 @@
 - [Функциональные объекты, функторы и монады в JavaScript](https://youtu.be/3Z7f0Gi8pxw)
   - Примеры кода: https://github.com/HowProgrammingWorks/Functor
 
-### 22 неделя
+### 21 неделя
 
 - [Генераторы и асинхронные генераторы](https://youtu.be/kvNm9D32s8s)
   - Генераторы: https://github.com/HowProgrammingWorks/Generator
@@ -235,14 +232,14 @@
   - Итераторы: https://github.com/HowProgrammingWorks/Iterator
   - Асинхронные итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
 
-### 23 неделя
+### 22 неделя
 
 - [Перечислимый тип (enum) в JavaScript и TypeScript](https://youtu.be/BXiKebOIAGI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Enum
 - [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Generics
 
-### 24 неделя
+### 23 неделя
 
 - [Тестирование: юниттесты с примерами](https://youtu.be/CszugIag2TA)
   - Тестирование: https://github.com/HowProgrammingWorks/Testing
@@ -250,7 +247,7 @@
 - [Тестирование: системное и интеграционное тестирование](https://youtu.be/OuKu_6H_6gE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Unittesting
 
-### 25 неделя
+### 24 неделя
 
 - [Интроспекция и рефлексия в JavaScript](https://youtu.be/yvW1PjUVeM0)
   - Интроспекция: https://github.com/HowProgrammingWorks/Introspection
