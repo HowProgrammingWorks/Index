@@ -110,6 +110,16 @@
 
 ## [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
 
+- [0:25 - какую IDE использует Тимур](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=25s)
+- [1:30 - каким IDE могут пользоваться студенты](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=90s)
+- [1:50 - репозиторий со списком необходимых инструментов](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=110s)
+- [11:23 - о работе с репозиторием в Github](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=683s)
+- [14:05 - о системе Continuous Integration (CI)](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=845s)
+- [17:08 - обзор Pull Requests в репозитории](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=1028s)
+- [25:40 - процесс мерджа Pull Request](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=1540s)
+- [38:25 - публикация новой версии пакета](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=2305s)
+- [55:35 - как использовать библиотеку в своем пакете](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=3335s)
+- [1:14:40 - обзор репозиториев Тимура, Metarhia и HowProgrammingWorks](https://www.youtube.com/watch?v=hSyA7tcNaCE&t=4480s)
 
 ## [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
 
