@@ -171,6 +171,19 @@
 
 ## [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
 
+- [0:45 - разница между обычными функциями и стрелочными](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=45s)
+- [10:35 - рассматриваем отличия на примерах кода](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=635s)
+- [16:15 - поле функционального типа и метод](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=975s)
+- [18:15 - хеш-таблицы](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1095s)
+- [19:55 - поднятие (hoisting)](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1195s)
+- [21:45 - среда разработки Тимура](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1305s)
+- [23:30 - что такое говнокод](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1410s)
+- [24:32 - декомпозиция](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1472s)
+- [26:35 - что такое Node.JS](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1595s)
+- [29:54 - скорость программ и как мы её повышаем](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1794s)
+- [30:34 - приложения для мобилок на Node.JS](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1834s)
+- [32:25 - для чего нужен 'use strict'](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=1945s)
+- [33:35 - сервер в интернете для запуска Node.JS](https://www.youtube.com/watch?v=PGqjTXQe_qw&t=2015s)
 
 ## [Семинар: автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
 
