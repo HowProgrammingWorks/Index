@@ -187,6 +187,16 @@
 
 ## [Семинар: автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
 
+- [00:01 - об программе для авто проверки тестов](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=1s)
+- [01:22 - как выполнять задания (лабораторные)](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=82s)
+- [08:44 - как запускать тесты](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=524s)
+- [09:30 - пример выполнения задания 2-by-value.js](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=570s)
+- [15:05 - как выглядят автоматические тесты](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=905s)
+- [18:35 - пример выполнения задания 3-by-reference.js](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=1115s)
+- [28:20 - как отправлять готовые задания](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=1700s)
+- [37:55 - обзор задания и тестов задания 4-count-types.js](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=2275s)
+- [42:20 - об eslint](https://www.youtube.com/watch?v=M4KpG0LEAyA&t=2540s)
+
 
 ## [Введение в программирование (2 часть)](https://youtu.be/PzlLXQ3RaDs)
 
