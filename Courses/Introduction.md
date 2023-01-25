@@ -3,4 +3,4 @@
 - [Почему хорошее ИТ-образование невостребовано рыночком (выступление на Глушков Fest 2019)](https://youtu.be/nvIJE6xMpiI)
 - [Подход к изучению программирования](https://youtu.be/zMU4ir10DMg)
 - [Карта специальности инженер-программист](https://youtu.be/SE5aXH-yf0I)
-- [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
+- [Node.js Введение в технологию](https://youtu.be/mRvzgBGLVyM)
