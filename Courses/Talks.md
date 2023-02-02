@@ -2,6 +2,10 @@
 
 ## Future talks
 
+## 2023
+
+- [Стрим про образование программиста с Тимуром Шемсединовым и Сергеем Немчинским](https://www.youtube.com/live/pcwccVihgeg?feature=share)
+
 ## 2022
 
 - [Интервью на 5 часов на канале ITBEARD](https://youtu.be/0xtEdIy2j88)
