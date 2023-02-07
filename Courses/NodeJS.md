@@ -30,7 +30,7 @@
 
 ## Введение и основы
 
-- [Node.js Введение в технологию](https://youtu.be/WBcHgaoHh1k)
+- [Node.js Введение в технологию](https://youtu.be/mRvzgBGLVyM)
 - [Node.js in 2021: новости платформы и вызовы на следующее десятилетие](https://youtu.be/nnB7ADYso8s)
   - Слайды: https://www2.slideshare.net/tshemsedinov/nodejs-in-2021
   - Семинар с ответами на вопросы и обсуждением: https://youtu.be/zYRDhxj0zhQ
