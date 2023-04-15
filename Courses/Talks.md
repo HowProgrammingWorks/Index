@@ -7,8 +7,6 @@
 - [Стрим про образование программиста с Тимуром Шемсединовым и Сергеем Немчинским](https://www.youtube.com/live/pcwccVihgeg?feature=share)
 - [Применение ChatGPT в оптимизации JavaScript для NodeJS](https://youtu.be/Ebrzqj8cGUY)
 
-https://youtu.be/Ebrzqj8cGUY #softwareengineering #backend #frontend #programming #ai #gpt4 #gpt3 #refactoring #optimization 
-
 ## 2022
 
 - [Интервью на 5 часов на канале ITBEARD](https://youtu.be/0xtEdIy2j88)
