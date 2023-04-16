@@ -2,8 +2,14 @@
 
 - [Объектно-ориентированное программирование](https://youtu.be/r4ReQlVtfgQ)
 - [Структуры (struct) или записи (record)](https://youtu.be/Wb7o_kK4aH4)
+  - Примеры кода: https://github.com/HowProgrammingWorks/Struct
 - [ООП: построение абстракций, инкапсуляция и сокрытие](https://youtu.be/sQwF6-bYeDM)
+  - Принципы ООП: https://github.com/HowProgrammingWorks/ObjectOrientedProgramming
+  - Сокрытие: https://github.com/HowProgrammingWorks/InformationHiding
 - [ООП: наследование и полиморфизм](https://youtu.be/8OuzIAuMfjw)
+  - Принципы ООП: https://github.com/HowProgrammingWorks/ObjectOrientedProgramming
+  - Наследование: https://github.com/HowProgrammingWorks/Inheritance
+  - Полиморфизм: https://github.com/HowProgrammingWorks/Polymorphism
 - [Have Objects Failed? Или что не так с ООП?](https://youtu.be/4yO5OS0vPSw)
 - [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
   - Примеры кода: https://github.com/HowProgrammingWorks/Generics
