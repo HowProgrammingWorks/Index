@@ -5,6 +5,7 @@
 ## 2023
 
 - [Стрим про образование программиста с Тимуром Шемсединовым и Сергеем Немчинским](https://www.youtube.com/live/pcwccVihgeg?feature=share)
+- [«No Code, No Conference» 2023-03-16](https://flowmates.org/)
 - [Применение ChatGPT в оптимизации JavaScript для NodeJS](https://youtu.be/Ebrzqj8cGUY)
 
 ## 2022
