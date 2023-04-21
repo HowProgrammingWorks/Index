@@ -20,6 +20,7 @@
 - [Backend на Node.js и почему TypeScript может навредить - Anywhere Club](https://youtu.be/VmKl4kAGitc)
 - [Асинхронный JS, однопоточный NodeJS, event loop и libuv - IT-Kamasutra](https://youtu.be/ND5HNHicACI)
 - [Укрінформ: Презентація METATECH](https://youtu.be/Oz8E0mbdDec)
+- [Web Summit 2022: QOTEQ lowcode platform presentation](https://websummit.com/)
 
 ## 2021
 
