@@ -90,12 +90,15 @@
 ## 2019
 
 - [Антипаттерны Node.js](https://jsfest.com.ua/jsfest2019autumn/)
+  - Видео: https://youtu.be/DJCzZF383ug
   - Слайды: https://www.slideshare.net/tshemsedinov/js-fest-2019-nodejs-antipatterns
 - [Разделяемая память в многопоточном Node.js. Тимур Шемсединов. JS Fest 2019 Spring](https://youtu.be/KNsm_iIQt7U)
+  - Видео: https://youtu.be/KNsm_iIQt7U
   - Слайды: https://www.slideshare.net/tshemsedinov/shared-memory-and-multithreading-in-nodejs-timur-shemsedinov-jsfest19
 - DevPoint'19: Как возможно состояние гонки в однопоточном JavaScript?
   - Слайды: https://www.slideshare.net/tshemsedinov/how-are-race-conditions-in-single-threaded-javascript-possible
 - DevopsStage'19: Private cloud without vendor lock (Serverless)
+  - Видео: https://youtu.be/9fIOzmZ9uvI
   - Слайды: https://www.slideshare.net/tshemsedinov/private-cloud-without-vendor-lock-serverless
 - DX Day'19: How to keep control and safety in the clouds
   - Слайды: https://www.slideshare.net/tshemsedinov/how-to-keep-control-and-safety-in-the-clouds
