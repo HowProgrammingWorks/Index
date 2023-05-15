@@ -8,6 +8,7 @@
 - [«No Code, No Conference» 2023-03-16](https://flowmates.org/)
 - [Применение ChatGPT в оптимизации JavaScript для NodeJS](https://youtu.be/Ebrzqj8cGUY)
 - [Прекращение поддержки Node.js 14.x и обновление до 16, 18, 20](https://youtu.be/HriGsw3IPmQ)
+- [Революция в ИТ: 2023-24, что учить, трансформация бизнеса, кого нанимать и новые профессии](https://youtu.be/hYbF3IlMovE)
 
 ## 2022
 
