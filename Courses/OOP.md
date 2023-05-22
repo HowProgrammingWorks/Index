@@ -22,8 +22,8 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/LiskovSubstitution
 - [Антипаттерны объектно-ориентированного программирования](https://youtu.be/9d5TG1VsLeU)
   - Примеры кода: https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/03-OOP
-- [GRASP принципы с адаптацией для JavaScript и Node.js](https://youtu.be/ExauFjYV_lQ)
-- [Принцип информационный эксперт / Information Expert](https://youtu.be/cCHL329_As0)
-- [Зацепление и связность / coupling and cohesion](https://youtu.be/IGXdPOZ3Fyk)
-- [Чистая выдумка / Pure Fabrication](https://youtu.be/CV577a0RHBM)
-- [GRASP: Пример декомпозиции класса](https://youtu.be/4AMVQ2-2DcM)
+- [GRASP принципы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/GRASP.md)
+  - Принцип информационный эксперт / Information Expert
+  - Зацепление и связность / Coupling and Cohesion
+  - Чистая выдумка / Pure Fabrication
+  - Пример декомпозиции класса
