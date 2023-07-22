@@ -3,6 +3,8 @@
 ## Future talks
 
 ## 2023
+
+- [Искусственный интеллект заменяет программистов | Тимур Шемсединов, Николай Фельдман | Альфа и Омега](https://www.youtube.com/watch?v=i6vOhIor-ow)
 - [Образование будущего: украинский взгляд | Владимир Спиваковский, Тимур Шемсединов, Николай Фельдман](https://www.youtube.com/watch?v=yFYdFZuWm8o)
 - [Стрим про образование программиста с Тимуром Шемсединовым и Сергеем Немчинским](https://www.youtube.com/live/pcwccVihgeg?feature=share)
 - [«No Code, No Conference» 2023-03-16](https://flowmates.org/)
