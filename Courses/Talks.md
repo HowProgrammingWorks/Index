@@ -14,6 +14,7 @@
 - [How to use LLMs in Software Development and its limits](https://www.aintelligence.tech/en/schedule) at Artificial Intelligence: Challenges and Opportunities for Ukraine. 14 Sep
 - [Metarhia Business Owners club # 1 - Запуск сообщества бизнесовнеров продуктов, стартапов, компаний](https://youtu.be/T0zMsmfxo0c)
 - [Metarhia Business Owners club # 2 - Новости, образование, документация, лоукод](https://youtu.be/pMC-NjKD-6E)
+- [Тотальная цифровизация минобороны: вызовы команды нового министра | Шемсединов, Фельдман](https://www.youtube.com/live/dPXvdpNzLx4)
 
 September 14, 2023 at 4:00 PM
 
