@@ -12,6 +12,8 @@
 - [Прекращение поддержки Node.js 14.x и обновление до 16, 18, 20](https://youtu.be/HriGsw3IPmQ)
 - [Революция в ИТ: 2023-24, что учить, трансформация бизнеса, кого нанимать и новые профессии](https://youtu.be/hYbF3IlMovE)
 - [How to use LLMs in Software Development and its limits](https://www.aintelligence.tech/en/schedule) at Artificial Intelligence: Challenges and Opportunities for Ukraine. 14 Sep
+- [Metarhia Business Owners club # 1 - Запуск сообщества бизнесовнеров продуктов, стартапов, компаний](https://youtu.be/T0zMsmfxo0c)
+- [Metarhia Business Owners club # 2 - Новости, образование, документация, лоукод](https://youtu.be/pMC-NjKD-6E)
 
 September 14, 2023 at 4:00 PM
 
