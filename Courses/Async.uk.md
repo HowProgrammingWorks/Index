@@ -1,0 +1,66 @@
+# Асинхронне програмування
+
+- Автор: https://github.com/tshemsedinov
+- Умовні позначення:
+  - ✨ - Обов'язкові лекції
+  - 🧑‍💻 - Приклади коду
+  - 🧩 - Необов'язкові лекції
+  - 🕑 - Застарілі лекції (не актуальні чи історічні)
+
+- ✨ [Асинхронне програмування (огляд)](https://youtu.be/hY6Z6qNYzmc)
+- ✨ [Таймери, таймаути та EventEmitter](https://youtu.be/LK2jveAnRNg)
+  - 🧑‍💻 Таймери: https://github.com/HowProgrammingWorks/Timers
+  - 🧑‍💻 EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
+  - 🧑‍💻 Події: https://github.com/metarhia/common/blob/master/lib/events.js
+- ✨ [Асинхронне програмування на callback`ах](https://youtu.be/z8Hg6zgi3yQ)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/AsynchronousProgramming
+  - 🧑‍💻 Бібліотека do: https://github.com/metarhia/do
+- 🕑 [Неблокуюче асинхронне ітерування](https://youtu.be/wYA2cIRYLoA)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/NonBlocking
+- 🕑 [Асинхронність із бібліотекою async.js](https://youtu.be/XQ94wQc-erU)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/AsynchronousProgramming
+  - 🧑‍💻 Бібліотека async.js: https://caolan.github.io/async/
+- ✨ [Асинхронність на промісах](https://youtu.be/RMl4r6s1Y8M)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Promise
+- ✨ [Асинхронні функції, async/await, thenable, обробка помилок](https://youtu.be/Jdf_tZuJbHI)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/AsyncAwait
+- 🧩 [Асинхронні адаптери: promisify, callbackify, asyncify](https://youtu.be/76k6_YkYRmU)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/AsyncAdapter
+- ✨ [Асинхронні колектори даних](https://youtu.be/tgodt1JL6II)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Collector
+  - 🧑‍💻 Бібліотека metasync: https://github.com/metarhia/metasync
+- 🧩 [Необроблені помилки у промісах](https://youtu.be/1Ml5NE2fsZ8)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/PromiseError
+- 🕑 [Проблема асинхронного стектрейса](https://youtu.be/pfiHTx3j87Y)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/StackTrace
+- ✨ [Генератори та асинхронні генератори](https://youtu.be/kvNm9D32s8s)
+  - 🧑‍💻 Генератори: https://github.com/HowProgrammingWorks/Generator
+  - 🧑‍💻 Асинхронные генераторы: https://github.com/HowProgrammingWorks/AsyncGenerator
+- ✨ [Ітератори та асинхронні ітератори](https://youtu.be/rBGFlWpVpGs)
+  - 🧑‍💻 Итератори: https://github.com/HowProgrammingWorks/Iterator
+  - 🧑‍💻 Асинхронные итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
+- 🕑 [Скасування асинхронних операцій](https://youtu.be/T8fXlnqI4Ws)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Cancelable
+- ✨ Буде нова лекція: Скасування асинхронних операцій
+- 🧩 [Асинхронна композиція функцій](https://youtu.be/3ZCrMlMpOrM)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/AsyncCompose
+- 🧩 [Thenable та легкий await](https://youtu.be/DXp__1VNIvI)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Thenable
+- 🧩 [Конкурентна асинхронна черга](https://youtu.be/Lg46AH8wFvg)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/ConcurrentQueue
+- 🧩 [Паттерн відкритий конструктор (Revealing Constructor)](https://youtu.be/leR5sXRkuJI)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/RevealingConstructor
+- 🧩 [Future: Асинхронність на ф'ючерах без стану](https://youtu.be/22ONv3AGXdk)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Future
+- 🕑 [Deferred: Асинхронність на диферах зі станом](https://youtu.be/a2fVA1o-ovM)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Deferred
+- 🧩 [Модель акторів (Actor Model)](https://youtu.be/xp5MVKEqxY4)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/ActorModel
+- 🧩 [Паттерн Спостерігач (Observer + Observable)](https://youtu.be/_bFXuLcXoXg)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Observer
+- ✨ [Асинхронність на RxJS та потоки подій](https://youtu.be/0kcpMAl-wfE)
+  - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Rx
+- 🧩 Буде нова лекція: Async hooks
+- 🧩 [Пам'ять, що доступна з багатьох тредів у Node.js](https://youtu.be/KNsm_iIQt7U)
+- 🧩 [Асинхронний пул для worker thread pool у Node.js](https://youtu.be/Jj5KZRq4wYI)
+- ✨ Асинхронне програмування з лекції [введення в Node.js](https://www.youtube.com/watch?v=mRvzgBGLVyM)
