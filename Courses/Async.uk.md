@@ -9,6 +9,8 @@
 
 ## Програма курсу
 
+- ⭐ [Вступ та організаційні питання](https://youtu.be/vfEyRijm83g)
+- ⭐ [Q&A  семінар для усіх курсів](https://youtu.be/Wm7wclbv1Ik)
 - ✨ [Асинхронне програмування (огляд)](https://youtu.be/hY6Z6qNYzmc)
 - ✨ [Таймери, таймаути та EventEmitter](https://youtu.be/LK2jveAnRNg)
   - 🧑‍💻 Таймери: https://github.com/HowProgrammingWorks/Timers
@@ -43,7 +45,7 @@
   - 🧑‍💻 Асинхронные итераторы: https://github.com/HowProgrammingWorks/AsyncIterator
 - 🕑 [Скасування асинхронних операцій](https://youtu.be/T8fXlnqI4Ws)
   - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Cancelable
-- ✨ Буде нова лекція: Скасування асинхронних операцій
+- ⭐ Буде нова лекція: AbortController та AbortSygnal - Скасування асинхронних операцій
 - 🧩 [Асинхронна композиція функцій](https://youtu.be/3ZCrMlMpOrM)
   - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/AsyncCompose
 - 🧩 [Thenable та легкий await](https://youtu.be/DXp__1VNIvI)
@@ -62,7 +64,7 @@
   - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Observer
 - ✨ [Асинхронність на RxJS та потоки подій](https://youtu.be/0kcpMAl-wfE)
   - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/Rx
-- 🧩 Буде нова лекція: Async hooks
+- ⭐ Буде нова лекція: Async hooks
 - 🧩 [Пам'ять, що доступна з багатьох тредів у Node.js](https://youtu.be/KNsm_iIQt7U)
 - 🧩 [Асинхронний пул для worker thread pool у Node.js](https://youtu.be/Jj5KZRq4wYI)
 - ✨ Асинхронне програмування з лекції [введення в Node.js](https://www.youtube.com/watch?v=mRvzgBGLVyM)
