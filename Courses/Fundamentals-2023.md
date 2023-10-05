@@ -58,7 +58,8 @@
   - ✨ [Налаштування середовища: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE) Дивитись вибірково, що не зрозуміло – пропускайте
   - ✨ Старий семінар: [Автоматична перевірка лабораторних робіт](https://youtu.be/M4KpG0LEAyA)
   - ✨ Семінар: [Виконання лабораторних робіт з курсу](https://youtu.be/ikUOyFPzdJw)
-  - 🧑‍💻 Завдання: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
+  - 🧑‍💻 Підготовка середовища виконання завдань: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
+  - 🧑‍💻 Завдання: [SEF1.ru.md](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/SEF1.ru.md)
 - Callbacks, timers
   - ⭐ [Функції зворотнього виклику (callbacks) та таймери](https://youtu.be/MFG3NaEwu70)
   - 🧑‍💻 Функції зворотнього виклику: https://github.com/HowProgrammingWorks/Callbacks
