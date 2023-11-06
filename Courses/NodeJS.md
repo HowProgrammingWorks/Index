@@ -4,7 +4,8 @@
 Перед основной частью курса по Node.js нужно сначала освоить хоть частично курс
 по асинхронному программированию: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md
 
-[Для части лекций есть таймкоды и подробное оглавление](NodeJS-timecodes.md)
+- [Для части лекций есть таймкоды и подробное оглавление](NodeJS-timecodes.md)
+- [Новый курс Node.js 2023](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2022-2023.md)
 
 ## Доклады и выступления
 
@@ -149,3 +150,5 @@
 ## Вспомогательные темы
 
 - [Асинхронный пул для worker thread pool в Node.js](https://youtu.be/Jj5KZRq4wYI)
+
+👉 [Новый курс Node.js 2023](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2022-2023.md)
