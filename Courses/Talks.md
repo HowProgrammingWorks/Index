@@ -8,6 +8,7 @@
 - [Образование будущего: украинский взгляд | Владимир Спиваковский, Тимур Шемсединов, Николай Фельдман](https://www.youtube.com/watch?v=yFYdFZuWm8o)
 - [Стрим про образование программиста с Тимуром Шемсединовым и Сергеем Немчинским](https://www.youtube.com/live/pcwccVihgeg?feature=share)
 - [«No Code, No Conference» 2023-03-16](https://flowmates.org/)
+- [Человек как преодоление пропасти между AI и программированием — NOCODE SUMMIT Almaty 2023-11-30](https://flowmates.org/no-code-summit-almaty/)
 - [Применение ChatGPT в оптимизации JavaScript для NodeJS](https://youtu.be/Ebrzqj8cGUY)
 - [Прекращение поддержки Node.js 14.x и обновление до 16, 18, 20](https://youtu.be/HriGsw3IPmQ)
 - [Революция в ИТ: 2023-24, что учить, трансформация бизнеса, кого нанимать и новые профессии](https://youtu.be/hYbF3IlMovE)
