@@ -4,20 +4,20 @@
 
 ## 2023
 
-- [Искусственный интеллект заменяет программистов | Тимур Шемсединов, Николай Фельдман | Альфа и Омега](https://www.youtube.com/watch?v=i6vOhIor-ow)
-- [Образование будущего: украинский взгляд | Владимир Спиваковский, Тимур Шемсединов, Николай Фельдман](https://www.youtube.com/watch?v=yFYdFZuWm8o)
 - [Стрим про образование программиста с Тимуром Шемсединовым и Сергеем Немчинским](https://www.youtube.com/live/pcwccVihgeg?feature=share)
+- [Введение в ИТ специальности / Крымскотатарский ИТ канал / 23 Sep 2023](https://youtu.be/kN12mb_3PRE)
 - [«No Code, No Conference» 2023-03-16](https://flowmates.org/)
 - [Человек как преодоление пропасти между AI и программированием — NOCODE SUMMIT Almaty 2023-11-30](https://flowmates.org/no-code-summit-almaty/)
 - [Применение ChatGPT в оптимизации JavaScript для NodeJS](https://youtu.be/Ebrzqj8cGUY)
 - [Прекращение поддержки Node.js 14.x и обновление до 16, 18, 20](https://youtu.be/HriGsw3IPmQ)
 - [Революция в ИТ: 2023-24, что учить, трансформация бизнеса, кого нанимать и новые профессии](https://youtu.be/hYbF3IlMovE)
-- [How to use LLMs in Software Development and its limits](https://youtu.be/jKSc5Tx1Au8?si=wb76W3T9swD6lsuU) at [Artificial Intelligence](https://www.aintelligence.tech/en/schedule): Challenges and Opportunities for Ukraine. 14 Sep
+- [How to use LLMs in Software Development and its limits](https://youtu.be/jKSc5Tx1Au8) at [Artificial Intelligence](https://www.aintelligence.tech/en/schedule): Challenges and Opportunities for Ukraine. 14 Sep
 - [Metarhia Business Owners club # 1 - Запуск сообщества бизнесовнеров продуктов, стартапов, компаний](https://youtu.be/T0zMsmfxo0c)
 - [Metarhia Business Owners club # 2 - Новости, образование, документация, лоукод](https://youtu.be/pMC-NjKD-6E)
 - [Metarhia Business Owners club # 3 - Документация, новые возможности, план развития платформы](https://youtu.be/8JzZ2vBhvNM)
+- [Искусственный интеллект заменяет программистов | Тимур Шемсединов, Николай Фельдман | Альфа и Омега](https://www.youtube.com/watch?v=i6vOhIor-ow)
+- [Образование будущего: украинский взгляд | Владимир Спиваковский, Тимур Шемсединов, Николай Фельдман](https://www.youtube.com/watch?v=yFYdFZuWm8o) и на [канале Alpha media](https://www.youtube.com/live/sVzvPqSXQ40)
 - [Тотальная цифровизация минобороны: вызовы команды нового министра | Шемсединов, Фельдман](https://www.youtube.com/live/dPXvdpNzLx4)
-- [Введение в ИТ специальности / Крымскотатарский ИТ канал / 23 Sep 2023](https://youtu.be/kN12mb_3PRE)
 
 ## 2022
 
