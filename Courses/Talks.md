@@ -7,7 +7,7 @@
 - [Стрим про образование программиста с Тимуром Шемсединовым и Сергеем Немчинским](https://www.youtube.com/live/pcwccVihgeg?feature=share)
 - [Введение в ИТ специальности / Крымскотатарский ИТ канал / 23 Sep 2023](https://youtu.be/kN12mb_3PRE)
 - [«No Code, No Conference» 2023-03-16](https://flowmates.org/)
-- [Человек как преодоление пропасти между AI и программированием — NOCODE SUMMIT Almaty 2023-11-30](https://flowmates.org/no-code-summit-almaty/)
+- [Человек как преодоление пропасти между AI и программированием — NOCODE SUMMIT Almaty 2023-11-30](https://youtu.be/xGZC23wRAV8)
 - [Применение ChatGPT в оптимизации JavaScript для NodeJS](https://youtu.be/Ebrzqj8cGUY)
 - [Прекращение поддержки Node.js 14.x и обновление до 16, 18, 20](https://youtu.be/HriGsw3IPmQ)
 - [Революция в ИТ: 2023-24, что учить, трансформация бизнеса, кого нанимать и новые профессии](https://youtu.be/hYbF3IlMovE)
