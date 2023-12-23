@@ -1,6 +1,6 @@
 # Conference and public talks
 
-## Future talks
+## 2024
 
 ## 2023
 
