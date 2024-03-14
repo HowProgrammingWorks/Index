@@ -37,7 +37,7 @@
   - ⭐ Контракты `Callback` и `Callback-last-error-first` (ссылка в платном курсе)
   - 💻 Колбеки: https://github.com/HowProgrammingWorks/Callbacks
   - 💻 Примеры кода с колбеками: https://github.com/HowProgrammingWorks/AsynchronousProgramming
-  - 🧑‍💻 Задания по колбекам (в платном курсе)
+  - 🧑‍💻 [Задания по колбекам](https://github.com/HowProgrammingWorks/Callbacks/tree/master/JavaScript/Tasks) (решения, ревью и разбор в платном курсе)
 - 💯 Минимально необходимое понимание рантайма: event loop, I/O, таймеры
   - ⭐ Фазы Event-loop в V8 и Node.js (ссылка в платном курсе)
   - 🧩 [Стрим с разбрром Event loop и асинхронности](https://www.youtube.com/live/ND5HNHicACI)
@@ -45,7 +45,7 @@
   - 🧑‍💻 Задания по таймерам (в платном курсе)
 - 💯 Контракты на базе событий `EventTarget`, `EventEmitter`
   - ⭐ События (ссылка в платном курсе)
-  - 🧑‍💻 Задания по событиям (в платном курсе)
+  - 🧑‍💻 [Задания по событиям](https://github.com/HowProgrammingWorks/Events/tree/main/JavaScript/Tasks) (решения, ревью и разбор в платном курсе)
   - ✨ [EventEmitter из старой лекции](https://youtu.be/LK2jveAnRNg)
   - 💻 EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
 - 💯 Абстракция потоков `Stream`
@@ -58,17 +58,17 @@
   - ⭐ Контракт `Thenabe` (ссылка в платном курсе)
   - ✨ [Thenable из старой лекции](https://youtu.be/Jdf_tZuJbHI)
   - 💻 Примеры кода: https://github.com/HowProgrammingWorks/Thenable
-  - 🧑‍💻 Задания по `Thenabe` (в платном курсе)
+  - 🧑‍💻 [Задания по `Thenabe`Thenable](https://github.com/HowProgrammingWorks/Thenable/tree/master/JavaScript/Tasks) (решения, ревью и разбор в платном курсе)
 - 💯 Контракт `Promise`
   - ⭐ Promise: then/catch/finally и методы класса all, allSettled, race, any (ссылка в платном курсе)
   - ✨ [Асинхронность на промисах из старой лекции](https://youtu.be/RMl4r6s1Y8M)
   - 💻 [Примеры кода](https://github.com/HowProgrammingWorks/Promise/tree/master/JavaScript)
-  - 🧑‍💻 Задания по `Promise` (в платном курсе)
+  - 🧑‍💻 [Задания по `Promise`](https://github.com/HowProgrammingWorks/Promise/tree/master/JavaScript/Tasks) (решения, ревью и разбор в платном курсе)
 - 💯 Контракт асинхронных функций `async/await`
   - ⭐ Асинхронные функции (ссылка в платном курсе)
   - ✨ [Асинхронные функции из старой лекции](https://youtu.be/Jdf_tZuJbHI)
   - 💻 [Примеры кода](https://github.com/HowProgrammingWorks/AsyncFunction/tree/main/JavaScript)
-  - 🧑‍💻 Задания по `async/await` (в платном курсе)
+  - 🧑‍💻 [Задания по `async/await`](https://github.com/HowProgrammingWorks/AsyncAwait/tree/master/JavaScript/Tasks) (решения, ревью и разбор в платном курсе)
 - 💯 Контракт сигналов `signals`
   - ⭐ Сигналы (в платном курсе)
   - 💻 Примеры кода: (готовятся), будут тут https://github.com/HowProgrammingWorks/Signals
