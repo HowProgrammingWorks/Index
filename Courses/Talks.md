@@ -4,6 +4,7 @@
 
 - [Все ли плохо с Diia](https://youtu.be/6X6MaXoQdw8)
 - [👏 Дія відкрила код - Diia code review 🤦](https://youtu.be/ggIk83GO25I)
+- [Дія» открыла код! Что не так?](https://www.youtube.com/watch?v=Ug-tytIlhU0)
 
 ## 2023
 
