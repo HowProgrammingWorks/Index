@@ -5,6 +5,9 @@
 - [Все ли плохо с Diia](https://youtu.be/6X6MaXoQdw8)
 - [👏 Дія відкрила код - Diia code review 🤦](https://youtu.be/ggIk83GO25I)
 - [Дія» открыла код! Что не так?](https://www.youtube.com/watch?v=Ug-tytIlhU0)
+- [Паттерны в JavaScript с примерами и культура кода на ITBeard](https://www.youtube.com/live/vDOe1v76w5Y)
+- [Об оптимизации паттернов для JavaScript с Деми Мурычем](https://www.youtube.com/watch?v=LJJpbFcmKQs)
+- [Беседа с Ильей Климовым о целях паттернов](https://youtube.com/live/Jru7q-OjWX8)
 
 ## 2023
 
