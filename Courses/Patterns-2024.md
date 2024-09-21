@@ -169,6 +169,6 @@ using the course principles.
 * Minimal: learning in a common group without a mentor but with interactive calls
 * Standard: training with mentor in small groups (up to 10 people)
 * Prefessional: training with mentor, 1-on-1, groups, and additional materials
-* Exclusive $10000: personalized training track with a couse author
+* Exclusive: personalized training track with a couse author
 
 [👉 Buy: https://nodeua.com/Patterns-2024-buy.html](https://nodeua.com/Patterns-2024-buy.html)
