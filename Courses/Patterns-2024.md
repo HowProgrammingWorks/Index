@@ -2,6 +2,8 @@
 
 ***Rethinking GRASP, SOLID, and GoF for JavaScript and Node.js***
 
+> Translations: [EN](./Patterns-2024.md), [UA](./Patterns-2024-ua.md), [RU](./Patterns-2024-ru.md)
+
 Practical training for rethinking and applying **GRASP**, **SOLID**, **GoF** patterns in asynchronous programming and JavaScript for application and system developers, backend and frontend, Node.js and browser applications.
 
 Understanding these concepts can't just be extracted from a box (or book) and placed into your maind. It varies greatly for different languages and platforms.
@@ -168,7 +170,7 @@ using the course principles.
 
 * Minimal: learning in a common group without a mentor but with interactive calls
 * Standard: training with mentor in small groups (up to 10 people)
-* Prefessional: training with mentor, 1-on-1, groups, and additional materials
+* Professional: training with mentor, 1-on-1, groups, and additional materials
 * Exclusive: personalized training track with a couse author
 
 [👉 Buy: https://nodeua.com/Patterns-2024-buy.html](https://nodeua.com/Patterns-2024-buy.html)
