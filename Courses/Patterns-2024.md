@@ -26,6 +26,28 @@ Here's what I suggest learning and practicing:
 * 🧩 Contract Programming and Modeling with Schemas
 * 🏛️ Clean Architecture and Layered Architecture
 
+##  Tariff plans
+
+* Minimal: learning in a common group without a mentor but with interactive calls
+* Standard: training with mentor in small groups (up to 10 people)
+* Professional: training with mentor, 1-on-1, groups, and additional materials
+* Exclusive: personalized training track with a couse author
+
+## Training format
+
+- 🗓️ 12 weeks (3 months) + onboarding (1 week) + secret module
+- 👍 You will get access to course materials forever
+- 🕑 Every week (mandatory): 1 hour of lectures + 2 hours of calls + 2 hours of independent work
+- 🥋 Training and group work with mentors, not just watching videos and reading
+- 🙋‍♂️ Optional: for deep dive +3 hours of additional materials on senior plans
+- 🏅 You receive a certificate upon completion of the course
+- ⚠️ Requirements: basic JavaScript + practical programming experience is recommended
+- 🙅 Not for: beginners, look for free materials for beginners at Timur's Youtube and Github
+- 💳 Payment plan: full payment or monthly payment for all plans except minimum
+- 🗺️ After the course, participation in the community (thousands of people around the world)
+
+[👉 Buy: https://nodeua.com/Patterns-2024-buy.html](https://nodeua.com/Patterns-2024-buy.html)
+
 ## 📖 Course Structure
 
 ### 📦 Unit 1: Structure and Modularity
