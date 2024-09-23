@@ -6,6 +6,8 @@
 
 Practical training for rethinking and applying **GRASP**, **SOLID**, **GoF** patterns in asynchronous programming and JavaScript for application and system developers, backend and frontend, Node.js and browser applications.
 
+***Next onboarding will start 1 October 2024***
+
 Understanding these concepts can't just be extracted from a box (or book) and placed into your maind. It varies greatly for different languages and platforms.
 Blindly transferring knowledge and practices from C++ or Java to **JavaScript** and C# results in dead ceremonies.
 However, they can be revived through practice, tied to realities, and rethought to avoid becoming monstrous and horrors.
@@ -41,6 +43,7 @@ Here's what I suggest learning and practicing:
 - 🥋 Training and group work with mentors, not just watching videos and reading
 - 🙋‍♂️ Optional: for deep dive +3 hours of additional materials on senior plans
 - 🏅 You receive a certificate upon completion of the course
+- 💬 Languages: RU for lectures; UA, TR, EN, RU for seminars, mentorship and Q&A sessions
 - ⚠️ Requirements: basic JavaScript + practical programming experience is recommended
 - 🙅 Not for: beginners, look for free materials for beginners at Timur's Youtube and Github
 - 💳 Payment plan: full payment or monthly payment for all plans except minimum
