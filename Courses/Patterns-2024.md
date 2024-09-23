@@ -6,7 +6,7 @@
 
 Practical training for rethinking and applying **GRASP**, **SOLID**, **GoF** patterns in asynchronous programming and JavaScript for application and system developers, backend and frontend, Node.js and browser applications.
 
-***Next onboarding will start 1 October 2024***
+***🗓️ Next onboarding will start 1 October 2024***
 
 Understanding these concepts can't just be extracted from a box (or book) and placed into your maind. It varies greatly for different languages and platforms.
 Blindly transferring knowledge and practices from C++ or Java to **JavaScript** and C# results in dead ceremonies.
