@@ -1,0 +1,70 @@
+# Asynchronous programming
+
+- Author: https://github.com/tshemsedinov
+- Legend:
+   - ✨ - Mandatory lectures
+   - 🧑‍💻 - Code examples
+   - 🧩 - Optional lectures
+   - 🕑 - Outdated lectures (not current or historical)
+
+## Course program
+
+- ⭐ [Introduction and organizational issues](https://youtu.be/vfEyRijm83g)
+- ⭐ [Q&A workshop for all courses](https://youtu.be/Wm7wclbv1Ik)
+- ✨ [Asynchronous Programming (Overview)](https://youtu.be/hY6Z6qNYzmc)
+- ✨ [Timers, Timeouts and EventEmitter](https://youtu.be/LK2jveAnRNg)
+   - 🧑‍💻 Timers: https://github.com/HowProgrammingWorks/Timers
+   - 🧑‍💻 EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
+   - 🧑‍💻 Events: https://github.com/metarhia/common/blob/master/lib/events.js
+- ✨ [Asynchronous programming with callbacks](https://youtu.be/z8Hg6zgi3yQ)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/AsynchronousProgramming
+   - 🧑‍💻 do library: https://github.com/metarhia/do
+- 🕑 [Non-blocking asynchronous iteration](https://youtu.be/wYA2cIRYLoA)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/NonBlocking
+- 🕑 [Asynchrony with async.js library](https://youtu.be/XQ94wQc-erU)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/AsynchronousProgramming
+   - 🧑‍💻 async.js library: https://caolan.github.io/async/
+- ✨ [Asynchrony on promises](https://youtu.be/RMl4r6s1Y8M)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/Promise
+- ✨ [Asynchronous functions, async/await, thenable, error handling](https://youtu.be/Jdf_tZuJbHI)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/AsyncAwait
+- 🧩 [Asynchronous adapters: promisify, callbackify, asyncify](https://youtu.be/76k6_YkYRmU)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/AsyncAdapter
+- ✨ [Asynchronous Data Collectors](https://youtu.be/tgodt1JL6II)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/Collector
+   - 🧑‍💻 metasync library: https://github.com/metarhia/metasync
+- 🧩 [Raw errors in promises](https://youtu.be/1Ml5NE2fsZ8)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/PromiseError
+- 🕑 [Asynchronous stacktrace problem](https://youtu.be/pfiHTx3j87Y)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/StackTrace
+- ✨ [Generators and asynchronous generators](https://youtu.be/kvNm9D32s8s)
+   - 🧑‍💻 Generators: https://github.com/HowProgrammingWorks/Generator
+   - 🧑‍💻 Asynchronous generators: https://github.com/HowProgrammingWorks/AsyncGenerator
+- ✨ [Iterators and Asynchronous Iterators](https://youtu.be/rBGFlWpVpGs)
+   - 🧑‍💻 Iterators: https://github.com/HowProgrammingWorks/Iterator
+   - 🧑‍💻 Asynchronous iterators: https://github.com/HowProgrammingWorks/AsyncIterator
+- 🕑 [Cancellation of asynchronous operations](https://youtu.be/T8fXlnqI4Ws)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/Cancelable
+- ⭐ There will be a new lecture: AbortController and AbortSygnal - Cancelling asynchronous operations
+- 🧩 [Asynchronous function composition](https://youtu.be/3ZCrMlMpOrM)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/AsyncCompose
+- 🧩 [Thenable and light await](https://youtu.be/DXp__1VNIvI)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/Thenable
+- 🧩 [Competitive asynchronous queue](https://youtu.be/Lg46AH8wFvg)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/ConcurrentQueue
+- 🧩 [Revealing Constructor Pattern](https://youtu.be/leR5sXRkuJI)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/RevealingConstructor
+- 🧩 [Future: Asynchrony with stateless futures](https://youtu.be/22ONv3AGXdk)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/Future
+- 🕑 [Deferred: Asynchrony with defers with state](https://youtu.be/a2fVA1o-ovM)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/Deferred
+- 🧩 [Actor Model](https://youtu.be/xp5MVKEqxY4)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/ActorModel
+- 🧩 [Pattern Observer (Observer + Observable)](https://youtu.be/_bFXuLcXoXg)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/Observer
+- ✨ [Asynchrony with RxJS and event streams](https://youtu.be/0kcpMAl-wfE)
+   - 🧑‍💻 Code examples: https://github.com/HowProgrammingWorks/Rx
+- ⭐ There will be a new lecture: Async hooks
+- 🧩 [Memory accessible from multiple threads in Node.js](https://youtu.be/KNsm_iIQt7U)
+- 🧩 [Asynchronous pool for worker thread pool in Node.js](https://youtu.be/Jj5KZRq4wYI)
+- ✨ Asynchronous programming from the lecture [introduction to Node.js](https://www.youtube.com/watch?v=mRvzgBGLVyM)
