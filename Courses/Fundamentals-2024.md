@@ -1,7 +1,7 @@
 # Основи програмування
 
 - Автор: https://github.com/tshemsedinov
-- Завдання з курсу: готується для публікації
+- [Практичні завдання](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals-2024.md#практичні-завдання)
 - Словник термінів: готується для публікації
 - Умовні позначення:
   - ⭐ - Нові спрощені лекції
@@ -138,3 +138,21 @@
   - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/TypedArrays
 - 🧩 [Нове у JavaScript](https://youtu.be/fUjHLj8bq_Y)
   - 🧑‍💻 Приклади коду: https://github.com/HowProgrammingWorks/ESNext
+
+## Практичні завдання
+
+Запис семінарів про виконання та перевірку лабораторних робіт:
+- [Семінар: автоматична перевірка лабораторних робіт](https://youtu.be/M4KpG0LEAyA)
+- [Семінар: виконання лабораторних робіт з курсу "Основи програмування"](https://youtu.be/ikUOyFPzdJw)
+
+Репозитории с задачами:
+
+0. [Налаштування середовища](https://github.com/HowProgrammingWorks/Introduction)
+1. [Змінні та типи даних](https://github.com/HowProgrammingWorks/DataTypes)
+2. [Базовий синтаксис JavaScript](https://github.com/HowProgrammingWorks/Reusable)
+3. [Функції та методи](https://github.com/HowProgrammingWorks/Function)
+4. [Цикли та ітерування](https://github.com/HowProgrammingWorks/Iteration)
+5. [Closures та чеїнінг](https://github.com/HowProgrammingWorks/Closure)
+6. [Композиція функцій](https://github.com/HowProgrammingWorks/Composition)
+7. [Робота з масивами](https://github.com/HowProgrammingWorks/Arrays)
+8. [Функції вищого порядку](https://github.com/HowProgrammingWorks/HigherOrderFunction)
