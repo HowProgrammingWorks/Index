@@ -42,7 +42,7 @@
   - Условия: https://github.com/HowProgrammingWorks/Conditional
 - Семинар: [Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
 - Семинар: [Автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
-- [Функции, стрелочные функции, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
+- [Функции, стрелочные функции, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U) [Функциональные объекты, функторы и монады в JavaScript](https://www.youtube.com/watch?v=3Z7f0Gi8pxw)
   - Функции: https://github.com/HowProgrammingWorks/Function
   - Замыкания: https://github.com/HowProgrammingWorks/Closure
 - [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
