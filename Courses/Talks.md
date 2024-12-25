@@ -2,9 +2,6 @@
 
 ## 2024
 
-- [Все ли плохо с Diia](https://youtu.be/6X6MaXoQdw8)
-- [👏 Дія відкрила код - Diia code review 🤦](https://youtu.be/ggIk83GO25I)
-- [«Дія» открыла код! Что не так?](https://www.youtube.com/watch?v=Ug-tytIlhU0)
 - [Паттерны в JavaScript с примерами и культура кода на ITBeard](https://www.youtube.com/live/vDOe1v76w5Y)
 - [Об оптимизации паттернов для JavaScript с Деми Мурычем](https://www.youtube.com/watch?v=LJJpbFcmKQs)
 - [Беседа с Ильей Климовым о целях паттернов](https://youtube.com/live/Jru7q-OjWX8)
@@ -13,6 +10,9 @@
 - [🎙️ Demi Murych (Деми Мурыч) и Timur Shemsedinov (Тимур Шемсединов) — JavaScript оптимизация и паттерны](https://youtu.be/jj53cCZ0wFg)
 - [🎙️ Eugene Yukhno (Евгений Юхно) и Timur Shemsedinov (Тимур Шемсединов) — LISP and JavaScript](https://youtu.be/qg_dwfTb5MQ)
 - [🧩 Паттерны и оверинжиниринг: баланс между портянкой и церемониями // Сергей Немчинский и Тимур Шемсединов](https://youtu.be/vTMf21FG6wg)
+- [Все ли плохо с Diia](https://youtu.be/6X6MaXoQdw8)
+- [👏 Дія відкрила код - Diia code review 🤦](https://youtu.be/ggIk83GO25I)
+- [«Дія» открыла код! Что не так?](https://www.youtube.com/watch?v=Ug-tytIlhU0)
 
 ## 2023
 
