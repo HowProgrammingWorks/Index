@@ -2,9 +2,6 @@
 
 - JavaScript and TypeScript machinery
   - Timers: https://github.com/HowProgrammingWorks/Timers
-  - Collections: https://github.com/HowProgrammingWorks/Collections
-  - Hash Map: https://github.com/HowProgrammingWorks/Map
-  - Set: https://github.com/HowProgrammingWorks/Set
   - Typed Arrays: https://github.com/HowProgrammingWorks/TypedArrays
   - Generators: https://github.com/HowProgrammingWorks/Generator
   - Async generators: https://github.com/HowProgrammingWorks/AsyncGenerator
@@ -13,7 +10,6 @@
 - Fundamentals
   - Generics: https://github.com/HowProgrammingWorks/Generics
   - Modularity, Layers and Low Coupling
-  - Closure: https://github.com/HowProgrammingWorks/Closure
   - Function composition: https://github.com/HowProgrammingWorks/Composition
   - Memoization: https://github.com/HowProgrammingWorks/Memoization
   - Lists: https://github.com/HowProgrammingWorks/LinkedList
@@ -22,7 +18,7 @@
   - Functor and Monad: https://github.com/HowProgrammingWorks/Functor
 - Async Programming
   - Asynchronous programming: https://github.com/HowProgrammingWorks/AsynchronousProgramming
-  - Reactive programming https://github.com/HowProgrammingWorks/ReactiveProgramming
+  - Reactive programming: https://github.com/HowProgrammingWorks/ReactiveProgramming
   - Promise: https://github.com/HowProgrammingWorks/Promise
   - Async/await: https://github.com/HowProgrammingWorks/AsyncAwait
   - EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
@@ -39,15 +35,15 @@
   - Interface segregation principle: https://github.com/HowProgrammingWorks/InterfaceSegregation
   - Dependency inversion principle: https://github.com/HowProgrammingWorks/DependencyInversion
 - Basic patterns
-  - Proxy: https://github.com/HowProgrammingWorks/Proxy
-  - Factory: https://github.com/HowProgrammingWorks/Factory
-  - Object Pool: https://github.com/HowProgrammingWorks/Pool
-  - Wrappers: https://github.com/HowProgrammingWorks/Wrapper
-  - FSM: https://github.com/HowProgrammingWorks/Automata
   - Singleton: https://github.com/HowProgrammingWorks/Singleton
-  - Strategy: https://github.com/HowProgrammingWorks/Strategy
+  - Decorator: https://github.com/HowProgrammingWorks/Decorator
   - Adapter: https://github.com/HowProgrammingWorks/Adapter
   - Wrapper: https://github.com/HowProgrammingWorks/Wrapper
+  - Proxy: https://github.com/HowProgrammingWorks/ProxyPattern
+  - Factory: https://github.com/HowProgrammingWorks/Factory
+  - Object Pool: https://github.com/HowProgrammingWorks/Pool
+  - Strategy: https://github.com/HowProgrammingWorks/Strategy
+  - FSM: https://github.com/HowProgrammingWorks/Automata
 - Metaprogramming
   - Introspection: https://github.com/HowProgrammingWorks/Introspection
   - Reflect API: https://github.com/HowProgrammingWorks/Reflect
