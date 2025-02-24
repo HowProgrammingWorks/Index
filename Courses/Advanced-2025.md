@@ -41,6 +41,7 @@
   - Wrapper: https://github.com/HowProgrammingWorks/Wrapper
   - Proxy: https://github.com/HowProgrammingWorks/ProxyPattern
   - Factory: https://github.com/HowProgrammingWorks/Factory
+  - Factory Method: https://github.com/HowProgrammingWorks/FactoryMethod
   - Object Pool: https://github.com/HowProgrammingWorks/Pool
   - Strategy: https://github.com/HowProgrammingWorks/Strategy
   - FSM: https://github.com/HowProgrammingWorks/Automata
