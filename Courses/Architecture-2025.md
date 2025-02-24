@@ -11,6 +11,9 @@
 9. DSL, AST, LISP
 10. Command, QueryObject, CQS, CQRS, EventSourcing
 11. Messaging: MQ, Pub/Sub, Pull
+12. System integration: api, bus, brocker, mq
+13. Communication styles: data, call, events, log, p2p
+14. Architecture for Web: Frontend and Backend
 
 Additional topics:
 - Interaction: Data (shared state), Calls (RPC), Events (MQ)
