@@ -60,3 +60,14 @@ Additional topics:
   - https://github.com/HowProgrammingWorks/Command
 - [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
   - Слайды: https://www.slideshare.net/tshemsedinov/serverless-clouds-faas-and-request-context-isolation-in-nodejs
+
+## Additional topics
+
+- Law of Demeter (LoD) - Principle of Least Knowledge or Don't Talk to Strangers
+  - Low Coupling (LC): The goal of LoD is to reduce coupling by reducing the knowledge of a class about other classes.
+  - Tell, Don't Ask/Information Expert (TdA/IE): LoD is more specific than TdA/IE because TdA/IE can be applied in a wider context (e.g. for responsibility assignment). Applying TdA leads to solutions which are good according to LoD. Note that the reverse is not true: Accoring to LoD you may get and set values from an object passed as a parameter to a method.
+  - A method of an object should invoke only the methods of the following kinds of objects:
+    - itself
+    - its parameters
+    - any objects it creates/instantiates
+    - its direct component objects
