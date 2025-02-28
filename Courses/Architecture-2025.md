@@ -8,19 +8,19 @@
 6. Clustering, Parallel, Distributed systems, CAP, ACID, BASE, Locking, CQRS
 7. Actor Model
 8. Databases, data modeling
-9. DSL, AST, LISP
+9. Domain Specific Languages: DSL, AST, LISP
 10. Command, QueryObject, CQS, CQRS, EventSourcing
 11. Messaging: MQ, Pub/Sub, Pull
-12. System integration: api, bus, brocker, mq
-13. Communication styles: data, call, events, log, p2p
-14. Architecture for Web: Frontend and Backend
+12. System integration and topology: API, bus, brocker, MQ
+13. Communication styles: data, call, event, log sync, p2p, blockchain
+14. Feature-Sliced Design
+15. Architecture for Web: DDD for Frontend and Backend
 
-Additional topics:
-- Interaction: Data (shared state), Calls (RPC), Events (MQ)
-- Three-Tier Architecture, Multitier, Pipeline
-- SOA: web services microservices, serverless
+## Additional topics
+
+- Pipeline architecture
+- SOA: web services, microservices, serverless
 - Data warehouses and DBMS: relational, noSQL, columnar, key-value
-- Distributed IS topologies: star, bus, ring, pipeline, fully connected
 - API Design
 - Corporate integration buses (exchange with external subsystems)
 - Task and resource schedulers
@@ -30,6 +30,14 @@ Additional topics:
 - Security, authorization, authentication, application firewall
 - Application and system logging, incident investigation
 - Analysis and reengineering of business processes
+- Law of Demeter (LoD) - Principle of Least Knowledge or Don't Talk to Strangers
+  - Low Coupling (LC): The goal of LoD is to reduce coupling by reducing the knowledge of a class about other classes.
+  - Tell, Don't Ask/Information Expert (TdA/IE): LoD is more specific than TdA/IE because TdA/IE can be applied in a wider context (e.g. for responsibility assignment). Applying TdA leads to solutions which are good according to LoD. Note that the reverse is not true: Accoring to LoD you may get and set values from an object passed as a parameter to a method.
+  - A method of an object should invoke only the methods of the following kinds of objects:
+    - itself
+    - its parameters
+    - any objects it creates/instantiates
+    - its direct component objects
 
 ## Old lectures
 
@@ -60,14 +68,3 @@ Additional topics:
   - https://github.com/HowProgrammingWorks/Command
 - [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
   - Слайды: https://www.slideshare.net/tshemsedinov/serverless-clouds-faas-and-request-context-isolation-in-nodejs
-
-## Additional topics
-
-- Law of Demeter (LoD) - Principle of Least Knowledge or Don't Talk to Strangers
-  - Low Coupling (LC): The goal of LoD is to reduce coupling by reducing the knowledge of a class about other classes.
-  - Tell, Don't Ask/Information Expert (TdA/IE): LoD is more specific than TdA/IE because TdA/IE can be applied in a wider context (e.g. for responsibility assignment). Applying TdA leads to solutions which are good according to LoD. Note that the reverse is not true: Accoring to LoD you may get and set values from an object passed as a parameter to a method.
-  - A method of an object should invoke only the methods of the following kinds of objects:
-    - itself
-    - its parameters
-    - any objects it creates/instantiates
-    - its direct component objects
