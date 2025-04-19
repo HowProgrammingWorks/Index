@@ -11,6 +11,7 @@
 - [🧩 JavaScript и TypeScript Patterns Q&A Call #13: Литература, курс, DDD, моделирование, софтскилы](https://youtu.be/4jcB_G_u8BY)
 - [🧩 Паттерны Actor, Reactor, Proactor для JavaScript и TypeScript: Шемсединов Тимур, Дмитрий Нечай](https://youtube.com/live/tpY01TLctAs)
 - [🧩 Доступ к данным в JavaScript TypeScript: Repository, Active Record, DTO, ORM, Query Builder, SAGA](https://www.youtube.com/watch?v=diH1VfV_38o)
+- [🧩 Оптимизация структур данных и паттернов — V8, JavaScript, TypeScript](https://youtube.com/live/PncSzdGTzk0)
 
 ## 2024
 
