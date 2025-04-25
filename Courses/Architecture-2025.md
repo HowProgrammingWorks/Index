@@ -15,6 +15,8 @@
 13. Communication styles: data, call, event, log sync, p2p, blockchain
 14. Feature-Sliced Design
 15. Architecture for Web: DDD for Frontend and Backend
+16. Data access patterns
+17. Asynchronous programming
 
 ## Students seminar topics
 
