@@ -17,6 +17,7 @@
 15. Architecture for Web: DDD for Frontend and Backend
 16. Data access patterns
 17. Asynchronous programming
+18. Imperative shell, Functional core
 
 ## Students seminar topics
 
