@@ -18,6 +18,8 @@
 16. Data access patterns
 17. Asynchronous programming
 18. Imperative shell, Functional core
+19. Multi-paradigm programming in Architecture
+20. Metaprogramming
 
 ## Students seminar topics
 
