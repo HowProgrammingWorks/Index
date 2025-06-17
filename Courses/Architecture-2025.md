@@ -96,28 +96,28 @@ Topic: please propose before call in 3-7 days
 
 - [Архитектурный подход к программированию](https://youtu.be/d_vyO2CkiOc)
 - [Слои, связанность и связность кода](https://youtu.be/A3RpwNlVeyY)
-  - Примеры кода: https://github.com/HowProgrammingWorks/Abstractions
+  - Примеры кода: https://github.com/HowProgrammingWorks/Abstractions
 - [Модули, слои, структура проекта, песочницы в JavaScript и Node.js](https://youtu.be/O7A9chb573E)
-  - Пример проекта: https://github.com/HowProgrammingWorks/Project
-  - Абстрактные слои: https://github.com/HowProgrammingWorks/AbstractionLayers
-  - Песочницы: https://github.com/HowProgrammingWorks/Sandboxes
+  - Пример проекта: https://github.com/HowProgrammingWorks/Project
+  - Абстрактные слои: https://github.com/HowProgrammingWorks/AbstractionLayers
+  - Песочницы: https://github.com/HowProgrammingWorks/Sandboxes
 - [Инверсия управления и внедрение зависимостей в Node.js](https://youtu.be/Fz86Fdjz-LM)
-  - Инверсия управления: https://github.com/HowProgrammingWorks/InversionOfControl
-  - Внедрение зависимостей: https://github.com/HowProgrammingWorks/DependencyInjection
+  - Инверсия управления: https://github.com/HowProgrammingWorks/InversionOfControl
+  - Внедрение зависимостей: https://github.com/HowProgrammingWorks/DependencyInjection
 - [Межпроцессовое взаимодействие в Node.js](https://youtu.be/2OXWZFMvfbc)
-  - Примеры кода: https://github.com/HowProgrammingWorks/InterProcessCommunication
+  - Примеры кода: https://github.com/HowProgrammingWorks/InterProcessCommunication
 - [Высоконагруженные распределенные приложения на Node.js](https://youtu.be/7tfZDABPvVs)
 - [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
-  - Примеры кода: https://github.com/HowProgrammingWorks/Transaction
+  - Примеры кода: https://github.com/HowProgrammingWorks/Transaction
 - [Разработка API на Node.js (клиент и сервер)](https://youtu.be/-az912XBCu8)
-  - Примеры кода: https://github.com/HowProgrammingWorks/API
+  - Примеры кода: https://github.com/HowProgrammingWorks/API
 - [CQS, CQRS, Event Sourcing - Разделение запросов и модификации данных](https://youtu.be/T2tRc80Q8Qw)
-  - CQS: https://github.com/HowProgrammingWorks/CQS
-  - CQRS: https://github.com/HowProgrammingWorks/CQRS
-  - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
+  - CQS: https://github.com/HowProgrammingWorks/CQS
+  - CQRS: https://github.com/HowProgrammingWorks/CQRS
+  - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
 - [Применение EventSourcing](https://youtu.be/kFNtKiK2SPs)
-  - https://github.com/HowProgrammingWorks/EventSourcing
-  - https://github.com/HowProgrammingWorks/CQRS
-  - https://github.com/HowProgrammingWorks/Command
+  - https://github.com/HowProgrammingWorks/EventSourcing
+  - https://github.com/HowProgrammingWorks/CQRS
+  - https://github.com/HowProgrammingWorks/Command
 - [Serverless Clouds (FaaS) и изоляция контекстов запросов в Node.js](https://youtu.be/x-Rd6fPV6L8)
-  - Слайды: https://www.slideshare.net/tshemsedinov/serverless-clouds-faas-and-request-context-isolation-in-nodejs
+  - Слайды: https://www.slideshare.net/tshemsedinov/serverless-clouds-faas-and-request-context-isolation-in-nodejs
