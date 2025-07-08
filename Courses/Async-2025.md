@@ -23,9 +23,9 @@
 | `async/await` | `AsyncCollector`          | `Mutex`            | `Observer`           | `Async.js`        |
 | `events`      | `Chain of responsibility` | `Spin Lock`        | `RxJS`               | `Metasync`        |
 | `streams`     | `Async Generator`         | `MessageChannel`   | `Future`             | `middleware`      |
-| `signals`     | `Async Iterator`          | `BroadcastChannel` | `coroutines`         |                   |
-| `locks`       |                           | `threads`          | `Actor Model`        |                   |
-|               |                           | `processes`        | `do`                 |                   |
+| `signals`     | `GoF pattern Iterator`    | `BroadcastChannel` | `coroutines`         |                   |
+| `locks`       | `Actor pattern`           | `threads`          | `Actor Model`        |                   |
+| `iterators`   | `Disposable`              | `processes`        | `do`                 |                   |
 
 Условные обозначения: ⭐ новые лекции, ✨ открытые старые лекции, 💯 обязательные, 🧑‍🎓 продвинутые, ⚙️ системные, 🧑‍🚀 по выбору, ⚠️ устаревшее, 🧩 необязательные темы, 💻 примеры кода, 🧑‍💻 задания
 
@@ -75,6 +75,10 @@
   - 💻 Примеры кода из старого курса: https://github.com/HowProgrammingWorks/AsyncAwait
   - 💻 Примеры кода: (готовятся), будут тут https://github.com/HowProgrammingWorks/AsyncErrorHandling
   - 🧑‍💻 Задания по обработке ошибок
+- 🧑‍🎓 Контракт `Disposable`
+  - ⭐ Явное управление ресурсами (Explicit Resource Management)
+  - ⭐ Подсчет ссылок и освобождение ресурсов на базе `Disposable`
+  - ⭐ Реализация концепции `Ownership` на базе `Disposable`
 - 🧑‍🎓 Асинхронная очередь `AsyncQueue`
   - ⭐ Асинхронная очередь (в платном курсе)
   - ✨ Конкурентная асинхронная очередь из старой лекции](https://youtu.be/Lg46AH8wFvg)
