@@ -12,6 +12,9 @@
 - [🧩 Паттерны Actor, Reactor, Proactor для JavaScript и TypeScript: Шемсединов Тимур, Дмитрий Нечай](https://youtube.com/live/tpY01TLctAs)
 - [🧩 Доступ к данным в JavaScript TypeScript: Repository, Active Record, DTO, ORM, Query Builder, SAGA](https://www.youtube.com/watch?v=diH1VfV_38o)
 - [🧩 Оптимизация структур данных и паттернов — V8, JavaScript, TypeScript](https://youtube.com/live/PncSzdGTzk0)
+- [🧩 Паттерны асинхронного и параллельного программирования для JavaScript и TypeScript — Patterns 2025](https://youtube.com/live/dUTXJX37AEE)
+- [🧩 IndexedDB — сравнение: три варианта доступа — нативное API, модель + репозиторий + сервис, DSL](https://youtu.be/gYdTQshjOGQ)
+- [💡 JavaScript: вдохновленные Rust концепции владения (ownership) и трейтов (trait) в ECMAScript](https://youtu.be/lnUfBHQAxw4)
 
 ## 2024
 
