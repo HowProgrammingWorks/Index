@@ -1,0 +1,31 @@
+# Functional programming
+
+- [Functions, lambdas, contexts, closures in JavaScript](https://youtu.be/pn5myCmpV2U)
+   - Functions: https://github.com/HowProgrammingWorks/Function
+   - Closures: https://github.com/HowProgrammingWorks/Closure
+- [Composition, currying, partial application in JavaScript](https://youtu.be/ND8KQ5xjk7o)
+   - Partial application: https://github.com/HowProgrammingWorks/PartialApplication
+   - Composition: https://github.com/HowProgrammingWorks/Composition
+- [High-order functions, callbacks, JavaScript events](https://youtu.be/1vqATwbGHnc)
+   - Higher order functions: https://github.com/HowProgrammingWorks/HigherOrderFunction
+   - Callback functions: https://github.com/HowProgrammingWorks/Callbacks
+- [Chaining of functions and objects, error handling in JavaScript](https://youtu.be/PfuEfIiLX34)
+   - Chaining: https://github.com/HowProgrammingWorks/Chaining
+   - Error handling: https://github.com/HowProgrammingWorks/Errors
+- [Recursion: indirect and tail, stack, output](https://youtu.be/W2skCjIgVKE)
+   - Examples of code: https://github.com/HowProgrammingWorks/Recursion
+- [Functional JavaScript programming](https://youtu.be/0JxSs_GcvbQ)
+   - Examples of code: https://github.com/HowProgrammingWorks/FunctionalProgramming
+- [Reactive JavaScript programming](https://youtu.be/7MH8-qQc-48)
+   - Examples of code: https://github.com/HowProgrammingWorks/ReactiveProgramming
+- [Projections and display of datasets in JavaScript](https://youtu.be/lwJCq9inky8)
+   - Code examples: https://github.com/HowProgrammingWorks/Projection
+- [Functional objects, functors and monads in JavaScript](https://youtu.be/3Z7f0Gi8pxw)
+   - Examples of code: https://github.com/HowProgrammingWorks/Functor
+- [Asynchronous functions and error handling](https://youtu.be/Jdf_tZuJbHI)
+   - Code examples: https://github.com/HowProgrammingWorks/AsyncAwait
+- [Lenses in JavaScript - functional analogs of getter and setter](https://youtu.be/IBF5gFU6G-o)
+   - Examples of code: https://github.com/HowProgrammingWorks/Lenses
+- [Asynchronous function composition](https://youtu.be/3ZCrMlMpOrM)
+   - Code examples: https://github.com/HowProgrammingWorks/AsyncCompose
+- [The Barbara Lyskov substitution principle](https://youtu.be/RbhYxygxroc)
