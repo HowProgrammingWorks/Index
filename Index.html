@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>itsmystuffbitchh.com</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 20px 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 2rem;
+            font-weight: bold;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-buttons {
+            display: flex;
+            gap: 15px;
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 1rem;
+        }
+
+        .btn-primary {
+            background: linear-gradient(45deg, #4f46e5, #7c3aed);
+            color: white;
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.8);
+            color: #4f46e5;
+            border: 2px solid #4f46e5;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 300px 1fr 280px;
+            gap: 30px;
+        }
+
+        .sidebar, .right-panel {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 25px;
+            height: fit-content;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .feed {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .profile-card {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .profile-avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            color: white;
+            margin: 0 auto 15px;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .profile-avatar:hover {
+            transform: scale(1.1);
+        }
+
+        .profile-name {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #1e293b;
+            margin-bottom: 5px;
+        }
+
+        .profile-username {
+            color: #6b7280;
+            margin-bottom: 15px;
+        }
+
+        .profile-stats {
+            display: flex;
+            justify-content: space-around;
+            background: #f8f9ff;
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #4f46e5;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #6b7280;
+        }
+
+        .post-composer {
+            background: #f8f9ff;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+            border: 2px dashed #e0e7ff;
+        }
+
+        .composer-input {
+            width: 100%;
+            border: none;
+            background: transparent;
+            font-size: 1.1rem;
+            padding: 15px 0;
+            outline: none;
+            resize: none;
+            min-height: 60px;
+            color: #1e293b;
+            font-family: inherit;
+        }
+
+        .composer-actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 15px;
+        }
+
+        .media-buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        .media-btn {
+            padding: 8px 16px;
+            background: rgba(79, 70, 229, 0.1);
+            border: none;
+            border-radius: 8px;
+            color: #4f46e5;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: background 0.3s ease;
+        }
+
+        .media-btn:hover {
+            background: rgba(79, 70, 229, 0.2);
+        }
+
+        .post {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease;
+        }
+
+        .post:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .post-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .post-avatar {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #ff9a9e, #fecfef);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            color: white;
+            margin-right: 15px;
+        }
+
+        .post-info h4 {
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 2px;
+        }
+
+        .post-info span {
+            font-size: 0.9rem;
+            color: #6b7280;
+        }
+
+        .post-content {
+            margin-bottom: 15px;
+            line-height: 1.6;
+            color: #374151;
+        }
+
+        .post-media {
+            margin-bottom: 15px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .post-image {
+            width: 100%;
+            height: auto;
+            max-height: 400px;
+            object-fit: cover;
+        }
+
+        .post-video {
+            width: 100%;
+            height: 300px;
+            border-radius: 12px;
+        }
+
+        .post-link {
+            background: #f8f9ff;
+            border: 1px solid #e0e7ff;
+            border-radius: 12px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .post-link a {
+            color: #4f46e5;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .post-actions {
+            display: flex;
+            gap: 20px;
+            padding-top: 15px;
+            border-top: 1px solid #f3f4f6;
+        }
+
+        .action-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: none;
+            border: none;
+            color: #6b7280;
+            cursor: pointer;
+            padding: 8px 12px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .action-btn:hover {
+            background: #f3f4f6;
+            color: #4f46e5;
+        }
+
+        .friends-section {
+            margin-bottom: 30px;
+        }
+
+        .section-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .friend-item {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+            border-radius: 8px;
+            margin-bottom: 5px;
+        }
+
+        .friend-item:hover {
+            background: #f8f9ff;
+        }
+
+        .friend-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #feca57, #ff9ff3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            margin-right: 12px;
+            font-size: 1rem;
+        }
+
+        .friend-info h5 {
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 2px;
+        }
+
+        .friend-info span {
+            font-size: 0.8rem;
+            color: #6b7280;
+        }
+
+        .add-friend-btn {
+            background: #10b981;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            margin-left: auto;
+        }
+
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .modal-content {
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            width: 90%;
+            max-width: 500px;
+            max-height: 80%;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        .modal h2 {
+            margin-bottom: 20px;
+            color: #1e293b;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #374151;
+        }
+
+        .form-group input, .form-group textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-family: inherit;
+        }
+
+        .form-group input:focus, .form-group textarea:focus {
+            outline: none;
+            border-color: #4f46e5;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: #6b7280;
+        }
+
+        .trending-section {
+            margin-bottom: 30px;
+        }
+
+        .trending-item {
+            padding: 12px 0;
+            border-bottom: 1px solid #f3f4f6;
+        }
+
+        .trending-item:last-child {
+            border-bottom: none;
+        }
+
+        .trending-topic {
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 5px;
+        }
+
+        .trending-stats {
+            font-size: 0.8rem;
+            color: #6b7280;
+        }
+
+        .file-input {
+            display: none;
+        }
+
+        .uploaded-preview {
+            max-width: 100%;
+            max-height: 200px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        #mediaPreview {
+            margin-top: 10px;
+        }
+
+        @media (max-width: 1024px) {
+            .main-content {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
+            .sidebar, .right-panel {
+                display: none;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .nav-buttons {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        .online-indicator {
+            width: 12px;
+            height: 12px;
+            background: #10b981;
+            border-radius: 50%;
+            position: absolute;
+            bottom: 2px;
+            right: 2px;
+            border: 2px solid white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">🔥 itsmystuffbitchh.com</div>
+            <div class="nav-buttons">
+                <button class="btn btn-secondary" onclick="openProfileModal()">👤 Profile</button>
+                <button class="btn btn-primary" onclick="openSignupModal()" id="authBtn">🚀 Sign Up</button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Left Sidebar -->
+            <div class="sidebar">
+                <div class="profile-card">
+                    <div class="profile-avatar" onclick="openProfileModal()">👤</div>
+                    <div class="profile-name" id="currentUserName">Guest User</div>
+                    <div class="profile-username" id="currentUsername">@guest</div>
+                    <div class="profile-stats">
+                        <div class="stat">
+                            <div class="stat-number" id="postsCount">0</div>
+                            <div class="stat-label">Posts</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number" id="friendsCount">5</div>
+                            <div class="stat-label">Friends</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number" id="likesCount">23</div>
+                            <div class="stat-label">Likes</div>
+                        </div>
+                    </div>
+                    <button class="btn btn-primary" onclick="openProfileModal()" style="width: 100%;">
+                        ✏️ Edit Profile
+                    </button>
+                </div>
+
+                <div class="friends-section">
+                    <div class="section-title">👥 Friends</div>
+                    <div id="friendsList">
+                        <div class="friend-item">
+                            <div class="friend-avatar">🎯</div>
+                            <div class="friend-info">
+                                <h5>Alex Johnson</h5>
+                                <span>@alexj</span>
+                            </div>
+                        </div>
+                        <div class="friend-item">
+                            <div class="friend-avatar">🌟</div>
+                            <div class="friend-info">
+                                <h5>Sarah Chen</h5>
+                                <span>@sarahc</span>
+                            </div>
+                        </div>
+                        <div class="friend-item">
+                            <div class="friend-avatar">🎨</div>
+                            <div class="friend-info">
+                                <h5>Creative Mike</h5>
+                                <span>@creativemike</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Feed -->
+            <div class="feed">
+                <!-- Post Composer -->
+                <div class="post-composer">
+                    <textarea class="composer-input" placeholder="What's on your mind? Share your stuff..." id="postContent"></textarea>
+                    <div id="mediaPreview"></div>
+                    <div class="composer-actions">
+                        <div class="media-buttons">
+                            <button class="media-btn" onclick="selectPhoto()">📷 Photo</button>
+                            <button class="media-btn" onclick="selectVideo()">🎥 Video</button>
+                            <button class="media-btn" onclick="addLink()">🔗 Link</button>
+                        </div>
+                        <button class="btn btn-primary" onclick="createPost()">🚀 Post</button>
+                    </div>
+                    <input type="file" id="photoInput" class="file-input" accept="image/*" onchange="handlePhotoUpload(this)">
+                    <input type="file" id="videoInput" class="file-input" accept="video/*" onchange="handleVideoUpload(this)">
+                </div>
+
+                <!-- Posts Feed -->
+                <div id="postsContainer">
+                    <!-- Sample Posts -->
+                    <div class="post">
+                        <div class="post-header">
+                            <div class="post-avatar">🎨</div>
+                            <div class="post-info">
+                                <h4>Creative Mike</h4>
+                                <span>2 hours ago</span>
+                            </div>
+                        </div>
+                        <div class="post-content">
+                            Check out my latest digital artwork! Spent all weekend working on this masterpiece. What do you think? 🎨✨
+                        </div>
+                        <div class="post-actions">
+                            <button class="action-btn" onclick="likePost(this)">❤️ <span>24</span></button>
+                            <button class="action-btn">💬 Comment</button>
+                            <button class="action-btn">🔄 Share</button>
+                        </div>
+                    </div>
+
+                    <div class="post">
+                        <div class="post-header">
+                            <div class="post-avatar">🌟</div>
+                            <div class="post-info">
+                                <h4>Travel Sarah</h4>
+                                <span>4 hours ago</span>
+                            </div>
+                        </div>
+                        <div class="post-content">
+                            Just discovered this amazing hidden gem in the mountains! The view is absolutely breathtaking 🏔️
+                        </div>
+                        <div class="post-link">
+                            <a href="https://maps.google.com" target="_blank">🌐 View on Google Maps</a>
+                        </div>
+                        <div class="post-actions">
+                            <button class="action-btn" onclick="likePost(this)">❤️ <span>56</span></button>
+                            <button class="action-btn">💬 Comment</button>
+                            <button class="action-btn">🔄 Share</button>
+                        </div>
+                    </div>
+
+                    <div class="post">
+                        <div class="post-header">
+                            <div class="post-avatar">🎵</div>
+                            <div class="post-info">
+                                <h4>Music Jake</h4>
+                                <span>6 hours ago</span>
+                            </div>
+                        </div>
+                        <div class="post-content">
+                            Working on some new beats in the studio! Can't wait to share this track with everyone 🎶
+                        </div>
+                        <div class="post-actions">
+                            <button class="action-btn" onclick="likePost(this)">❤️ <span>42</span></button>
+                            <button class="action-btn">💬 Comment</button>
+                            <button class="action-btn">🔄 Share</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Panel -->
+            <div class="right-panel">
+                <div class="trending-section">
+                    <div class="section-title">🔥 Trending</div>
+                    <div class="trending-item">
+                        <div class="trending-topic">#DigitalArt</div>
+                        <div class="trending-stats">1.2k posts today</div>
+                    </div>
+                    <div class="trending-item">
+                        <div class="trending-topic">#Travel2024</div>
+                        <div class="trending-stats">856 posts today</div>
+                    </div>
+                    <div class="trending-item">
+                        <div class="trending-topic">#TechLife</div>
+                        <div class="trending-stats">634 posts today</div>
+                    </div>
+                    <div class="trending-item">
+                        <div class="trending-topic">#Foodie</div>
+                        <div class="trending-stats">423 posts today</div>
+                    </div>
+                </div>
+
+                <div class="friends-section">
+                    <div class="section-title">🔍 Discover People</div>
+                    <div class="friend-item">
+                        <div class="friend-avatar">🎵</div>
+                        <div class="friend-info">
+                            <h5>DJ Remix</h5>
+                            <span>@djremix</span>
+                        </div>
+                        <button class="add-friend-btn" onclick="addFriend('djremix')">+ Add</button>
+                    </div>
+                    <div class="friend-item">
+                        <div class="friend-avatar">📸</div>
+                        <div class="friend-info">
+                            <h5>Photo Emma</h5>
+                            <span>@photoemma</span>
+                        </div>
+                        <button class="add-friend-btn" onclick="addFriend('photoemma')">+ Add</button>
+                    </div>
+                    <div class="friend-item">
+                        <div class="friend-avatar">💻</div>
+                        <div class="friend-info">
+                            <h5>Code Master</h5>
+                            <span>@codemaster</span>
+                        </div>
+                        <button class="add-friend-btn" onclick="addFriend('codemaster')">+ Add</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sign Up Modal -->
+    <div id="signupModal" class="modal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal('signupModal')">&times;</button>
+            <h2>🚀 Join itsmystuffbitchh.com</h2>
+            <div class="form-group">
+                <label>Full Name</label>
+                <input type="text" id="signupName" placeholder="Enter your full name">
+            </div>
+            <div class="form-group">
+                <label>Username</label>
+                <input type="text" id="signupUsername" placeholder="Choose a unique username">
+            </div>
+            <div class="form-group">
+                <label>Email</label>
+                <input type="email" id="signupEmail" placeholder="your@email.com">
+            </div>
+            <div class="form-group">
+                <label>Bio (Optional)</label>
+                <textarea id="signupBio" placeholder="Tell us about yourself..." rows="3"></textarea>
+            </div>
+            <button class="btn btn-primary" onclick="signUp()" style="width: 100%;">Create Account</button>
+            <p style="text-align: center; margin-top: 15px; color: #6b7280;">
+                Already have an account? <a href="#" onclick="showLogin()" style="color: #4f46e5;">Sign In</a>
+            </p>
+        </div>
+    </div>
+
+    <!-- Profile Modal -->
+    <div id="profileModal" class="modal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal('profileModal')">&times;</button>
+            <h2>👤 Your Profile</h2>
+            <div class="form-group">
+                <label>Profile Picture</label>
+                <input type="file" accept="image/*" onchange="updateAvatar(this)">
+            </div>
+            <div class="form-group">
+                <label>Full Name</label>
+                <input type="text" id="profileName" placeholder="Your full name">
+            </div>
+            <div class="form-group">
+                <label>Username</label>
+                <input type="text" id="profileUsername" placeholder="Your username">
+            </div>
+            <div class="form-group">
+                <label>Bio</label>
+                <textarea id="profileBio" placeholder="Tell us about yourself..." rows="4"></textarea>
+            </div>
+            <button class="btn btn-primary" onclick="saveProfile()" style="width: 100%;">Save Changes</button>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let currentUser = null;
+        let posts = [];
+        let currentMedia = null;
+
+        // Initialize the app
+        function initApp() {
+            // Set up some demo data
+            posts = [
+                {
+                    id: 1,
+                    author: 'Creative Mike',
+                    avatar: '🎨',
+                    content: 'Check out my latest digital artwork! Spent all weekend working on this masterpiece. What do you think? 🎨✨',
+                    timestamp: '2 hours ago',
+                    likes: 24
+                },
+                {
+                    id: 2,
+                    author: 'Travel Sarah',
+                    avatar: '🌟',
+                    content: 'Just discovered this amazing hidden gem in the mountains! The view is absolutely breathtaking 🏔️',
+                    timestamp: '4 hours ago',
+                    likes: 56,
+                    link: 'https://maps.google.com'
+                }
+            ];
+
+            updateStats();
+        }
+
+        // Modal functions
+        function openSignupModal() {
+            document.getElementById('signupModal').style.display = 'flex';
+        }
+
+        function openProfileModal() {
+            document.getElementById('profileModal').style.display = 'flex';
+            if (currentUser) {
+                document.getElementById('profileName').value = currentUser.name || '';
+                document.getElementById('profileUsername').value = currentUser.username || '';
+                document.getElementById('profileBio').value = currentUser.bio || '';
+            }
+        }
+
+        function closeModal(modalId) {
+            document.getElementById(modalId).style.display = 'none';
+        }
+
+        // Sign up function
+        function signUp() {
+            const name = document.getElementById('signupName').value.trim();
+            const username = document.getElementById('signupUsername').value.trim();
+            const email = document.getElementById('signupEmail').value.trim();
+            const bio = document.getElementById('signupBio').value.trim();
+
+            if (!name || !username || !email) {
+                alert('Please fill in all required fields!');
+                return;
+            }
+
+            // Create user
+            currentUser = {
+                name: name,
+                username: username,
+                email: email,
+                bio: bio,
+                avatar: getRandomEmoji()
+            };
+
+            updateUserDisplay();
+            closeModal('signupModal');
+            alert(`Welcome to itsmystuffbitchh.com, ${name}! 🎉`);
+
+            // Update auth button
+            const authBtn = document.getElementById('authBtn');
+            authBtn.textContent = '👋 Logout';
+            authBtn.onclick = logout;
+        }
+
+        // Update user display
+        function updateUserDisplay() {
+            if (currentUser) {
+                document.getElementById('currentUserName').textContent = currentUser.name;
+                document.getElementById('currentUsername').textContent = '@' + currentUser.username;
+                document.querySelector('.profile-avatar').textContent = currentUser.avatar;
+            }
+        }
+
+        // Save profile
+        function saveProfile() {
+            if (!currentUser) {
+                alert('Please sign up first!');
+                return;
+            }
+
+            const name = document.getElementById('profileName').value.trim();
+            const username = document.getElementById('profileUsername').value.trim();
+            const bio = document.getElementById('profileBio').value.trim();
+
+            if (name) currentUser.name = name;
+            if (username) currentUser.username = username;
+            if (bio) currentUser.bio = bio;
+
+            updateUserDisplay();
+            closeModal('profileModal');
+            alert('Profile updated successfully!');
+        }
+
+        // Media upload functions
+        function selectPhoto() {
+            document.getElementById('photoInput').click();
+        }
+
+        function selectVideo() {
+            document.getElementById('videoInput').click();
+        }
+
+        function handlePhotoUpload(input) {
+            const file = input.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                currentMedia = {
+                    type: 'image',
+                    url: e.target.result
+                };
+                
+                document.getElementById('mediaPreview').innerHTML = 
+                    `<img src="${e.target.result}" class="uploaded-preview" alt="Preview">`;
+            };
+            reader.readAsDataURL(file);
+        }
+
+        function handleVideoUpload(input) {
+            const file = input.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                currentMedia = {
+                    type: 'video',
+                    url: e.target.result
+                };
+                
+                document.getElementById('mediaPreview').innerHTML = 
+                    `<video src="${e.target.result}" class="uploaded-preview" controls></video>`;
+            };
+            reader.readAsDataURL(file);
+        }
+
+        function addLink() {
+            const url = prompt('Enter a link URL:');
+            if (url) {
+                const content = document.getElementById('postContent');
+                content.value += (content.value ? '\n\n' : '') + url;
+            }
+        }
+
+        // Create post function
+        function createPost() {
+            if (!currentUser) {
+                alert('Please sign up to create posts!');
+                openSignupModal();
+                return;
+            }
+
+            const content = document.getElementById('postContent').value.trim();
+            
+            if (!content && !currentMedia) {
+                alert('Please write something or add media!');
+                return;
+            }
+
+            // Create new post
+            const newPost = {
+                id: Date.now(),
+                author: currentUser.name,
+                avatar: currentUser.avatar,
+                content: content,
+                timestamp: 'Just now',
+                likes: 0,
+                media: currentMedia
+            };
+
+            // Add to posts array at beginning
+            posts.unshift(newPost);
+            
+            // Re-render posts
+            renderPosts();
+            updateStats();
+
+            // Clear composer
+            document.getElementById('postContent').value = '';
+            document.getElementById('mediaPreview').innerHTML = '';
+            currentMedia = null;
+
+            // Show success
+            alert('Post created successfully! 🎉');
+        }
+
+        // Render posts
+        function renderPosts() {
+            const container = document.getElementById('postsContainer');
+            
+            container.innerHTML = posts.map(post => {
+                let mediaHTML = '';
+                if (post.media) {
+                    if (post.media.type === 'image') {
+                        mediaHTML = `<div class="post-media"><img src="${post.media.url}" class="post-image" alt="Post image"></div>`;
+                    } else if (post.media.type === 'video') {
+                        mediaHTML = `<div class="post-media"><video src="${post.media.url}" class="post-video" controls></video></div>`;
+                    }
+                }
+
+                let linkHTML = '';
+                if (post.link) {
+                    linkHTML = `<div class="post-link"><a href="${post.link}" target="_blank">🌐 ${post.link}</a></div>`;
+                }
+
+                return `
+                    <div class="post">
+                        <div class="post-header">
+                            <div class="post-avatar">${post.avatar}</div>
+                            <div class="post-info">
+                                <h4>${post.author}</h4>
+                                <span>${post.timestamp}</span>
+                            </div>
+                        </div>
+                        <div class="post-content">${post.content}</div>
+                        ${mediaHTML}
+                        ${linkHTML}
+                        <div class="post-actions">
+                            <button class="action-btn" onclick="likePost(this)" data-post-id="${post.id}">❤️ <span>${post.likes}</span></button>
+                            <button class="action-btn">💬 Comment</button>
+                            <button class="action-btn">🔄 Share</button>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Like post function
+        function likePost(button) {
+            const postId = button.getAttribute('data-post-id');
+            const post = posts.find(p => p.id == postId);
+            
+            if (post) {
+                post.likes += 1;
+            } else {
+                // For demo posts without ID
+                const span = button.querySelector('span');
+                const currentLikes = parseInt(span.textContent);
+                span.textContent = currentLikes + 1;
+            }
+
+            // Animation effect
+            button.style.transform = 'scale(1.2)';
+            button.style.color = '#ef4444';
+            
+            setTimeout(() => {
+                button.style.transform = 'scale(1)';
+                button.style.color = '#6b7280';
+            }, 300);
+
+            // Update stats if it's current user's post
+            updateStats();
+        }
+
+        // Add friend function
+        function addFriend(username) {
+            if (!currentUser) {
+                alert('Please sign up to add friends!');
+                openSignupModal();
+                return;
+            }
+
+            alert(`Friend request sent to ${username}! 🤝`);
+            
+            // Update friend count
+            const friendsCount = document.getElementById('friendsCount');
+            const current = parseInt(friendsCount.textContent);
+            friendsCount.textContent = current + 1;
+        }
+
+        // Update stats
+        function updateStats() {
+            if (currentUser) {
+                const userPosts = posts.filter(p => p.author === currentUser.name);
+                const userLikes = userPosts.reduce((total, post) => total + post.likes, 0);
+                
+                document.getElementById('postsCount').textContent = userPosts.length;
+                document.getElementById('likesCount').textContent = userLikes;
+            }
+        }
+
+        // Update avatar
+        function updateAvatar(input) {
+            if (!currentUser) return;
+
+            const file = input.files[0];
+            if (file) {
+                // For demo, just change to random emoji
+                currentUser.avatar = getRandomEmoji();
+                updateUserDisplay();
+                alert('Profile picture updated! 📸');
+            }
+        }
+
+        // Logout function
+        function logout() {
+            currentUser = null;
+            
+            // Reset display
+            document.getElementById('currentUserName').textContent = 'Guest User';
+            document.getElementById('currentUsername').textContent = '@guest';
+            document.querySelector('.profile-avatar').textContent = '👤';
+            
+            // Reset stats
+            document.getElementById('postsCount').textContent = '0';
+            document.getElementById('friendsCount').textContent = '5';
+            document.getElementById('likesCount').textContent = '23';
+
+            // Update auth button
+            const authBtn = document.getElementById('authBtn');
+            authBtn.textContent = '🚀 Sign Up';
+            authBtn.onclick = openSignupModal;
+
+            alert('Logged out successfully! 👋');
+        }
+
+        // Show login (simplified for demo)
+        function showLogin() {
+            alert('Login feature coming soon! For now, just create a new account. 😊');
+        }
+
+        // Get random emoji
+        function getRandomEmoji() {
+            const emojis = ['🎯', '🌟', '🎨', '🚀', '💫', '🔥', '⚡', '🌈', '🎵', '📸', '💻', '🏆', '🎪', '🎭', '🦄', '🌸', '🍕', '🎮', '📱', '✨'];
+            return emojis[Math.floor(Math.random() * emojis.length)];
+        }
+
+        // Close modal when clicking outside
+        window.onclick = function(event) {
+            const modals = document.querySelectorAll('.modal');
+            modals.forEach(modal => {
+                if (event.target === modal) {
+                    modal.style.display = 'none';
+                }
+            });
+        }
+
+        // Initialize app when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            initApp();
+            
+            // Add some interactive demo features
+            setTimeout(() => {
+                console.log('🔥 itsmystuffbitchh.com is ready!');
+                console.log('Features available: Sign up, create posts, upload media, add friends!');
+            }, 1000);
+        });
+
+        // Add some demo notifications
+        setInterval(() => {
+            if (currentUser && Math.random() > 0.7) {
+                const notifications = [
+                    '🔔 Someone liked your post!',
+                    '🔔 New friend request!',
+                    '🔔 Your post is trending!',
+                    '🔔 Someone commented on your photo!'
+                ];
+                
+                const randomNotif = notifications[Math.floor(Math.random() * notifications.length)];
+                console.log(randomNotif);
+            }
+        }, 15000); // Every 15 seconds
+
+    </script>
+</body>
+</html>
