@@ -1,5 +1,9 @@
 # Conference and public talks
 
+## 2026
+
+- [🎙️ Всё изменилось навсегда! | Про AI: Тимур Шемсединов, Николай Фельдман](https://www.youtube.com/watch?v=Qa2JDlVsQYI)
+
 ## 2025
 
 - [🎙️ Холивары между парадигмами не имеют смысла — Виталий Брагилевский, Тимур Шемсединов, Деми Мурыч](https://www.youtube.com/watch?v=ES2NPqlDnek)
