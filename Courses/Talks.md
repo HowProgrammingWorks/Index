@@ -2,7 +2,9 @@
 
 ## 2026
 
-- [AI: Горизонт событий в IT — Влад Тен и Тимур Шемсединов](https://www.youtube.com/live/17RqGlJjb50)
+- [🎙️ AI: Горизонт событий в IT — Влад Тен и Тимур Шемсединов](https://www.youtube.com/live/17RqGlJjb50)
+- [🎙️ AI: Гонка без стратегии — Тимур Шемсединов и Metarhia](https://www.youtube.com/watch?v=C4giRiwGhB0)
+- [🎙️ Мидлу некогда развиваться в IT, AI наступает, кризис — Илья Климов, Тимур Шемсединов](https://www.youtube.com/watch?v=mSVCQ0VzIAo)
 - [🎙️ Всё изменилось навсегда! | Про AI: Тимур Шемсединов, Николай Фельдман](https://www.youtube.com/watch?v=Qa2JDlVsQYI)
 - [🎙️ Browser is a new OS](https://www.youtube.com/live/nTm8qhB-sjk)
 - [🎙️ Куда мы идем: политические режимы в эпоху AI](https://youtu.be/DV6AYHrtBeU)
