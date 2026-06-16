@@ -1,0 +1,25 @@
+# Practical projects
+
+- Abstractions (class, prototype, function, functor, module, pattern, on other complex abstraction) for:
+  - Data structures: specific lists, trees, or graphs with methods for traversal and iteration
+  - Algorithms: implementation of known math or physics calculations, data manipulations, etc.
+  - Access to I/O devices, operation system, other applications, timers and different sensors
+- Syntax sugar for any programming language to express domain processes in expressive and simple way
+- DSL (Domain specific language) runtime, interpreter, compiler, linter, style fixers and tools
+- Games: web, console, mobile of any kind but with good patterns, project structure and code style
+- Parsing tools for any formal or informal language
+- Crawler and search engines
+- Examples, tests and documentation for lectures, frameworks, and libraries
+- Fixes, contribution, features, and bug-reproduction reports for open-source projects
+- System programming
+  - Data access abstractions, repository implementation, query builder for persistent queue, column or relational db
+  - Network protocols for message passing, rpc, api, rest or stateful, 
+  - Reactive abstractions
+  - Asynchronous programming abstractions
+  - Parallel programming abstractions
+- Applied applications, their subsystems, or separate modules
+  - CRM, ERP, SCM, Warehouse systems, 
+  - Medical information systems
+  - Production automation and management information systems
+  - Any other custom-made information systems
+- Your own project

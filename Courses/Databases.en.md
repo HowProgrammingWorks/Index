@@ -1,0 +1,28 @@
+# Database design
+
+- [Databases in 2020 (introduction, history, state)](https://youtu.be/8RjT2VYBWNQ)
+   - Slides: https://www.slideshare.net/tshemsedinov/2020-228734914
+- [Introduction to SQL: SELECT](https://youtu.be/Z679c8S0d7I)
+   - Slides: https://www.slideshare.net/tshemsedinov/sql-structured-query-language-228735217
+- [Introduction to SQL: CREATE, ALTER, DROP, keys, indexes](https://youtu.be/QF0v29ZneYE)
+- [PostgreSQL: installation, configuration, console](https://youtu.be/Fm6yLb8qCh4)
+- [Databases: ER, ERD, IDEF1x, entity-connection](https://youtu.be/ByWfj3e0HnE)
+- [SQL SELECT: math functions, aliases, limit, with, into](https://youtu.be/lle4Yp58z6k)
+- SQL JOINS: CROSS, INNER, LEFT, RIGHT, FULL
+- Normal forms
+- [Data access layer, cursor, transaction](https://youtu.be/CRcSWtWVvrA)
+   - Examples of code: https://github.com/HowProgrammingWorks/Transaction
+- [Working with databases in Node.js using PostgreSQL as an example](https://youtu.be/2tDvHQCBt3w)
+   - Examples of code: https://github.com/HowProgrammingWorks/Databases
+- [CQS, CQRS, Event Sourcing - Separation of requests and data modifications](https://youtu.be/T2tRc80Q8Qw)
+   - CQS: https://github.com/HowProgrammingWorks/CQS
+   - CQRS: https://github.com/HowProgrammingWorks/CQRS
+   - EventSourcing: https://github.com/HowProgrammingWorks/EventSourcing
+- Three-tier database applications
+- SQL injections and protection against them
+- [Application of EventSourcing](https://youtu.be/kFNtKiK2SPs)
+   - https://github.com/HowProgrammingWorks/EventSourcing
+   - https://github.com/HowProgrammingWorks/CQRS
+   - https://github.com/HowProgrammingWorks/Command
+- [Security of Node.js applications](https://youtu.be/Pdfo1G-gI6s)
+   - Slides: https://www.slideshare.net/tshemsedinov/nodejs-security-199004963
